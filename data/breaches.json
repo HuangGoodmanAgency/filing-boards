@@ -1,0 +1,35 @@
+{
+  "source": "SEC EDGAR",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Free to use with credit to POPS4.",
+  "generated": "2026-09-17T14:25:31.787Z",
+  "tracker": "breaches",
+  "rows": [
+    {
+      "id": "0000885725-26-000059",
+      "company": "BOSTON SCIENTIFIC CORP",
+      "cik": "885725",
+      "form": "8-K",
+      "items": [
+        "1.05"
+      ],
+      "ticker": "BSX",
+      "exchange": "NYSE",
+      "sector": "Surgical & Medical Instruments & Apparatus",
+      "filerCategory": "Large accelerated filer",
+      "revenue": 20074000000,
+      "revenueFY": "2025",
+      "city": "MARLBOROUGH",
+      "hq": "MA",
+      "formerName": null,
+      "event": "2026-09-07",
+      "quote": null,
+      "sic": "3841",
+      "state": "DE",
+      "filed": "2026-09-08",
+      "deadline": "2026-10-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000059/0000885725-26-000059-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=885725&type=8-K&dateb=&owner=include&count=40"
+    }
+  ]
+}

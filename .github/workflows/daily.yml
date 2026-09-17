@@ -1,0 +1,72 @@
+name: Refresh filing boards
+
+# Pulls the current tables from the live boards and commits them if they
+# changed. Needs no credentials — the boards are public. If an HF_TOKEN
+# repository secret exists, the same files are mirrored to Hugging Face.
+on:
+  schedule:
+    # 13:20 UTC on business days, after the SEC daily index has settled.
+    - cron: '20 13 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the boards
+        run: |
+          set -euo pipefail
+          BASE="https://www.pops4.com/boards"
+          BOARDS="breaches charter-amendments mergers agreements restructuring cmo-moves ipo-watch annual-meetings"
+          mkdir -p data
+          for b in $BOARDS; do
+            curl -fsS --retry 3 --retry-delay 5 --max-time 90 "$BASE/$b.csv?limit=1000"  -o "data/$b.csv"
+            curl -fsS --retry 3 --retry-delay 5 --max-time 90 "$BASE/$b.json?limit=1000" -o "data/$b.json"
+          done
+          curl -fsS --retry 3 --max-time 60 "$BASE/all.json" -o data/index.json
+
+      - name: Refuse to commit an empty pull
+        run: |
+          set -euo pipefail
+          for f in data/*.csv; do
+            # A CSV that is header-only means the fetch succeeded but returned
+            # nothing. Committing that would overwrite good data with an empty
+            # file, which is exactly how a sync wipes a dataset.
+            if [ "$(wc -l < "$f")" -lt 2 ] && [ "$(basename "$f")" != "breaches.csv" ]; then
+              echo "::error::$f came back empty — aborting rather than overwriting"
+              exit 1
+            fi
+          done
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "pops4-boards"
+          git config user.email "billing@pops4.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no change today"
+          else
+            git commit -m "Filing boards: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Mirror to Hugging Face
+        if: ${{ env.HF_TOKEN != '' }}
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: ${{ vars.HF_REPO }}
+        run: |
+          set -euo pipefail
+          pip install --quiet "huggingface_hub[cli]"
+          hf upload "${HF_REPO:-pops4/filing-boards}" data data \
+            --repo-type dataset --token "$HF_TOKEN" \
+            --commit-message "Filing boards: $(date -u +%Y-%m-%d)"
+          hf upload "${HF_REPO:-pops4/filing-boards}" huggingface/README.md README.md \
+            --repo-type dataset --token "$HF_TOKEN" \
+            --commit-message "Dataset card"

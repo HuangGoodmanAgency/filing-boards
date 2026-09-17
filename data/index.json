@@ -1,0 +1,73 @@
+{
+  "source": "SEC EDGAR",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Free to use with credit to POPS4.",
+  "generated": "2026-09-17T14:25:49.275Z",
+  "swept": 1713,
+  "trackers": [
+    {
+      "key": "breaches",
+      "title": "Breach Clock",
+      "sub": "SEC 8-K Item 1.05 · every filer · same day",
+      "line": "secure print",
+      "scope": "SEC 8-K Item 1.05",
+      "rows": 1
+    },
+    {
+      "key": "charter-amendments",
+      "title": "Charter Amendments",
+      "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
+      "line": "full reprint",
+      "scope": "SEC 8-K Item 5.03",
+      "rows": 59
+    },
+    {
+      "key": "mergers",
+      "title": "Identity Mergers",
+      "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
+      "line": "identity integration",
+      "scope": "SEC 8-K Item 2.01, 5.01",
+      "rows": 39
+    },
+    {
+      "key": "agreements",
+      "title": "Material Agreements",
+      "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
+      "line": "partnership programs",
+      "scope": "SEC 8-K Item 1.01",
+      "rows": 294
+    },
+    {
+      "key": "restructuring",
+      "title": "Restructuring",
+      "sub": "SEC 8-K Item 2.05 · costs associated with exit or disposal",
+      "line": "vendor consolidation",
+      "scope": "SEC 8-K Item 2.05",
+      "rows": 6
+    },
+    {
+      "key": "cmo-moves",
+      "title": "Officer Moves",
+      "sub": "SEC 8-K Item 5.02 · departures and appointments",
+      "line": "rebrand and launch",
+      "scope": "SEC 8-K Item 5.02",
+      "rows": 338
+    },
+    {
+      "key": "ipo-watch",
+      "title": "IPO Watch",
+      "sub": "SEC Form S-1 · companies registering to go public",
+      "line": "listing-day build-out",
+      "scope": "SEC Form S-1",
+      "rows": 30
+    },
+    {
+      "key": "annual-meetings",
+      "title": "Annual Meetings",
+      "sub": "SEC Form DEF 14A · definitive proxy statements",
+      "line": "event programs",
+      "scope": "SEC Form DEF 14A",
+      "rows": 66
+    }
+  ]
+}
