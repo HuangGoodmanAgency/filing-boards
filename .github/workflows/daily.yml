@@ -56,17 +56,28 @@ jobs:
             git push
           fi
 
+      # Skipped silently until an HF_TOKEN secret exists, so the daily refresh
+      # works from day one and Hugging Face can be switched on later.
       - name: Mirror to Hugging Face
-        if: ${{ env.HF_TOKEN != '' }}
+        if: ${{ secrets.HF_TOKEN != '' }}
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_REPO: ${{ vars.HF_REPO }}
+          HF_REPO: ${{ vars.HF_REPO || 'pops4/filing-boards' }}
         run: |
           set -euo pipefail
-          pip install --quiet "huggingface_hub[cli]"
-          hf upload "${HF_REPO:-pops4/filing-boards}" data data \
-            --repo-type dataset --token "$HF_TOKEN" \
-            --commit-message "Filing boards: $(date -u +%Y-%m-%d)"
-          hf upload "${HF_REPO:-pops4/filing-boards}" huggingface/README.md README.md \
-            --repo-type dataset --token "$HF_TOKEN" \
-            --commit-message "Dataset card"
+          pip install --quiet huggingface_hub
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          repo = os.environ["HF_REPO"]
+          api.create_repo(repo, repo_type="dataset", exist_ok=True)
+          # The dataset card is the repo's own README on Hugging Face.
+          api.upload_file(path_or_fileobj="huggingface/README.md",
+                          path_in_repo="README.md",
+                          repo_id=repo, repo_type="dataset")
+          api.upload_folder(folder_path="data", path_in_repo="data",
+                            repo_id=repo, repo_type="dataset",
+                            commit_message="Filing boards refresh")
+          print("mirrored to", repo)
+          PY
