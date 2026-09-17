@@ -41,7 +41,7 @@ Eight tables built from United States SEC filings, refreshed daily, each row lin
 original document on EDGAR.
 
 Live boards: **https://www.pops4.com/boards**
-Source repository: **https://github.com/POPS4/filing-boards**
+Source repository: **https://github.com/HuangGoodmanAgency/filing-boards**
 
 ## What makes this dataset unusual
 
