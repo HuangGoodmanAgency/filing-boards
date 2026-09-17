@@ -2,7 +2,7 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-17T14:25:44.413Z",
+  "generated": "2026-09-17T14:52:06.725Z",
   "tracker": "cmo-moves",
   "rows": [
     {
@@ -750,7 +750,7 @@
       "hq": "TX",
       "formerName": null,
       "event": "2026-09-14",
-      "quote": null,
+      "quote": "Ms. Kalter brings more than four decades of experience across the medical device and healthcare industries, including extensive senior-level experience at Medtronic, one of the world’s largest and most diversified medical technology companies.",
       "sic": "3841",
       "state": "DE",
       "filed": "2026-09-16",

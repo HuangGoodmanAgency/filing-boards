@@ -2,7 +2,7 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-17T14:25:38.645Z",
+  "generated": "2026-09-17T14:52:02.311Z",
   "tracker": "agreements",
   "rows": [
     {
@@ -619,7 +619,7 @@
       "hq": "UT",
       "formerName": "Chelsea Worldwide Inc.",
       "event": "2026-09-15",
-      "quote": null,
+      "quote": "The offering was led by Clene’s Chairman of the Board of Directors, David Matlin, alongside founding investor Kensington Capital Holdings, Clene’s Chief Executive Officer and other existing shareholders.",
       "sic": "2834",
       "state": "DE",
       "filed": "2026-09-16",
