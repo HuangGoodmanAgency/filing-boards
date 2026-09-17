@@ -15,6 +15,11 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      # secrets.* cannot be used in an if: condition, so it is lifted here and
+      # the mirror step tests env instead. Absent secret = empty string = skip.
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HF_REPO: ${{ vars.HF_REPO || 'jennyota/filing-boards' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -59,10 +64,7 @@ jobs:
       # Skipped silently until an HF_TOKEN secret exists, so the daily refresh
       # works from day one and Hugging Face can be switched on later.
       - name: Mirror to Hugging Face
-        if: ${{ secrets.HF_TOKEN != '' }}
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_REPO: ${{ vars.HF_REPO || 'jennyota/filing-boards' }}
+        if: env.HF_TOKEN != ''
         run: |
           set -euo pipefail
           pip install --quiet huggingface_hub
