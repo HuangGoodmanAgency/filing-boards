@@ -62,7 +62,7 @@ jobs:
         if: ${{ secrets.HF_TOKEN != '' }}
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_REPO: ${{ vars.HF_REPO || 'HuangGoodmanAgency/filing-boards' }}
+          HF_REPO: ${{ vars.HF_REPO || 'jennyota/filing-boards' }}
         run: |
           set -euo pipefail
           pip install --quiet huggingface_hub
