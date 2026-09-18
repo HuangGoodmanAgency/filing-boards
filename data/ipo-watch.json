@@ -2,9 +2,113 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-17T14:52:08.303Z",
+  "generated": "2026-09-18T17:06:17.952Z",
   "tracker": "ipo-watch",
+  "fields": {
+    "id": {
+      "from": "EDGAR accession number — the filing's own primary key."
+    },
+    "company": {
+      "from": "Conformed company name, as the filer states it in the filing header."
+    },
+    "cik": {
+      "from": "SEC Central Index Key for the filer."
+    },
+    "form": {
+      "from": "SEC form type. Always 8-K on these boards."
+    },
+    "items": {
+      "from": "The 8-K item numbers the FILER declared, read from the filing's .hdr.sgml <ITEMS> element.",
+      "note": "The filer’s own label, not our classification. Boards are selections of these numbers, nothing more."
+    },
+    "ticker": {
+      "from": "The SEC's own company_tickers file.",
+      "note": "null when the filer has no listed ticker."
+    },
+    "exchange": {
+      "from": "Exchange of record, from that same SEC file."
+    },
+    "sector": {
+      "from": "The SEC's sicDescription for the filer's assigned SIC code, unmodified.",
+      "note": "Falls back to the filing header's ORGANIZATION-NAME when companyfacts carries none."
+    },
+    "filerCategory": {
+      "from": "EDGAR filer category, e.g. \"Large accelerated filer\".",
+      "note": "Unmodified apart from stripping markup."
+    },
+    "revenue": {
+      "from": "Annual revenue in USD from the filer's OWN XBRL company facts: form 10-K, FY period, most recent by period end. First match of RevenueFromContractWithCustomerExcludingAssessedTax, Revenues, SalesRevenueNet, RevenueFromContractWithCustomerIncludingAssessedTax.",
+      "note": "null when the filer reports none under those concepts. Present on roughly 3 filers in 5."
+    },
+    "revenueFY": {
+      "from": "Fiscal year of that revenue figure, from the same fact's period end."
+    },
+    "city": {
+      "from": "Business address city on EDGAR, falling back to the filing header."
+    },
+    "hq": {
+      "from": "Business address state on EDGAR, falling back to the filing header.",
+      "note": "Where the company operates. NOT the same as `state`."
+    },
+    "formerName": {
+      "from": "FORMER-CONFORMED-NAME from the filer's own header.",
+      "note": "Present only when the filer has actually renamed."
+    },
+    "event": {
+      "from": "PERIOD from the filing header — the date of the event itself.",
+      "note": "Deliberately separate from `filed`. They are often different days."
+    },
+    "quote": {
+      "from": "One VERBATIM sentence from the filing's press-release exhibit.",
+      "note": "Never paraphrased, never summarised, always a whole sentence. null when the filing has no exhibit, the file exceeded our size limit, or no sentence qualified. Present on roughly 1 row in 3."
+    },
+    "sic": {
+      "from": "ASSIGNED-SIC from the filing header."
+    },
+    "state": {
+      "from": "STATE-OF-INCORPORATION from the filing header.",
+      "note": "Where the company is incorporated. NOT where it operates — see `hq`."
+    },
+    "filed": {
+      "from": "Date EDGAR accepted the filing."
+    },
+    "deadline": {
+      "from": "COMPUTED BY US: `filed` plus 30 calendar days. Breach Clock only, null on every other board.",
+      "note": "Not a date from any document. 30 is the shortest common statutory notification window; real obligations follow where affected residents live, so one breach runs several clocks."
+    },
+    "source": {
+      "from": "Link to the filing's own index page on sec.gov.",
+      "note": "Every row on these boards resolves to this document. This is the field that makes the rest checkable."
+    },
+    "profile": {
+      "from": "Link to the filer's 8-K history on EDGAR."
+    }
+  },
   "rows": [
+    {
+      "id": "0001437749-26-030676",
+      "company": "GeoVax Labs, Inc.",
+      "cik": "832489",
+      "form": "S-1",
+      "items": [],
+      "ticker": "GOVX",
+      "exchange": "Nasdaq",
+      "sector": "Pharmaceutical Preparations",
+      "filerCategory": "Non-accelerated filer · Smaller reporting company",
+      "revenue": 2489145,
+      "revenueFY": "2025",
+      "city": "SMYRNA",
+      "hq": "GA",
+      "formerName": "Geovax Labs, Inc.",
+      "event": null,
+      "quote": null,
+      "sic": "2834",
+      "state": "DE",
+      "filed": "2026-09-17",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/832489/000143774926030676/0001437749-26-030676-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=832489&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001185185-26-004071",
       "company": "Lower Cross Acquisitions Corp",
@@ -467,12 +571,12 @@
       "cik": "1378140",
       "form": "S-1",
       "items": [],
-      "ticker": null,
-      "exchange": null,
-      "sector": "Energy & Transportation",
-      "filerCategory": null,
-      "revenue": null,
-      "revenueFY": null,
+      "ticker": "OPTT",
+      "exchange": "NYSE",
+      "sector": "Electric Services",
+      "filerCategory": "Non-accelerated filer · Smaller reporting company",
+      "revenue": 700000,
+      "revenueFY": "2026",
       "city": "MONROE TOWNSHIP",
       "hq": "NJ",
       "formerName": "Ocean Power Technologies, INc.",
