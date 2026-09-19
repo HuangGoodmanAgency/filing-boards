@@ -33,11 +33,13 @@ configs:
     data_files: data/restructuring.csv
   - config_name: breaches
     data_files: data/breaches.csv
+  - config_name: auditor-watch
+    data_files: data/auditor-watch.csv
 ---
 
 # POPS4 Filing Boards
 
-Eight tables built from United States SEC filings, refreshed daily, each row linked to the
+Nine tables built from United States SEC filings, refreshed every business day, each row linked to the
 original document on EDGAR.
 
 Live boards: **https://www.pops4.com/boards**
@@ -69,6 +71,16 @@ independently checkable against a public primary document.
 | `ipo-watch` | Form S-1 | Companies registering to go public |
 | `restructuring` | 8-K Item 2.05 | Costs associated with exit or disposal activities |
 | `breaches` | 8-K Item 1.05 | Material cybersecurity incidents |
+| `auditor-watch` | 8-K Items 4.01, 4.02 | Auditor changes, and non-reliance on earlier financial statements |
+
+## Edgar & Edgarette
+
+The same boards are live at https://www.pops4.com/boards, read by two voices: **Edgar**, who
+reports what was filed, and **Edgarette**, an actuarial reading of any SEC filer (exposure,
+experience, credibility, an 80% range, peers). Her range held 76% of past company-years
+against an 80% target, and every miss is published at https://www.pops4.com/boards/scorecard.
+Any AI can reach both through the open MCP endpoint https://www.pops4.com/boards/mcp. Numbers,
+never buy or sell views.
 
 ## Fields
 
@@ -88,6 +100,8 @@ independently checkable against a public primary document.
 - `deadline` uses the shortest common statutory notification window. Real obligations follow
   where affected residents live, so one incident can run several clocks. It is an indicator,
   not legal advice.
+- Item 4.01 (auditor change) is often routine; the `auditor-watch` config records the filing
+  and implies nothing more.
 - Coverage deliberately undercounts rather than guessing.
 
 ## Licence and attribution

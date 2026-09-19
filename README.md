@@ -1,6 +1,6 @@
 # POPS4 Filing Boards
 
-**Eight public tables built from United States SEC filings, published the day those filings appear.**
+**Nine public tables built from United States SEC filings, published the day those filings appear.**
 
 Live boards: **https://www.pops4.com/boards**
 Licence: **CC BY 4.0** — free to use with credit to POPS4.
@@ -28,6 +28,28 @@ The only claim any row makes is *this company filed this document on this date*,
 is or is not true, and can be checked in one click. Where a filing is ambiguous we undercount
 rather than guess.
 
+## Edgar & Edgarette
+
+The boards have two voices, and both keep the rule above.
+
+- **Edgar, the reporter**, says what happened: who filed what with the SEC, and when.
+- **Edgarette, the actuary**, says what it means in numbers, in the order of an actuarial report
+  (ASOP No. 41, 25, 23): exposure, experience, credibility, an 80% range, cautions, and a
+  comparison with industry peers. Every figure is the company's own, from its audited filings.
+
+Ask about any SEC filer at `https://www.pops4.com/boards/ask.json?q=PEP`, in the box on any
+board, or through the MCP tool `get_company_performance`.
+
+- **The 80% range is tested, not asserted.** It is set from 7,847 SEC company-years; held
+  against the company's own past years it landed inside the range 76% of the time, against an
+  80% target. The first method held only 26% and was retired.
+- **Misses are published.** Every range is logged once per company per fiscal year and scored
+  when the next 10-K arrives: `https://www.pops4.com/boards/scorecard`.
+- **Credibility moves with the record.** When a company files 8-K Item 4.02 (earlier statements
+  should no longer be relied on), Edgarette marks her weight down one step until a new 10-K is
+  filed, and links the filing.
+- **Numbers, never advice.** No buy or sell views, no price targets, no positions held.
+
 ## The boards
 
 | File | Filing | What it records |
@@ -40,6 +62,7 @@ rather than guess.
 | `restructuring` | 8-K Item 2.05 | Costs associated with exit or disposal activities |
 | `ipo-watch` | Form S-1 | Companies registering to go public |
 | `annual-meetings` | Form DEF 14A | Definitive proxy statements |
+| `auditor-watch` | 8-K Items 4.01, 4.02 | Auditor changes, and non-reliance on earlier financial statements |
 
 ## Columns
 
@@ -64,8 +87,8 @@ rather than guess.
 
 ## How it is built
 
-The SEC publishes a machine-readable index of every filing, every business day, free. Twice an
-hour during market hours a worker reads that index and fetches each filing's 852-byte header
+The SEC publishes a machine-readable index of every filing, every business day, free. Every
+hour on business days a worker reads that index and fetches each filing's 852-byte header
 sidecar, which carries the filing's own item tags, industry code, state of incorporation and
 event date.
 
@@ -77,7 +100,11 @@ sentence from the press release exhibit. A third pass caches company facts per f
 
 - **JSON and CSV per board** — in `data/`, and live at `https://www.pops4.com/boards/<board>.json`
 - **RSS** — `https://www.pops4.com/boards/<board>/feed.xml`
-- **MCP** — `https://www.pops4.com/boards/mcp`, open, no authentication, eight tools
+- **MCP** — `https://www.pops4.com/boards/mcp`, open, no authentication, twelve tools: one per
+  board, plus `get_company_performance` (Edgarette's card), `watch_company` and `price_program`
+- **Ask Edgar & Edgarette** — `https://www.pops4.com/boards/ask.json?q=<name, ticker or CIK>`
+- **Weekly report** — `https://www.pops4.com/boards/report` · **Scorecard** — `https://www.pops4.com/boards/scorecard`
+- **For developers and AIs** — `https://www.pops4.com/boards/developers` · `https://www.pops4.com/boards/llms.txt`
 - **Embeddable table** — `https://www.pops4.com/boards/<board>/embed`
 - **Google Dataset Search** — every board carries `schema.org/Dataset` markup
 
@@ -97,6 +124,8 @@ present it also pushes the same files to Hugging Face.
 - The breach deadline column uses the shortest common statutory window. Real notification
   obligations follow where affected residents live, so a single incident can run several
   clocks. Treat the column as an indicator, not legal advice.
+- Item 4.01 (auditor change) is often routine: a firm merger or a fee decision. The board
+  records the filing and says nothing more about it.
 - We undercount. That is deliberate.
 
 ## Source

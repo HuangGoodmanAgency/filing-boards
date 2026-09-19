@@ -8,6 +8,14 @@ on:
     # 13:20 UTC on business days, after the SEC daily index has settled.
     - cron: '20 13 * * 1-5'
   workflow_dispatch:
+  # A change to the dataset card or this workflow is mirrored straight away
+  # instead of waiting for the next business day. Data-only commits made by
+  # this workflow do not match these paths, so it cannot trigger itself.
+  push:
+    branches: [main]
+    paths:
+      - 'huggingface/**'
+      - '.github/workflows/daily.yml'
 
 permissions:
   contents: write
@@ -27,7 +35,7 @@ jobs:
         run: |
           set -euo pipefail
           BASE="https://www.pops4.com/boards"
-          BOARDS="breaches charter-amendments mergers agreements restructuring cmo-moves ipo-watch annual-meetings"
+          BOARDS="breaches charter-amendments mergers agreements restructuring cmo-moves ipo-watch annual-meetings auditor-watch"
           mkdir -p data
           for b in $BOARDS; do
             curl -fsS --retry 3 --retry-delay 5 --max-time 90 "$BASE/$b.csv?limit=1000"  -o "data/$b.csv"
