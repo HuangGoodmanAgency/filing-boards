@@ -2,7 +2,7 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-18T17:06:11.676Z",
+  "generated": "2026-09-19T18:36:23.895Z",
   "tracker": "restructuring",
   "fields": {
     "id": {
@@ -175,12 +175,12 @@
       "items": [
         "2.05"
       ],
-      "ticker": "TTD",
-      "exchange": "Nasdaq",
-      "sector": "Services-Computer Programming, Data Processing, Etc.",
-      "filerCategory": "Large accelerated filer",
-      "revenue": 2896284000,
-      "revenueFY": "2025",
+      "ticker": null,
+      "exchange": null,
+      "sector": "Technology",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
       "city": "VENTURA",
       "hq": "CA",
       "formerName": null,

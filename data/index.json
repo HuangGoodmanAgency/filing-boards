@@ -2,7 +2,7 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-18T17:06:20.189Z",
+  "generated": "2026-09-19T18:36:32.172Z",
   "swept": 1893,
   "fields": "https://www.pops4.com/boards/fields.json",
   "trackers": [
@@ -69,6 +69,14 @@
       "line": "event programs",
       "scope": "SEC Form DEF 14A",
       "rows": 70
+    },
+    {
+      "key": "auditor-watch",
+      "title": "Auditor Watch",
+      "sub": "SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance",
+      "line": "investor communications",
+      "scope": "SEC 8-K Item 4.01, 4.02",
+      "rows": 18
     }
   ]
 }
