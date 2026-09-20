@@ -56,6 +56,10 @@ jobs:
             fi
           done
 
+      # IndexNow from GitHub's network: Workers get 429 for the same payload.
+      - name: Tell the search engines about new board pages
+        run: python3 tools/indexnow.py
+
       - name: Commit if changed
         run: |
           set -euo pipefail
