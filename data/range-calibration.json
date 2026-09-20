@@ -2,6 +2,51 @@
  "live": {
   "bands": {
    "all": {
+    "n": 11128,
+    "p10": -0.2131,
+    "p90": 0.2136
+   },
+   "b00": {
+    "n": 749,
+    "p10": -0.2661,
+    "p90": 0.3178
+   },
+   "b01": {
+    "n": 4309,
+    "p10": -0.2112,
+    "p90": 0.2678
+   },
+   "b1": {
+    "n": 4599,
+    "p10": -0.2047,
+    "p90": 0.1787
+   },
+   "b10": {
+    "n": 1471,
+    "p10": -0.2096,
+    "p90": 0.1342
+   }
+  },
+  "built": "2026-09-20",
+  "coverage": 0.8,
+  "coverageTest": 0.8315,
+  "fitYears": [
+   2018,
+   2019,
+   2020,
+   2021,
+   2022
+  ],
+  "label": "v3",
+  "method": "v3: baseline = revenue x (1 + mean of one-year and three-year pace); band = credibility-blended p10..p90 of outcomes by size, scaled to the 80% target on a tuning year",
+  "minRevenue": 50000000.0,
+  "scale": 0.69,
+  "testYear": 2024,
+  "tuneYear": 2023
+ },
+ "retired": {
+  "bands": {
+   "all": {
     "median": -0.0324,
     "n": 7847,
     "p10": -0.2811,
@@ -32,14 +77,31 @@
     "p90": 0.0922
    }
   },
-  "coverage": 0.8,
+  "label": "v2",
   "method": "baseline = revenue x (1 + mean of one-year and three-year pace); range = baseline x (1 + p10 .. p90) of observed outcomes",
-  "minRevenue": 50000000.0,
+  "retired": "2026-09-20",
   "years": [
    2022,
    2023,
    2024
   ]
  },
- "retired": null
+ "scoring": {
+  "alpha": 0.2,
+  "methods": {
+   "v2 (retired)": {
+    "hitRate": 0.8327,
+    "meanIntervalScore": 1.2949,
+    "medianHalfWidth": 0.1836
+   },
+   "v3 (live)": {
+    "hitRate": 0.8315,
+    "meanIntervalScore": 1.2823,
+    "medianHalfWidth": 0.1917
+   }
+  },
+  "n": 2564,
+  "note": "Interval score = width + (2/alpha) x the distance outside the band. Lower is better. Measured on a year neither the fit nor the tuning saw.",
+  "testYear": 2024
+ }
 }
