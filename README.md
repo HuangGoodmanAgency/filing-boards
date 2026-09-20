@@ -64,6 +64,32 @@ board, or through the MCP tool `get_company_performance`.
 | `annual-meetings` | Form DEF 14A | Definitive proxy statements |
 | `auditor-watch` | 8-K Items 4.01, 4.02 | Auditor changes, and non-reliance on earlier financial statements |
 
+## Edgarette's method, and the data behind it
+
+Two files in `data/` hold everything the actuarial reading is built on, so a
+figure on any card can be checked, reproduced or argued with.
+
+| File | What it is |
+|---|---|
+| `data/industry-yardstick.json` | Peer medians by SIC industry group at three depths, for revenue growth, operating margin, equity as a share of assets, return on equity and payout of profit. Peers are filers with $50M+ of revenue; a group is only published once it has at least 8 of them. Built from SEC XBRL frames (CY2025) plus the SEC Financial Statement Data Sets for each filer's industry code. |
+| `data/range-calibration.json` | The bands behind the 80% revenue range, live and retired. |
+
+**How the range is built.** Baseline = last revenue × (1 + the mean of the
+one-year and three-year pace). The band around it is the 10th to 90th percentile
+of how real company-years landed against that baseline, by size band, blended
+toward the whole pool by credibility (Z = n / (n + 400), in the sense of ASOP
+No. 25).
+
+**How it was tested.** Method v3 is fitted on 11,128 company-years (2018–22), its
+width tuned on 2023, then tested on 2024 — a year the fit never saw. **83% of
+outcomes landed inside an 80% band.** The retired v2 reported 83% too, but was
+measured on the years it was fitted on. Both are kept, and both are scored, at
+https://www.pops4.com/boards/scorecard
+
+**What is deliberately absent.** Dividend yield, price/earnings and price/book
+need a share price; these boards carry filings only, so they are not shown rather
+than estimated. No card carries a buy or sell view.
+
 ## Columns
 
 | Column | Source |

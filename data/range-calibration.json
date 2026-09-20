@@ -1,0 +1,45 @@
+{
+ "live": {
+  "bands": {
+   "all": {
+    "median": -0.0324,
+    "n": 7847,
+    "p10": -0.2811,
+    "p90": 0.1607
+   },
+   "b00": {
+    "median": -0.0581,
+    "n": 560,
+    "p10": -0.4791,
+    "p90": 0.3358
+   },
+   "b01": {
+    "median": -0.0391,
+    "n": 2885,
+    "p10": -0.298,
+    "p90": 0.2079
+   },
+   "b1": {
+    "median": -0.0309,
+    "n": 3243,
+    "p10": -0.2399,
+    "p90": 0.1273
+   },
+   "b10": {
+    "median": -0.0209,
+    "n": 1159,
+    "p10": -0.2172,
+    "p90": 0.0922
+   }
+  },
+  "coverage": 0.8,
+  "method": "baseline = revenue x (1 + mean of one-year and three-year pace); range = baseline x (1 + p10 .. p90) of observed outcomes",
+  "minRevenue": 50000000.0,
+  "years": [
+   2022,
+   2023,
+   2024
+  ]
+ },
+ "retired": null
+}

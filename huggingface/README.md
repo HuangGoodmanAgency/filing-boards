@@ -82,6 +82,22 @@ against an 80% target, and every miss is published at https://www.pops4.com/boar
 Any AI can reach both through the open MCP endpoint https://www.pops4.com/boards/mcp. Numbers,
 never buy or sell views.
 
+## The method's own data
+
+The dataset also carries what Edgarette's actuarial reading is built on:
+
+- `data/industry-yardstick.json` — peer medians by SIC group (growth, operating margin,
+  equity/assets, return on equity, payout), filers with $50M+ revenue, minimum 8 per group.
+- `data/range-calibration.json` — the bands behind the published 80% revenue range.
+
+The range is a baseline (last revenue × one plus the mean of the one- and three-year pace)
+widened by the 10th–90th percentile of real outcomes by size band, blended toward the whole
+pool by credibility. Fitted on 11,128 company-years (2018–22), tuned on 2023, tested on 2024:
+83% of outcomes landed inside an 80% band. Every published range is logged in advance and
+scored when the next annual report arrives.
+
+Yield, P/E and P/B are absent by design: they need a share price, which this dataset does not carry.
+
 ## Fields
 
 `id` (SEC accession number, the filing's own primary key) · `company` · `ticker` · `exchange` ·
