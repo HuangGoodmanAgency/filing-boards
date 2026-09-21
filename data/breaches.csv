@@ -1,2 +1,3 @@
+# total=1 returned=1 truncated=false
 id,company,ticker,exchange,cik,items,sector,filerCategory,revenue,revenueFY,city,hq,formerName,event,filed,deadline,quote,source,profile
 "0000885725-26-000059","BOSTON SCIENTIFIC CORP","BSX","NYSE","885725","1.05","Surgical & Medical Instruments & Apparatus","Large accelerated filer","20074000000","2025","MARLBOROUGH","MA","","2026-09-07","2026-09-08","2026-10-08","","https://www.sec.gov/Archives/edgar/data/885725/000088572526000059/0000885725-26-000059-index.htm","https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=885725&type=8-K&dateb=&owner=include&count=40"

@@ -2,8 +2,12 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-20T13:13:10.521Z",
+  "generated": "2026-09-21T12:40:40.660Z",
   "tracker": "charter-amendments",
+  "total": 67,
+  "returned": 67,
+  "truncated": false,
+  "more": null,
   "fields": {
     "id": {
       "from": "EDGAR accession number — the filing's own primary key."

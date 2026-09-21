@@ -2,8 +2,12 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-20T13:13:19.178Z",
+  "generated": "2026-09-21T12:40:42.856Z",
   "tracker": "ipo-watch",
+  "total": 31,
+  "returned": 31,
+  "truncated": false,
+  "more": null,
   "fields": {
     "id": {
       "from": "EDGAR accession number — the filing's own primary key."

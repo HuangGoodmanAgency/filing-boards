@@ -2,8 +2,12 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-20T13:13:20.027Z",
+  "generated": "2026-09-21T12:40:43.254Z",
   "tracker": "annual-meetings",
+  "total": 70,
+  "returned": 70,
+  "truncated": false,
+  "more": null,
   "fields": {
     "id": {
       "from": "EDGAR accession number — the filing's own primary key."
