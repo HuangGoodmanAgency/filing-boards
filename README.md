@@ -40,15 +40,52 @@ The boards have two voices, and both keep the rule above.
 Ask about any SEC filer at `https://www.pops4.com/boards/ask.json?q=PEP`, in the box on any
 board, or through the MCP tool `get_company_performance`.
 
-- **The 80% range is tested, not asserted.** It is set from 7,847 SEC company-years; held
-  against the company's own past years it landed inside the range 76% of the time, against an
-  80% target. The first method held only 26% and was retired.
+- **The 80% range is tested, not asserted.** It is set from how 7,847 SEC company-years
+  actually turned out. The live method is **v3**: fitted on 11,128 company-years (2018–22),
+  width tuned on 2023, then tested on **2024, a year the fit never saw — 83.2% of outcomes
+  landed inside, at a median width of ±19.2%.** Across all history it holds 69% of 7,172
+  company-years against an 80% target, which is published rather than buried. Two retired
+  methods keep their record on the same page: v2 held 76% of 563, v1 held 26% of 506.
+  Their logged ranges stay in the ledger and are still scored.
 - **Misses are published.** Every range is logged once per company per fiscal year and scored
   when the next 10-K arrives: `https://www.pops4.com/boards/scorecard`.
 - **Credibility moves with the record.** When a company files 8-K Item 4.02 (earlier statements
   should no longer be relied on), Edgarette marks her weight down one step until a new 10-K is
   filed, and links the filing.
 - **Numbers, never advice.** No buy or sell views, no price targets, no positions held.
+
+## The forecast ledger, and why it is anchored here
+
+`data/forecast-ledger.csv` is the smallest and least replaceable thing in this repository.
+
+Every board above can be rebuilt by anyone, because SEC filings are public. A **range** cannot.
+A range is only worth something if it was published *before* the outcome was known, and nothing
+that can be regenerated afterwards proves that. So each range is logged once per company per
+fiscal year, fingerprinted, and left alone until the company's next annual report arrives to
+settle it. **A logged range is never quietly adjusted.**
+
+Each row carries its own fingerprint. What this repository adds is a fingerprint of the **whole
+set**, written into a commit whose timestamp belongs to GitHub rather than to us. Anyone can
+recompute a hash; nobody can back-date somebody else's commit.
+
+| File | What it holds |
+|---|---|
+| `data/forecast-ledger.csv` | every range: company, fiscal year end, low, high, method, row fingerprint, status |
+| `data/forecast-ledger-root.json` | the root hash, the counts, and the exact steps to reproduce it |
+| `data/roots.log` | append-only, one line per day — the chain |
+
+**Verify it yourself, without trusting us:**
+
+1. Take `data/forecast-ledger.csv` from any commit.
+2. For each row build `cik|fiscalYearEnd|low|high|method|rowHash|status`.
+3. Sort those strings ascending, join with newlines, SHA-256 the UTF-8 bytes.
+4. Compare with `root` in `forecast-ledger-root.json`. The commit's date is GitHub's, not ours.
+
+Only those seven fields are hashed, so columns can be added for readability later without
+changing a root already published. Scored outcomes appear as the status changing from `open`
+to `hit` or `miss` — the range itself never moves.
+
+*Scale, stated plainly: this is an evaluation-sized corpus, not a training-sized one.*
 
 ## The boards
 
@@ -153,6 +190,36 @@ present it also pushes the same files to Hugging Face.
 - Item 4.01 (auditor change) is often routine: a firm merger or a fee decision. The board
   records the filing and says nothing more about it.
 - We undercount. That is deliberate.
+
+## The house these boards belong to
+
+POPS4 is one house with two faces, and they pay for each other.
+
+**The record.** Edgar and Edgarette read what companies file with the SEC and put it in public,
+free, the day it is filed — nine boards, an actuarial reading of any US filer, and a forecast
+ledger that is scored in the open. Free is the point: an open record that can be checked is
+what makes the house worth believing. It earns nothing directly, and the other face carries it.
+
+**The supply.** The same house has run corporate identity programs since 1997 — **70,000+
+products from 200+ authorized brands**: corporate gifts, branded apparel, custom packaging,
+secure print, and the programs that go around them. One roof, one quote, no platform fee.
+
+Procurement is mostly noise: chasing quotes, chasing proofs, chasing stock, reconciling four
+vendors who each own one piece. The house exists to take that away — one address for the
+programme, one number, one person accountable for it. The filing boards are the same instinct
+pointed at information: the answer already exists in a public document, so stop making people
+hunt for it.
+
+**Both faces answer machines directly**, which is unusual and deliberate:
+
+| For | Endpoint | Cost |
+|---|---|---|
+| Filings, company cards, the ledger | `https://www.pops4.com/boards/mcp` | free, no key, no install |
+| Catalogue, tiered pricing, quote requests | `https://mcp.pops4.com/mcp` | free to ask |
+
+An agent can read a company's filings and price the programme that filing calls for, in the
+same session, without a login on either side. Written for AIs to read:
+`https://www.pops4.com/boards/llms.txt`.
 
 ## Source
 

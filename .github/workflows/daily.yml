@@ -56,6 +56,14 @@ jobs:
             fi
           done
 
+      # The boards can be rebuilt from SEC data by anyone. The ledger cannot:
+      # a range is only worth something if it was published BEFORE the outcome,
+      # and the proof of that is a commit timestamped by GitHub rather than by
+      # us. Each row already carries its own fingerprint; this adds one for the
+      # whole set, and an append-only chain of them.
+      - name: Publish and anchor the forecast ledger
+        run: python3 tools/ledger.py
+
       # IndexNow from GitHub's network: Workers get 429 for the same payload.
       - name: Tell the search engines about new board pages
         run: python3 tools/indexnow.py

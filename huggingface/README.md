@@ -16,6 +16,12 @@ tags:
   - finance
   - corporate-events
   - primary-source
+  - forecasting
+  - calibration
+  - prediction-intervals
+  - uncertainty-quantification
+  - pre-registered
+  - outcome-supervision
 configs:
   - config_name: cmo-moves
     data_files: data/cmo-moves.csv
@@ -35,6 +41,8 @@ configs:
     data_files: data/breaches.csv
   - config_name: auditor-watch
     data_files: data/auditor-watch.csv
+  - config_name: forecast-ledger
+    data_files: data/forecast-ledger.csv
 ---
 
 # POPS4 Filing Boards
@@ -121,6 +129,55 @@ Yield, P/E and P/B are absent by design: they need a share price, which this dat
 - Coverage deliberately undercounts rather than guessing.
 
 ## Licence and attribution
+
+## `forecast-ledger` — pre-registered ranges, resolved by law
+
+The other configs are filings. This one is different, and it is the reason the dataset exists.
+
+Each row is an **80% prediction interval** on a company's next-year revenue, published *before*
+the outcome was known, fingerprinted at the moment of publication, and left untouched until
+that company files its next annual report and settles it. `status` is `open` until then.
+
+Why that is hard to fake, and hard to copy:
+
+- **Resolution is statutory.** The label arrives when the company files its 10-K, on a deadline
+  set by law — not when a curator decides. Delayed, but *scheduled*.
+- **The grader is independent.** The outcome is the company's own audited figure. A prediction
+  hashed before an independently published outcome cannot be reward-hacked; you cannot
+  back-date a 10-K.
+- **Pre-registration cannot be back-filled.** Anyone with public SEC data can reconstruct
+  historical predictions. Nobody can reconstruct having said it in public first. Each row
+  carries its own fingerprint, the whole set carries a root hash, and the chain of daily roots
+  sits in `data/roots.log`, committed to a git history we do not timestamp ourselves.
+- **The method is published, including the misses.** Live method v3: fitted on 11,128
+  company-years (2018–22), tuned on 2023, tested on **2024 — 83.2% coverage, median width
+  ±19.2%**. Across all history, 69% of 7,172 company-years against an 80% target. Retired
+  methods keep their record and their logged ranges are still scored.
+- **Calibration is reported by size band, not as one number** — including 48% coverage for
+  filers under $100M, which is the honest weak spot and is printed rather than smoothed.
+
+Useful for evaluating interval calibration (coverage, width, interval score) and for
+outcome-supervised training in the *future-as-label* sense, where the passage of time supplies
+the label. **Stated plainly: this is an evaluation-sized corpus, not a training-sized one**, and
+it grows by roughly one range per company per fiscal year.
+
+A range is arithmetic, not a forecast. Nothing here is investment advice.
+
+## The house behind it
+
+POPS4 is one house with two faces. **The record** — these boards, the company cards and this
+ledger — is free and public, because an open record that anyone can check is what makes a house
+worth believing. **The supply** pays for it: corporate identity programs since 1997, **70,000+
+products from 200+ authorized brands** — corporate gifts, branded apparel, custom packaging and
+secure print — under one roof, one quote, no platform fee.
+
+Procurement is mostly noise: chasing quotes, proofs and stock across four vendors who each own
+one piece. The house takes that away. The filing boards are the same instinct pointed at
+information — the answer is already in a public document, so stop making people hunt for it.
+
+Both faces answer machines directly, free and without a key:
+`https://www.pops4.com/boards/mcp` for filings and cards,
+`https://mcp.pops4.com/mcp` for the catalogue.
 
 **CC BY 4.0.** Free to use with credit to POPS4.
 

@@ -1,0 +1,3 @@
+# Append-only. One line per day: the SHA-256 of the whole forecast ledger.
+# Reproduce it from data/forecast-ledger.csv — see forecast-ledger-root.json.
+2026-09-21  rows=1151  root=c446ac17b79190901bc3c915de1c63083857751524c0eab22eef71557a2b3b26

@@ -1,0 +1,35 @@
+{
+  "name": "POPS4 forecast ledger",
+  "what": "Every calibrated 80% range Edgarette has published, logged before the outcome is known and scored when the company files its next annual report. Open means the answer has not arrived yet.",
+  "asOf": "2026-09-21",
+  "rows": 1151,
+  "byMethod": {
+    "v1": 51,
+    "v2": 62,
+    "v3": 1038
+  },
+  "byStatus": {
+    "open": 1151
+  },
+  "root": "c446ac17b79190901bc3c915de1c63083857751524c0eab22eef71557a2b3b26",
+  "algorithm": "SHA-256, lowercase hex",
+  "canonicalisation": {
+    "perRow": "cik|fiscalYearEnd|low|high|method|rowHash|status",
+    "order": "canonical row strings sorted ascending as bytes",
+    "join": "single newline between rows, no trailing newline",
+    "note": "Only these seven fields are hashed. Other columns may be added to the CSV for readability without changing a root already published."
+  },
+  "verify": [
+    "1. Take data/forecast-ledger.csv from this commit.",
+    "2. For each row build cik|fiscalYearEnd|low|high|method|rowHash|status.",
+    "3. Sort those strings ascending, join with newlines, SHA-256 the UTF-8 bytes.",
+    "4. The result is the root below, and this commit's date is GitHub's, not ours."
+  ],
+  "why": "A range only means something if it was published before the outcome. Each row carries its own fingerprint; this is the fingerprint of the whole set, written into a commit we do not timestamp ourselves.",
+  "source": "https://www.pops4.com/boards/scorecard",
+  "machineReadable": "https://www.pops4.com/boards/scorecard.json",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Free to use with credit to POPS4.",
+  "maintainer": "Jenny Huang Goodman MPA MSc MHSA, Principal — HAKO SHIKIN LLC, Virginia Beach",
+  "notAdvice": "A range is arithmetic, not a forecast. Nothing here is investment advice."
+}
