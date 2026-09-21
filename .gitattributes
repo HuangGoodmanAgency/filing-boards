@@ -1,0 +1,10 @@
+# The published corpus must be byte-stable across platforms: a verifiable
+# dataset that changes shape between a Windows checkout and a Linux one is
+# not verifiable. Line endings are pinned for everything a third party is
+# asked to hash or parse.
+* text=auto
+data/** text eol=lf
+tools/** text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
