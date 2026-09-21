@@ -2,8 +2,8 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-21T14:14:09.939Z",
-  "swept": 2047,
+  "generated": "2026-09-21T18:44:48.960Z",
+  "swept": 2070,
   "fields": "https://www.pops4.com/boards/fields.json",
   "trackers": [
     {
@@ -36,7 +36,7 @@
       "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
       "line": "partnership programs",
       "scope": "SEC 8-K Item 1.01",
-      "rows": 357
+      "rows": 358
     },
     {
       "key": "restructuring",
@@ -60,7 +60,7 @@
       "sub": "SEC Form S-1 · companies registering to go public",
       "line": "listing-day build-out",
       "scope": "SEC Form S-1",
-      "rows": 31
+      "rows": 41
     },
     {
       "key": "annual-meetings",
@@ -68,7 +68,7 @@
       "sub": "SEC Form DEF 14A · definitive proxy statements",
       "line": "event programs",
       "scope": "SEC Form DEF 14A",
-      "rows": 70
+      "rows": 82
     },
     {
       "key": "auditor-watch",
