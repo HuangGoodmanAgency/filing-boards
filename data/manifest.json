@@ -1,36 +1,27 @@
 {
   "name": "POPS4 — what exists, and where",
-  "what": "One index card for the whole house, so nobody has to guess a URL to find out what is here. Written because two separate AI reviews on 2026-09-21 each concluded a live surface was missing after guessing at paths that never existed.",
-  "asOf": "2026-09-21",
+  "what": "Every surface this house serves, what it is for, and where the machine-readable twin lives.",
   "maintainer": "Jenny Huang Goodman MPA MSc MHSA, Principal — HAKO SHIKIN LLC, Virginia Beach, trading since 1997",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-
   "house": {
     "shape": "One house, two faces, and they pay for each other.",
     "record": "Edgar and Edgarette read what companies file with the SEC and put it in public, free, the day it is filed: nine boards, an actuarial reading of any US filer, and a forecast ledger scored in the open. It earns nothing directly. An open record anyone can check is what makes the house worth believing.",
     "supply": "Corporate identity programs since 1997 — 70,000+ products from 200+ authorized brands: corporate gifts, branded apparel, custom packaging, secure print, and the programs around them. One roof, one quote, no platform fee. This face pays for the other.",
-    "why": "Procurement is mostly noise — chasing quotes, proofs and stock across four vendors who each own one piece. The house takes that away. The filing boards are the same instinct pointed at information: the answer is already in a public document, so stop making people hunt for it.",
-    "forMachines": "Both faces answer machines directly, free and without a key. That is deliberate: an agent can read a company's filings and price the program that filing calls for, in one session, with no login on either side."
+    "why": "Procurement is mostly noise — chasing quotes, proofs and stock across four vendors who each own one piece. The house takes that away. The filing boards are the same instinct pointed at information: the answer is already in a public document, so stop making people hunt for it."
   },
-
   "startHere": {
     "humans": "https://www.pops4.com/boards",
     "ai": "https://www.pops4.com/boards/llms.txt",
-    "fieldDictionary": "https://www.pops4.com/boards/fields.json",
-    "thisFile": "https://raw.githubusercontent.com/HuangGoodmanAgency/filing-boards/main/data/manifest.json"
+    "fieldDictionary": "https://www.pops4.com/boards/fields.json"
   },
-
   "mcp": [
     {
       "name": "Edgar & Edgarette — SEC filing boards",
       "endpoint": "https://www.pops4.com/boards/mcp",
-      "transport": "JSON-RPC over HTTP POST, streamable-http",
+      "transport": "JSON-RPC over HTTP POST",
       "auth": "none — no key, no install, no paid tier",
-      "tools": 12,
-      "registry": "io.github.HuangGoodmanAgency/edgar-and-edgarette",
-      "listedOn": ["Official MCP Registry", "Glama"],
-      "notListedOn": ["Smithery", "PulseMCP"]
+      "registry": "io.github.HuangGoodmanAgency/edgar-and-edgarette"
     },
     {
       "name": "POPS4 catalogue",
@@ -41,54 +32,124 @@
       "note": "Use this branded address. Some older discovery files still name a raw workers.dev host for the same server."
     }
   ],
-
   "boards": {
     "base": "https://www.pops4.com/boards",
     "eachBoardServes": [
-      "/{board}         HTML, 200 newest rows",
-      "/{board}.json    ?limit= up to the whole board; every reply carries total, returned, truncated and a `more` link",
-      "/{board}.csv     the same rows as CSV",
-      "/{board}/feed.xml  RSS. There is no /boards/rss.xml — the feed is per board",
-      "/{board}/embed   an HTML table another site can drop in whole"
+      "/{board}          HTML, 200 newest rows",
+      "/{board}.json     ?limit= up to the whole board; every reply carries total, returned, truncated and a `more` link",
+      "/{board}.csv      the same rows as CSV",
+      "/{board}/feed.xml RSS. There is no /boards/rss.xml — the feed is per board",
+      "/{board}/embed    an HTML table another site can drop in whole"
     ],
     "list": [
-      { "key": "breaches", "title": "Breach Clock", "filing": "8-K Item 1.05" },
-      { "key": "cmo-moves", "title": "Officer Moves", "filing": "8-K Item 5.02" },
-      { "key": "agreements", "title": "Material Agreements", "filing": "8-K Item 1.01" },
-      { "key": "mergers", "title": "Identity Mergers", "filing": "8-K Items 2.01, 5.01" },
-      { "key": "charter-amendments", "title": "Charter Amendments", "filing": "8-K Item 5.03" },
-      { "key": "restructuring", "title": "Restructuring", "filing": "8-K Item 2.05" },
-      { "key": "ipo-watch", "title": "IPO Watch", "filing": "Form S-1" },
-      { "key": "annual-meetings", "title": "Annual Meetings", "filing": "Form DEF 14A" },
-      { "key": "auditor-watch", "title": "Auditor Watch", "filing": "8-K Items 4.01, 4.02" }
+      {
+        "key": "breaches",
+        "title": "Breach Clock",
+        "filing": "1.05",
+        "url": "https://www.pops4.com/boards/breaches"
+      },
+      {
+        "key": "charter-amendments",
+        "title": "Charter Amendments",
+        "filing": "5.03",
+        "url": "https://www.pops4.com/boards/charter-amendments"
+      },
+      {
+        "key": "mergers",
+        "title": "Identity Mergers",
+        "filing": "2.01, 5.01",
+        "url": "https://www.pops4.com/boards/mergers"
+      },
+      {
+        "key": "agreements",
+        "title": "Material Agreements",
+        "filing": "1.01",
+        "url": "https://www.pops4.com/boards/agreements"
+      },
+      {
+        "key": "restructuring",
+        "title": "Restructuring",
+        "filing": "2.05",
+        "url": "https://www.pops4.com/boards/restructuring"
+      },
+      {
+        "key": "cmo-moves",
+        "title": "Officer Moves",
+        "filing": "5.02",
+        "url": "https://www.pops4.com/boards/cmo-moves"
+      },
+      {
+        "key": "ipo-watch",
+        "title": "IPO Watch",
+        "filing": "SEC Form S-1 · companies registering to go public",
+        "url": "https://www.pops4.com/boards/ipo-watch"
+      },
+      {
+        "key": "annual-meetings",
+        "title": "Annual Meetings",
+        "filing": "SEC Form DEF 14A · definitive proxy statements",
+        "url": "https://www.pops4.com/boards/annual-meetings"
+      },
+      {
+        "key": "auditor-watch",
+        "title": "Auditor Watch",
+        "filing": "4.01, 4.02",
+        "url": "https://www.pops4.com/boards/auditor-watch"
+      }
     ]
   },
-
   "otherSurfaces": [
-    { "path": "/boards/ask.json?q={name|ticker|CIK}", "what": "Edgarette's card for any SEC filer. Returns candidates rather than guessing when a name is ambiguous" },
-    { "path": "/boards/company/{cik}", "what": "a page per company, 1,481 of them, all in the boards sitemap" },
-    { "path": "/boards/scorecard + .json", "what": "the forecast ledger and how the method has held" },
-    { "path": "/boards/report", "what": "the weekly performance report" },
-    { "path": "/boards/ai + .json", "what": "AI Leaders, read from what the filings say" },
-    { "path": "/boards/all.json", "what": "counts across every board — 2.4 KB, the cheapest useful call here" },
-    { "path": "/boards/fields.json", "what": "what every field means. Read this once instead of per card" },
-    { "path": "/boards/search.json?q=", "what": "search across the boards" },
-    { "path": "/boards/developers", "what": "the same thing for humans" },
-    { "path": "/boards/sitemap.xml", "what": "1,514 URLs, declared in robots.txt" },
-    { "path": "/boards/corrections", "what": "every error found and fixed, never deleted. Internal by the Principal's ruling — returns 401" }
+    {
+      "path": "/boards/ask.json?q={name|ticker|CIK}",
+      "what": "Edgarette’s card for any SEC filer. Returns candidates rather than guessing when a name is ambiguous."
+    },
+    {
+      "path": "/boards/company/{cik}",
+      "what": "a page per company, all of them in the boards sitemap"
+    },
+    {
+      "path": "/boards/scorecard + .json",
+      "what": "the forecast ledger and how the method has held"
+    },
+    {
+      "path": "/boards/report",
+      "what": "the weekly performance report"
+    },
+    {
+      "path": "/boards/ai + .json",
+      "what": "AI Leaders, read from what the filings say"
+    },
+    {
+      "path": "/boards/all.json",
+      "what": "counts across every board — the cheapest useful call here"
+    },
+    {
+      "path": "/boards/fields.json",
+      "what": "what every field means. Read this once instead of per card"
+    },
+    {
+      "path": "/boards/search.json?q=",
+      "what": "search across the boards"
+    },
+    {
+      "path": "/boards/developers",
+      "what": "the same thing for humans"
+    },
+    {
+      "path": "/boards/sitemap.xml",
+      "what": "every board and company page, declared in robots.txt"
+    }
   ],
-
   "theLedger": {
     "what": "Pre-registered 80% ranges on next-year revenue, fingerprinted before the outcome and scored when the company files its annual report.",
     "live": "https://www.pops4.com/boards/scorecard.json",
     "corpus": "https://raw.githubusercontent.com/HuangGoodmanAgency/filing-boards/main/data/forecast-ledger.csv",
     "rootHash": "https://raw.githubusercontent.com/HuangGoodmanAgency/filing-boards/main/data/forecast-ledger-root.json",
     "chain": "https://raw.githubusercontent.com/HuangGoodmanAgency/filing-boards/main/data/roots.log",
-    "anchor": "Committed daily to a public git history. The timestamp is GitHub's, not ours — anyone can recompute a hash, nobody can back-date somebody else's commit.",
+    "anchor": "Committed daily to a public git history. The timestamp is GitHub’s, not ours — anyone can recompute a hash, nobody can back-date somebody else’s commit.",
     "scale": "Evaluation-sized, not training-sized. Stated before anyone has to ask.",
     "notAdvice": "A range is arithmetic, not a forecast. Nothing here is investment advice."
   },
-
   "mirrors": {
     "github": "https://github.com/HuangGoodmanAgency/filing-boards",
     "huggingface": "https://huggingface.co/datasets/jennyota/filing-boards",
