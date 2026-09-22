@@ -2,10 +2,10 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-21T18:44:48.250Z",
+  "generated": "2026-09-22T17:39:20.771Z",
   "tracker": "auditor-watch",
-  "total": 21,
-  "returned": 21,
+  "total": 22,
+  "returned": 22,
   "truncated": false,
   "more": null,
   "fields": {
@@ -89,6 +89,34 @@
     }
   },
   "rows": [
+    {
+      "id": "0001702780-26-000057",
+      "company": "Optimum Communications, Inc.",
+      "cik": "1702780",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "4.02",
+        "9.01"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "sector": "Technology",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
+      "city": "LONG ISLAND CITY",
+      "hq": "NY",
+      "formerName": "Altice USA, Inc.",
+      "event": "2026-09-16",
+      "quote": null,
+      "sic": "4841",
+      "state": "DE",
+      "filed": "2026-09-21",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1702780/000170278026000057/0001702780-26-000057-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1702780&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001193125-26-395292",
       "company": "Gold.com, Inc.",

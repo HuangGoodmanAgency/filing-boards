@@ -2,10 +2,10 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-21T18:44:46.518Z",
+  "generated": "2026-09-22T17:39:16.872Z",
   "tracker": "restructuring",
-  "total": 6,
-  "returned": 6,
+  "total": 7,
+  "returned": 7,
   "truncated": false,
   "more": null,
   "fields": {
@@ -89,6 +89,34 @@
     }
   },
   "rows": [
+    {
+      "id": "0001171843-26-006140",
+      "company": "Woodward, Inc.",
+      "cik": "108312",
+      "form": "8-K",
+      "items": [
+        "2.05",
+        "7.01",
+        "9.01"
+      ],
+      "ticker": "WWD",
+      "exchange": "Nasdaq",
+      "sector": "Electrical Industrial Apparatus",
+      "filerCategory": "Large accelerated filer",
+      "revenue": 3567064000,
+      "revenueFY": "2025",
+      "city": "FORT COLLINS",
+      "hq": "CO",
+      "formerName": "WOODWARD GOVERNOR CO",
+      "event": "2026-09-15",
+      "quote": null,
+      "sic": "3620",
+      "state": "DE",
+      "filed": "2026-09-21",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/108312/000117184326006140/0001171843-26-006140-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=108312&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001193125-26-393058",
       "company": "Mission Produce, Inc.",

@@ -2,3 +2,4 @@
 # Reproduce it from data/forecast-ledger.csv — see forecast-ledger-root.json.
 2026-09-21  rows=1151  root=c446ac17b79190901bc3c915de1c63083857751524c0eab22eef71557a2b3b26
 2026-09-21  rows=1185  root=4a36e8ef6e5bfc83fde33ac84ff3d5c1c614db49d1865b268a049eae131de52e
+2026-09-22  rows=1236  root=c9766382737ef8ffe326279edd79c2cc5aaa553c516818bff4a65bc6bc0142db
