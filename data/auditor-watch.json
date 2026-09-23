@@ -2,10 +2,10 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-22T17:39:20.771Z",
+  "generated": "2026-09-23T17:52:11.412Z",
   "tracker": "auditor-watch",
-  "total": 22,
-  "returned": 22,
+  "total": 23,
+  "returned": 23,
   "truncated": false,
   "more": null,
   "fields": {
@@ -89,6 +89,32 @@
     }
   },
   "rows": [
+    {
+      "id": "0001493152-26-043719",
+      "company": "Bowen Acquisition Corp",
+      "cik": "1973056",
+      "form": "8-K",
+      "items": [
+        "4.01"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "sector": "Industrial Applications and Services",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
+      "city": "NEW YORK",
+      "hq": "NY",
+      "formerName": null,
+      "event": "2026-08-31",
+      "quote": null,
+      "sic": "2840",
+      "state": "E9",
+      "filed": "2026-09-22",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1973056/000149315226043719/0001493152-26-043719-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1973056&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001702780-26-000057",
       "company": "Optimum Communications, Inc.",

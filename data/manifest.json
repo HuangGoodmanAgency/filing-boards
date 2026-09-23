@@ -120,6 +120,10 @@
       "what": "AI Leaders, read from what the filings say"
     },
     {
+      "path": "/boards/energy + .json",
+      "what": "Renewable & Geothermal Energy, the same method on solar, wind, grid, fuel cells and geothermal"
+    },
+    {
       "path": "/boards/all.json",
       "what": "counts across every board — the cheapest useful call here"
     },

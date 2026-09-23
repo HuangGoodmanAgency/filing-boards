@@ -2,8 +2,8 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-22T17:39:21.677Z",
-  "swept": 2252,
+  "generated": "2026-09-23T17:52:12.178Z",
+  "swept": 2453,
   "fields": "https://www.pops4.com/boards/fields.json",
   "trackers": [
     {
@@ -20,7 +20,7 @@
       "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
       "line": "full reprint",
       "scope": "SEC 8-K Item 5.03",
-      "rows": 83
+      "rows": 91
     },
     {
       "key": "mergers",
@@ -28,7 +28,7 @@
       "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
       "line": "identity integration",
       "scope": "SEC 8-K Item 2.01, 5.01",
-      "rows": 51
+      "rows": 56
     },
     {
       "key": "agreements",
@@ -36,7 +36,7 @@
       "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
       "line": "partnership programs",
       "scope": "SEC 8-K Item 1.01",
-      "rows": 395
+      "rows": 431
     },
     {
       "key": "restructuring",
@@ -52,7 +52,7 @@
       "sub": "SEC 8-K Item 5.02 · departures and appointments",
       "line": "rebrand and launch",
       "scope": "SEC 8-K Item 5.02",
-      "rows": 451
+      "rows": 481
     },
     {
       "key": "ipo-watch",
@@ -60,7 +60,7 @@
       "sub": "SEC Form S-1 · companies registering to go public",
       "line": "listing-day build-out",
       "scope": "SEC Form S-1",
-      "rows": 43
+      "rows": 46
     },
     {
       "key": "annual-meetings",
@@ -68,7 +68,7 @@
       "sub": "SEC Form DEF 14A · definitive proxy statements",
       "line": "event programs",
       "scope": "SEC Form DEF 14A",
-      "rows": 90
+      "rows": 101
     },
     {
       "key": "auditor-watch",
@@ -76,7 +76,7 @@
       "sub": "SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance",
       "line": "investor communications",
       "scope": "SEC 8-K Item 4.01, 4.02",
-      "rows": 22
+      "rows": 23
     }
   ]
 }
