@@ -2,8 +2,8 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-23T17:52:12.178Z",
-  "swept": 2453,
+  "generated": "2026-09-24T17:52:45.876Z",
+  "swept": 2636,
   "fields": "https://www.pops4.com/boards/fields.json",
   "trackers": [
     {
@@ -12,7 +12,7 @@
       "sub": "SEC 8-K Item 1.05 · every filer · same day",
       "line": "secure print",
       "scope": "SEC 8-K Item 1.05",
-      "rows": 1
+      "rows": 2
     },
     {
       "key": "charter-amendments",
@@ -20,7 +20,7 @@
       "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
       "line": "full reprint",
       "scope": "SEC 8-K Item 5.03",
-      "rows": 91
+      "rows": 101
     },
     {
       "key": "mergers",
@@ -28,7 +28,7 @@
       "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
       "line": "identity integration",
       "scope": "SEC 8-K Item 2.01, 5.01",
-      "rows": 56
+      "rows": 60
     },
     {
       "key": "agreements",
@@ -36,7 +36,7 @@
       "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
       "line": "partnership programs",
       "scope": "SEC 8-K Item 1.01",
-      "rows": 431
+      "rows": 472
     },
     {
       "key": "restructuring",
@@ -44,7 +44,7 @@
       "sub": "SEC 8-K Item 2.05 · costs associated with exit or disposal",
       "line": "vendor consolidation",
       "scope": "SEC 8-K Item 2.05",
-      "rows": 7
+      "rows": 8
     },
     {
       "key": "cmo-moves",
@@ -52,7 +52,7 @@
       "sub": "SEC 8-K Item 5.02 · departures and appointments",
       "line": "rebrand and launch",
       "scope": "SEC 8-K Item 5.02",
-      "rows": 481
+      "rows": 509
     },
     {
       "key": "ipo-watch",
@@ -68,7 +68,7 @@
       "sub": "SEC Form DEF 14A · definitive proxy statements",
       "line": "event programs",
       "scope": "SEC Form DEF 14A",
-      "rows": 101
+      "rows": 112
     },
     {
       "key": "auditor-watch",
@@ -76,7 +76,7 @@
       "sub": "SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance",
       "line": "investor communications",
       "scope": "SEC 8-K Item 4.01, 4.02",
-      "rows": 23
+      "rows": 25
     }
   ]
 }

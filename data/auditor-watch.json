@@ -2,10 +2,10 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-23T17:52:11.412Z",
+  "generated": "2026-09-24T17:52:44.918Z",
   "tracker": "auditor-watch",
-  "total": 23,
-  "returned": 23,
+  "total": 25,
+  "returned": 25,
   "truncated": false,
   "more": null,
   "fields": {
@@ -89,6 +89,59 @@
     }
   },
   "rows": [
+    {
+      "id": "0001193125-26-399300",
+      "company": "Bright Mountain Media, Inc.",
+      "cik": "1568385",
+      "form": "8-K",
+      "items": [
+        "4.01"
+      ],
+      "ticker": "BMTM",
+      "exchange": "OTC",
+      "sector": "Services-Computer Programming Services",
+      "filerCategory": "Non-accelerated filer · Smaller reporting company",
+      "revenue": 59229000,
+      "revenueFY": "2025",
+      "city": "BOCA RATON",
+      "hq": "FL",
+      "formerName": "Bright Mountain Acquisition Corp",
+      "event": "2026-09-23",
+      "quote": null,
+      "sic": "7371",
+      "state": "FL",
+      "filed": "2026-09-23",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1568385/000119312526399300/0001193125-26-399300-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1568385&type=8-K&dateb=&owner=include&count=40"
+    },
+    {
+      "id": "0001493152-26-043802",
+      "company": "SharonAI Holdings Inc.",
+      "cik": "2068385",
+      "form": "8-K",
+      "items": [
+        "4.01",
+        "9.01"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "sector": "Technology",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
+      "city": "NEW YORK",
+      "hq": "NY",
+      "formerName": "SharonAI Holdings, Inc.",
+      "event": "2026-09-23",
+      "quote": null,
+      "sic": "7374",
+      "state": "DE",
+      "filed": "2026-09-23",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226043802/0001493152-26-043802-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2068385&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001493152-26-043719",
       "company": "Bowen Acquisition Corp",

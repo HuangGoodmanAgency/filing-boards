@@ -2,10 +2,10 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-23T17:52:08.847Z",
+  "generated": "2026-09-24T17:52:43.142Z",
   "tracker": "restructuring",
-  "total": 7,
-  "returned": 7,
+  "total": 8,
+  "returned": 8,
   "truncated": false,
   "more": null,
   "fields": {
@@ -89,6 +89,34 @@
     }
   },
   "rows": [
+    {
+      "id": "0001104659-26-109821",
+      "company": "Adagio Medical Holdings, Inc.",
+      "cik": "2006986",
+      "form": "8-K",
+      "items": [
+        "2.05",
+        "8.01",
+        "9.01"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "sector": "Industrial Applications and Services",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
+      "city": "LAGUNA HILLS",
+      "hq": "CA",
+      "formerName": "Aja Holdco, Inc.",
+      "event": "2026-09-23",
+      "quote": null,
+      "sic": "3841",
+      "state": "DE",
+      "filed": "2026-09-23",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/2006986/000110465926109821/0001104659-26-109821-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2006986&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001171843-26-006140",
       "company": "Woodward, Inc.",
