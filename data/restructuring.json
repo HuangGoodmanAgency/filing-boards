@@ -2,10 +2,10 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-24T17:52:43.142Z",
+  "generated": "2026-09-25T17:58:01.650Z",
   "tracker": "restructuring",
-  "total": 8,
-  "returned": 8,
+  "total": 9,
+  "returned": 9,
   "truncated": false,
   "more": null,
   "fields": {
@@ -89,6 +89,33 @@
     }
   },
   "rows": [
+    {
+      "id": "0000829224-26-000145",
+      "company": "STARBUCKS CORP",
+      "cik": "829224",
+      "form": "8-K",
+      "items": [
+        "2.05",
+        "7.01"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "sector": "Trade & Services",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
+      "city": "SEATTLE",
+      "hq": "WA",
+      "formerName": null,
+      "event": "2026-09-22",
+      "quote": null,
+      "sic": "5810",
+      "state": "WA",
+      "filed": "2026-09-24",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000145/0000829224-26-000145-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=829224&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001104659-26-109821",
       "company": "Adagio Medical Holdings, Inc.",

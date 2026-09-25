@@ -2,15 +2,15 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-24T17:52:45.876Z",
-  "swept": 2636,
+  "generated": "2026-09-25T17:58:05.518Z",
+  "swept": 2825,
   "fields": "https://www.pops4.com/boards/fields.json",
   "trackers": [
     {
       "key": "breaches",
       "title": "Breach Clock",
       "sub": "SEC 8-K Item 1.05 · every filer · same day",
-      "line": "secure print",
+      "line": "breach notification letters",
       "scope": "SEC 8-K Item 1.05",
       "rows": 2
     },
@@ -20,7 +20,7 @@
       "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
       "line": "full reprint",
       "scope": "SEC 8-K Item 5.03",
-      "rows": 101
+      "rows": 105
     },
     {
       "key": "mergers",
@@ -28,7 +28,7 @@
       "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
       "line": "identity integration",
       "scope": "SEC 8-K Item 2.01, 5.01",
-      "rows": 60
+      "rows": 61
     },
     {
       "key": "agreements",
@@ -36,7 +36,7 @@
       "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
       "line": "partnership programs",
       "scope": "SEC 8-K Item 1.01",
-      "rows": 472
+      "rows": 521
     },
     {
       "key": "restructuring",
@@ -44,7 +44,7 @@
       "sub": "SEC 8-K Item 2.05 · costs associated with exit or disposal",
       "line": "vendor consolidation",
       "scope": "SEC 8-K Item 2.05",
-      "rows": 8
+      "rows": 9
     },
     {
       "key": "cmo-moves",
@@ -52,7 +52,7 @@
       "sub": "SEC 8-K Item 5.02 · departures and appointments",
       "line": "rebrand and launch",
       "scope": "SEC 8-K Item 5.02",
-      "rows": 509
+      "rows": 539
     },
     {
       "key": "ipo-watch",
@@ -60,7 +60,7 @@
       "sub": "SEC Form S-1 · companies registering to go public",
       "line": "listing-day build-out",
       "scope": "SEC Form S-1",
-      "rows": 46
+      "rows": 48
     },
     {
       "key": "annual-meetings",
@@ -68,7 +68,7 @@
       "sub": "SEC Form DEF 14A · definitive proxy statements",
       "line": "event programs",
       "scope": "SEC Form DEF 14A",
-      "rows": 112
+      "rows": 122
     },
     {
       "key": "auditor-watch",
@@ -76,7 +76,7 @@
       "sub": "SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance",
       "line": "investor communications",
       "scope": "SEC 8-K Item 4.01, 4.02",
-      "rows": 25
+      "rows": 27
     }
   ]
 }
