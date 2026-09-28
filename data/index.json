@@ -2,8 +2,8 @@
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-25T17:58:05.518Z",
-  "swept": 2825,
+  "generated": "2026-09-28T20:08:10.895Z",
+  "swept": 3010,
   "fields": "https://www.pops4.com/boards/fields.json",
   "trackers": [
     {
@@ -20,7 +20,7 @@
       "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
       "line": "full reprint",
       "scope": "SEC 8-K Item 5.03",
-      "rows": 105
+      "rows": 112
     },
     {
       "key": "mergers",
@@ -36,7 +36,7 @@
       "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
       "line": "partnership programs",
       "scope": "SEC 8-K Item 1.01",
-      "rows": 521
+      "rows": 558
     },
     {
       "key": "restructuring",
@@ -44,7 +44,7 @@
       "sub": "SEC 8-K Item 2.05 · costs associated with exit or disposal",
       "line": "vendor consolidation",
       "scope": "SEC 8-K Item 2.05",
-      "rows": 9
+      "rows": 10
     },
     {
       "key": "cmo-moves",
@@ -52,7 +52,7 @@
       "sub": "SEC 8-K Item 5.02 · departures and appointments",
       "line": "rebrand and launch",
       "scope": "SEC 8-K Item 5.02",
-      "rows": 539
+      "rows": 577
     },
     {
       "key": "ipo-watch",
@@ -60,7 +60,7 @@
       "sub": "SEC Form S-1 · companies registering to go public",
       "line": "listing-day build-out",
       "scope": "SEC Form S-1",
-      "rows": 48
+      "rows": 51
     },
     {
       "key": "annual-meetings",
@@ -68,7 +68,7 @@
       "sub": "SEC Form DEF 14A · definitive proxy statements",
       "line": "event programs",
       "scope": "SEC Form DEF 14A",
-      "rows": 122
+      "rows": 137
     },
     {
       "key": "auditor-watch",
@@ -76,7 +76,7 @@
       "sub": "SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance",
       "line": "investor communications",
       "scope": "SEC 8-K Item 4.01, 4.02",
-      "rows": 27
+      "rows": 32
     }
   ]
 }

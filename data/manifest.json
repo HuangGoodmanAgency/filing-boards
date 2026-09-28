@@ -124,6 +124,14 @@
       "what": "Renewable & Geothermal Energy, the same method on solar, wind, grid, fuel cells and geothermal"
     },
     {
+      "path": "/boards/etf/{ticker} + .json",
+      "what": "ETF look-through: a fund’s SEC N-PORT holdings matched to SEC filers, with Health Watch on the largest"
+    },
+    {
+      "path": "/boards/portfolio.json?cik={cik}",
+      "what": "portfolio read: a 13F filer’s stock holdings (or POST {holdings:[{ticker,weight}]}) through the same measures, funds looked through"
+    },
+    {
       "path": "/boards/all.json",
       "what": "counts across every board — the cheapest useful call here"
     },
@@ -152,7 +160,7 @@
     "chain": "https://raw.githubusercontent.com/HuangGoodmanAgency/filing-boards/main/data/roots.log",
     "anchor": "Committed daily to a public git history. The timestamp is GitHub’s, not ours — anyone can recompute a hash, nobody can back-date somebody else’s commit.",
     "scale": "Evaluation-sized, not training-sized. Stated before anyone has to ask.",
-    "notAdvice": "A range is arithmetic, not a forecast. Nothing here is investment advice."
+    "notAdvice": "A range is a statistical range, not company guidance. Nothing here is investment advice."
   },
   "mirrors": {
     "github": "https://github.com/HuangGoodmanAgency/filing-boards",
