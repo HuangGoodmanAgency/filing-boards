@@ -1,20 +1,20 @@
 {
   "name": "POPS4 forecast ledger",
   "what": "Every calibrated 80% range Edgarette has published, logged before the outcome is known and scored when the company files its next annual report. Open means the answer has not arrived yet.",
-  "asOf": "2026-09-29",
-  "rows": 2794,
+  "asOf": "2026-09-30",
+  "rows": 2928,
   "byMethod": {
     "v1": 51,
     "v2": 62,
-    "v3": 1211,
+    "v3": 1215,
     "v4": 40,
-    "v4.1": 1430
+    "v4.1": 1560
   },
   "byStatus": {
-    "open": 2691,
+    "open": 2825,
     "void": 103
   },
-  "root": "09ac74e9b4de0005067b5e8e275693bda632290552ea1c4fd9265b769ce79eea",
+  "root": "898192c3e59e05c6ca5e8a10cb46dda46c5cab6d91aeddf34e8a00c7b97c7d0b",
   "algorithm": "SHA-256, lowercase hex",
   "canonicalisation": {
     "perRow": "cik|fiscalYearEnd|low|high|method|rowHash|status",

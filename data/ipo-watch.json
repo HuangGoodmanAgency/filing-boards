@@ -1,13 +1,19 @@
 {
+  "question": "Which companies filed to go public this week?",
+  "answer": "10 companies filed SEC Form S-1 (a registration to go public) in the last 7 days, newest 29 Sept 2026, including MNBS Acquisition, Calm Seas Acquisition, HMH Holding, Orange Street Acquisition, CitroTech and 5 more. The board holds 57, each linked to SEC EDGAR.",
+  "as_of": "2026-09-30",
+  "newest_filing": "2026-09-29",
+  "last_7_days": 10,
+  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-29T18:39:40.191Z",
+  "generated": "2026-09-30T18:27:35.908Z",
   "tracker": "ipo-watch",
-  "total": 56,
-  "returned": 55,
+  "total": 57,
+  "returned": 56,
   "truncated": true,
-  "more": "?limit=56",
+  "more": "?limit=57",
   "fields": {
     "id": {
       "from": "EDGAR accession number — the filing's own primary key."
@@ -89,6 +95,30 @@
     }
   },
   "rows": [
+    {
+      "id": "0001185185-26-004380",
+      "company": "MNBS Acquisition Corp.",
+      "cik": "2116517",
+      "form": "S-1",
+      "items": [],
+      "ticker": null,
+      "exchange": null,
+      "sector": "Real Estate & Construction",
+      "filerCategory": null,
+      "revenue": null,
+      "revenueFY": null,
+      "city": "ROSEMEAD",
+      "hq": "CA",
+      "formerName": null,
+      "event": null,
+      "quote": null,
+      "sic": "6770",
+      "state": "E9",
+      "filed": "2026-09-29",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/2116517/000118518526004380/0001185185-26-004380-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2116517&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001193125-26-404122",
       "company": "Calm Seas Acquisition Corp.",
