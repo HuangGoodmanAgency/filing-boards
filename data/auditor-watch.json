@@ -1,17 +1,17 @@
 {
   "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
-  "answer": "15 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 29 Sept 2026, including Goldenwell Biotech, Aspire-Lakewood Holdings, Reynaldo's Mexican Food Company, Mccormick & Co (MKC), Hepion Pharmaceuticals (HEPA) and 10 more. The board holds 38, each linked to SEC EDGAR.",
-  "as_of": "2026-09-30",
-  "newest_filing": "2026-09-29",
-  "last_7_days": 15,
+  "answer": "14 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 30 Sept 2026, including Benitec Biopharma (BNTC), Goldenwell Biotech, Aspire-Lakewood Holdings, Reynaldo's Mexican Food Company, Mccormick & Co (MKC) and 9 more. The board holds 39, each linked to SEC EDGAR.",
+  "as_of": "2026-10-01",
+  "newest_filing": "2026-09-30",
+  "last_7_days": 14,
   "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
   "source": "SEC EDGAR",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Free to use with credit to POPS4.",
-  "generated": "2026-09-30T18:27:36.917Z",
+  "generated": "2026-10-01T18:54:46.781Z",
   "tracker": "auditor-watch",
-  "total": 38,
-  "returned": 38,
+  "total": 39,
+  "returned": 39,
   "truncated": false,
   "more": null,
   "fields": {
@@ -95,6 +95,32 @@
     }
   },
   "rows": [
+    {
+      "id": "0001193125-26-409052",
+      "company": "Benitec Biopharma Inc.",
+      "cik": "1808898",
+      "form": "8-K",
+      "items": [
+        "4.01"
+      ],
+      "ticker": "BNTC",
+      "exchange": "Nasdaq",
+      "sector": "Pharmaceutical Preparations",
+      "filerCategory": "Non-accelerated filer · Smaller reporting company",
+      "revenue": 75000,
+      "revenueFY": "2023",
+      "city": "HAYWARD",
+      "hq": "CA",
+      "formerName": null,
+      "event": "2026-09-29",
+      "quote": null,
+      "sic": "2834",
+      "state": "DE",
+      "filed": "2026-09-30",
+      "deadline": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526409052/0001193125-26-409052-index.htm",
+      "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1808898&type=8-K&dateb=&owner=include&count=40"
+    },
     {
       "id": "0001477932-26-005892",
       "company": "GOLDENWELL BIOTECH, INC.",
