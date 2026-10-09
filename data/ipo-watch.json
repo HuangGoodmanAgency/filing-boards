@@ -1,19 +1,19 @@
 {
  "question": "Which companies filed to go public this week?",
- "answer": "22 companies filed SEC Form S-1 (a registration to go public) in the last 7 days, newest 7 Oct 2026, including Centinel Spine Holdco, Decoy Therapeutics (DCOY), FireFly Robotics, Winklevoss Zcash ETF, Tang Capital Acquisition and 17 more. The board holds 81, each linked to SEC EDGAR.",
- "as_of": "2026-10-08",
- "newest_filing": "2026-10-07",
- "last_7_days": 22,
+ "answer": "19 companies filed SEC Form S-1 (a registration to go public) in the last 7 days, newest 8 Oct 2026, including Cyabra, Centinel Spine Holdco, Decoy Therapeutics (DCOY), FireFly Robotics, Winklevoss Zcash ETF and 14 more. The board holds 99, each linked to SEC EDGAR.",
+ "as_of": "2026-10-09",
+ "newest_filing": "2026-10-08",
+ "last_7_days": 19,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-08T19:17:47.529Z",
+ "generated": "2026-10-09T18:50:47.756Z",
  "tracker": "ipo-watch",
- "total": 81,
- "returned": 80,
+ "total": 99,
+ "returned": 81,
  "truncated": true,
- "more": "?limit=81",
+ "more": "?limit=99",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -95,6 +95,30 @@
   }
  },
  "rows": [
+  {
+   "id": "0001213900-26-107694",
+   "company": "CYABRA, INC.",
+   "cik": "2032341",
+   "form": "S-1",
+   "items": [],
+   "ticker": null,
+   "exchange": null,
+   "sector": "Technology",
+   "filerCategory": null,
+   "revenue": null,
+   "revenueFY": null,
+   "city": "TEL AVIV",
+   "hq": null,
+   "formerName": "Trailblazer Holdings, Inc.",
+   "event": null,
+   "quote": null,
+   "sic": "7372",
+   "state": "DE",
+   "filed": "2026-10-08",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/2032341/000121390026107694/0001213900-26-107694-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2032341&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001104659-26-114375",
    "company": "Centinel Spine Holdco, Inc.",

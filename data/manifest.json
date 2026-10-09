@@ -49,6 +49,12 @@
     "url": "https://www.pops4.com/boards/breaches"
    },
    {
+    "key": "cyber-disclosures",
+    "title": "Cyber Disclosures",
+    "filing": "SEC 8-K Items 8.01 and 7.01 · cybersecurity incidents disclosed voluntarily · the filer’s own sentence",
+    "url": "https://www.pops4.com/boards/cyber-disclosures"
+   },
+   {
     "key": "charter-amendments",
     "title": "Charter Amendments",
     "filing": "5.03",
@@ -122,6 +128,10 @@
   {
    "path": "/boards/energy + .json",
    "what": "Renewable & Geothermal Energy, the same method on solar, wind, grid, fuel cells and geothermal"
+  },
+  {
+   "path": "/boards/etf",
+   "what": "ETF ranking: 15 major ETFs from fewest to most warning signs (MCP get_etf_league)"
   },
   {
    "path": "/boards/etf/{ticker} + .json",

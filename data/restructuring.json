@@ -1,19 +1,19 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "7 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 7 Oct 2026, including Azenta (AZTA), Hubspot (HUBS), Caribou Biosciences, Fair Isaac, Nike and 2 more. The board holds 22, each linked to SEC EDGAR.",
- "as_of": "2026-10-08",
+ "answer": "4 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 7 Oct 2026, including Azenta (AZTA), Hubspot (HUBS), Caribou Biosciences, Fair Isaac. The board holds 27, each linked to SEC EDGAR.",
+ "as_of": "2026-10-09",
  "newest_filing": "2026-10-07",
- "last_7_days": 7,
+ "last_7_days": 4,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-08T19:17:46.011Z",
+ "generated": "2026-10-09T18:50:43.385Z",
  "tracker": "restructuring",
- "total": 22,
+ "total": 27,
  "returned": 22,
- "truncated": false,
- "more": null,
+ "truncated": true,
+ "more": "?limit=27",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
