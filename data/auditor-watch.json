@@ -1,19 +1,19 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "10 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 13 Oct 2026, including EON Resources (EONR), SUPA Consolidated (SFCX), Profusa (PFSA), Ctt Pharmaceutical Holdings (CTTH), Verde Resources (VRDR) and 5 more. The board holds 62, each linked to SEC EDGAR.",
- "as_of": "2026-10-14",
- "newest_filing": "2026-10-13",
- "last_7_days": 10,
+ "answer": "9 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 14 Oct 2026, including Netcapital (NCPL), EON Resources (EONR), SUPA Consolidated (SFCX), Profusa (PFSA), Ctt Pharmaceutical Holdings (CTTH) and 4 more. The board holds 63, each linked to SEC EDGAR.",
+ "as_of": "2026-10-15",
+ "newest_filing": "2026-10-14",
+ "last_7_days": 9,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-14T18:02:25.143Z",
+ "generated": "2026-10-15T17:47:48.846Z",
  "tracker": "auditor-watch",
- "total": 62,
- "returned": 59,
+ "total": 63,
+ "returned": 60,
  "truncated": true,
- "more": "?limit=62",
+ "more": "?limit=63",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -95,6 +95,34 @@
   }
  },
  "rows": [
+  {
+   "id": "0001493152-26-047004",
+   "company": "Netcapital Inc.",
+   "cik": "1414767",
+   "form": "8-K",
+   "items": [
+    "3.01",
+    "4.01",
+    "9.01"
+   ],
+   "ticker": "NCPL",
+   "exchange": "Nasdaq",
+   "sector": "Finance Services",
+   "filerCategory": "Non-accelerated filer · Smaller reporting company",
+   "revenue": 869460,
+   "revenueFY": "2025",
+   "city": "BOSTON",
+   "hq": "MA",
+   "formerName": "ValueSetters Inc.",
+   "event": "2026-10-07",
+   "quote": "Netcapital Inc. (Nasdaq: NCPL) (the \"Company\") today announced that it received a letter from the Listing Qualifications Department of The Nasdaq Stock Market LLC (\"Nasdaq\") on October 7, 2026, notifying the Company that it has regained compliance with the minimum bid price requirement under Nasdaq Listing Rule 5550(a)(2).",
+   "sic": "6199",
+   "state": "UT",
+   "filed": "2026-10-14",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1414767/000149315226047004/0001493152-26-047004-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1414767&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001213900-26-108614",
    "company": "EON Resources Inc.",
