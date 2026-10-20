@@ -1,19 +1,19 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "3 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 14 Oct 2026, including Daktronics (DAKT), Mesa Laboratories, Premier Air Charter Holdings (PREM). The board holds 30, each linked to SEC EDGAR.",
- "as_of": "2026-10-19",
- "newest_filing": "2026-10-14",
- "last_7_days": 3,
+ "answer": "4 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 19 Oct 2026, including EyePoint (EYPT), Daktronics (DAKT), Mesa Laboratories, Premier Air Charter Holdings (PREM). The board holds 31, each linked to SEC EDGAR.",
+ "as_of": "2026-10-20",
+ "newest_filing": "2026-10-19",
+ "last_7_days": 4,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-19T19:21:13.451Z",
+ "generated": "2026-10-20T18:00:31.669Z",
  "tracker": "restructuring",
- "total": 30,
- "returned": 25,
+ "total": 31,
+ "returned": 26,
  "truncated": true,
- "more": "?limit=30",
+ "more": "?limit=31",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -95,6 +95,35 @@
   }
  },
  "rows": [
+  {
+   "id": "0001193125-26-424755",
+   "company": "EyePoint, Inc.",
+   "cik": "1314102",
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "2.05",
+    "8.01",
+    "9.01"
+   ],
+   "ticker": "EYPT",
+   "exchange": "Nasdaq",
+   "sector": "Laboratory Analytical Instruments",
+   "filerCategory": "Non-accelerated filer · Smaller reporting company",
+   "revenue": 31371000,
+   "revenueFY": "2025",
+   "city": "WATERTOWN",
+   "hq": "MA",
+   "formerName": "EyePoint Pharmaceuticals, Inc.",
+   "event": "2026-10-17",
+   "quote": null,
+   "sic": "3826",
+   "state": "DE",
+   "filed": "2026-10-19",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1314102/000119312526424755/0001193125-26-424755-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1314102&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001628280-26-065837",
    "company": "DAKTRONICS INC /SD/",

@@ -1,19 +1,19 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "12 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 16 Oct 2026, including Terra Innovatum Global (NKLR), Arrive AI (ARAI), GoPro (GPRO), PharmaCyte Biotech (PMCB), High Roller Technologies (ROLR) and 7 more. The board holds 72, each linked to SEC EDGAR.",
- "as_of": "2026-10-19",
- "newest_filing": "2026-10-16",
- "last_7_days": 12,
+ "answer": "14 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 19 Oct 2026, including Apogee Acquisition (AACP), Globaltek Ventures, Terra Innovatum Global (NKLR), Arrive AI (ARAI), GoPro (GPRO) and 9 more. The board holds 74, each linked to SEC EDGAR.",
+ "as_of": "2026-10-20",
+ "newest_filing": "2026-10-19",
+ "last_7_days": 14,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-19T19:21:20.686Z",
+ "generated": "2026-10-20T18:00:48.472Z",
  "tracker": "auditor-watch",
- "total": 72,
- "returned": 69,
+ "total": 74,
+ "returned": 71,
  "truncated": true,
- "more": "?limit=72",
+ "more": "?limit=74",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -95,6 +95,59 @@
   }
  },
  "rows": [
+  {
+   "id": "0001213900-26-110392",
+   "company": "Apogee Acquisition Corp",
+   "cik": "2102123",
+   "form": "8-K",
+   "items": [
+    "4.02",
+    "5.02"
+   ],
+   "ticker": "AACP",
+   "exchange": "Nasdaq",
+   "sector": "Blank Checks",
+   "filerCategory": "Emerging growth company",
+   "revenue": null,
+   "revenueFY": null,
+   "city": "CHEYENNE",
+   "hq": "WY",
+   "formerName": null,
+   "event": "2026-10-13",
+   "quote": null,
+   "sic": "6770",
+   "state": "E9",
+   "filed": "2026-10-19",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/2102123/000121390026110392/0001213900-26-110392-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2102123&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001376474-26-000654",
+   "company": "Globaltek Ventures, Inc.",
+   "cik": "1530185",
+   "form": "8-K",
+   "items": [
+    "4.01"
+   ],
+   "ticker": null,
+   "exchange": null,
+   "sector": "Manufacturing",
+   "filerCategory": null,
+   "revenue": null,
+   "revenueFY": null,
+   "city": "CHICAGO",
+   "hq": "IL",
+   "formerName": "Ameritek Ventures, Inc.",
+   "event": "2026-10-19",
+   "quote": null,
+   "sic": "3714",
+   "state": null,
+   "filed": "2026-10-19",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1530185/000137647426000654/0001376474-26-000654-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1530185&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001140361-26-039929",
    "company": "Terra Innovatum Global N.V.",
