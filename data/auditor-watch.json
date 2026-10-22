@@ -1,19 +1,19 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "12 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 19 Oct 2026, including Apogee Acquisition (AACP), Globaltek Ventures, Terra Innovatum Global (NKLR), Arrive AI (ARAI), GoPro (GPRO) and 7 more. The board holds 74, each linked to SEC EDGAR.",
- "as_of": "2026-10-21",
- "newest_filing": "2026-10-19",
+ "answer": "12 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 21 Oct 2026, including Mannatech (MTEX), Apogee Acquisition (AACP), Globaltek Ventures, Terra Innovatum Global (NKLR), Arrive AI (ARAI) and 7 more. The board holds 75, each linked to SEC EDGAR.",
+ "as_of": "2026-10-22",
+ "newest_filing": "2026-10-21",
  "last_7_days": 12,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-21T18:06:00.138Z",
+ "generated": "2026-10-22T18:01:17.187Z",
  "tracker": "auditor-watch",
- "total": 74,
- "returned": 71,
+ "total": 75,
+ "returned": 72,
  "truncated": true,
- "more": "?limit=74",
+ "more": "?limit=75",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -95,6 +95,33 @@
   }
  },
  "rows": [
+  {
+   "id": "0001437749-26-033029",
+   "company": "MANNATECH INC",
+   "cik": "1056358",
+   "form": "8-K",
+   "items": [
+    "4.01",
+    "9.01"
+   ],
+   "ticker": "MTEX",
+   "exchange": "Nasdaq",
+   "sector": "Medicinal Chemicals & Botanical Products",
+   "filerCategory": "Non-accelerated filer · Smaller reporting company",
+   "revenue": 108038000,
+   "revenueFY": "2025",
+   "city": "FLOWER MOUND",
+   "hq": "TX",
+   "formerName": null,
+   "event": "2026-10-15",
+   "quote": null,
+   "sic": "2833",
+   "state": "TX",
+   "filed": "2026-10-21",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1056358/000143774926033029/0001437749-26-033029-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1056358&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001213900-26-110392",
    "company": "Apogee Acquisition Corp",
