@@ -63,6 +63,8 @@ configs:
 
 # Edgar & Edgarette: the POPS4 Filing Boards
 
+[![DOI](https://zenodo.org/badge/1374577081.svg)](https://doi.org/10.5281/zenodo.23672509)
+
 The only open dataset of United States SEC filings that publishes every corporate event the day it is
 filed, reads every filer the way an actuary would, screens them the way an analyst would, and locks its
 forecasts with a hash before the outcome is known. Twelve boards, a card for every filer on them, and a
