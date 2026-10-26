@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below. Every row cites its own SEC filing in the source field."
+title: "POPS4 Filing Boards: SEC filings the day they are filed, with Edgar & Edgarette company cards"
+type: dataset
+version: "2026.10.26"
+date-released: "2026-10-26"
+license: CC-BY-4.0
+url: "https://www.pops4.com/boards"
+repository-code: "https://github.com/HuangGoodmanAgency/filing-boards"
+repository: "https://huggingface.co/datasets/jennyota/filing-boards"
+doi: "10.5281/zenodo.PENDING"
+authors:
+  - family-names: "Huang Goodman"
+    given-names: "Jenny"
+    affiliation: "Hako Shikin LLC, Virginia Beach, Virginia, USA"
+    email: "jenny@pops4.com"
+  - name: "POPS4 (Hako Shikin LLC)"
+    website: "https://www.pops4.com/"
+keywords:
+  - SEC
+  - EDGAR
+  - 8-K
+  - corporate events
+  - data breach disclosure
+  - executive changes
+  - mergers and acquisitions
+  - IPO
+  - proxy statements
+  - auditor changes
+  - financial statements
+  - forecast calibration
+  - prediction intervals
+  - primary source
+abstract: >
+  Twelve boards built from United States SEC filings on the day they are filed, one per 8-K item or form the filer declared,
+  plus a company card for every filer on the boards (about 3,000) read from its own audited XBRL facts in the style of an
+  actuarial report, and a forecast ledger in which every 80% revenue range is hashed before the outcome is known and scored
+  when the next annual report arrives. Nothing in the boards is written or inferred; every row links its filing on sec.gov.
+  Refreshed every business day. Free to use with credit to POPS4 under CC BY 4.0.
