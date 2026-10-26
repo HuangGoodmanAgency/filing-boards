@@ -1,0 +1,259 @@
+{
+ "question": "Which public companies disclosed a cybersecurity incident voluntarily, without declaring it material?",
+ "answer": "None in the last 7 days. The most recent: Pioneer Acquisition I (PACH), filed 14 Oct 2026; MSGS Spinco, filed 9 Oct 2026; Centerpoint Energy (CNP), filed 14 Sept 2026; and 3 more. The board holds 6, each linked to SEC EDGAR.",
+ "as_of": "2026-10-26",
+ "newest_filing": "2026-10-14",
+ "last_7_days": 0,
+ "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
+ "source": "SEC EDGAR",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "Free to use with credit to POPS4.",
+ "generated": "2026-10-26T16:04:11.742Z",
+ "tracker": "cyber-disclosures",
+ "total": 6,
+ "returned": 6,
+ "truncated": false,
+ "more": null,
+ "fields": {
+  "id": {
+   "from": "EDGAR accession number â the filing's own primary key."
+  },
+  "company": {
+   "from": "Conformed company name, as the filer states it in the filing header."
+  },
+  "cik": {
+   "from": "SEC Central Index Key for the filer."
+  },
+  "form": {
+   "from": "SEC form type. Always 8-K on these boards."
+  },
+  "items": {
+   "from": "The 8-K item numbers the FILER declared, read from the filing's .hdr.sgml <ITEMS> element.",
+   "note": "The filerâs own label, not our classification. Boards are selections of these numbers, nothing more."
+  },
+  "ticker": {
+   "from": "The SEC's own company_tickers file.",
+   "note": "null when the filer has no listed ticker."
+  },
+  "exchange": {
+   "from": "Exchange of record, from that same SEC file."
+  },
+  "sector": {
+   "from": "The SEC's sicDescription for the filer's assigned SIC code, unmodified.",
+   "note": "Falls back to the filing header's ORGANIZATION-NAME when companyfacts carries none."
+  },
+  "filerCategory": {
+   "from": "EDGAR filer category, e.g. \"Large accelerated filer\".",
+   "note": "Unmodified apart from stripping markup."
+  },
+  "revenue": {
+   "from": "Annual revenue in USD from the filer's OWN XBRL company facts: form 10-K, FY period, most recent by period end. First match of RevenueFromContractWithCustomerExcludingAssessedTax, Revenues, SalesRevenueNet, RevenueFromContractWithCustomerIncludingAssessedTax.",
+   "note": "null when the filer reports none under those concepts. Present on roughly 3 filers in 5."
+  },
+  "revenueFY": {
+   "from": "Fiscal year of that revenue figure, from the same fact's period end."
+  },
+  "city": {
+   "from": "Business address city on EDGAR, falling back to the filing header."
+  },
+  "hq": {
+   "from": "Business address state on EDGAR, falling back to the filing header.",
+   "note": "Where the company operates. NOT the same as `state`."
+  },
+  "formerName": {
+   "from": "FORMER-CONFORMED-NAME from the filer's own header.",
+   "note": "Present only when the filer has actually renamed."
+  },
+  "event": {
+   "from": "PERIOD from the filing header â the date of the event itself.",
+   "note": "Deliberately separate from `filed`. They are often different days."
+  },
+  "quote": {
+   "from": "One VERBATIM sentence from the filing's press-release exhibit.",
+   "note": "Never paraphrased, never summarised, always a whole sentence. null when the filing has no exhibit, the file exceeded our size limit, or no sentence qualified. Present on roughly 1 row in 3."
+  },
+  "sic": {
+   "from": "ASSIGNED-SIC from the filing header."
+  },
+  "state": {
+   "from": "STATE-OF-INCORPORATION from the filing header.",
+   "note": "Where the company is incorporated. NOT where it operates â see `hq`."
+  },
+  "filed": {
+   "from": "Date EDGAR accepted the filing."
+  },
+  "deadline": {
+   "from": "COMPUTED BY US: `filed` plus 30 calendar days. Breach Clock only, null on every other board.",
+   "note": "Not a date from any document. 30 is the shortest common statutory notification window; real obligations follow where affected residents live, so one breach runs several clocks."
+  },
+  "source": {
+   "from": "Link to the filing's own index page on sec.gov.",
+   "note": "Every row on these boards resolves to this document. This is the field that makes the rest checkable."
+  },
+  "profile": {
+   "from": "Link to the filer's 8-K history on EDGAR."
+  }
+ },
+ "rows": [
+  {
+   "id": "0001829126-26-011096",
+   "company": "Pioneer Acquisition I Corp",
+   "cik": "2040381",
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "ticker": "PACH",
+   "exchange": "Nasdaq",
+   "sector": "Blank Checks",
+   "filerCategory": "Emerging growth company",
+   "revenue": null,
+   "revenueFY": null,
+   "city": "BROOKLYN",
+   "hq": "NY",
+   "formerName": null,
+   "event": "2026-10-06",
+   "quote": "No Target Company has experienced any material information security incident that has compromised the integrity or availability of the information technology, operational technology, or software applications the Target Companies own, operate, or outsource, or the information or data thereon.",
+   "sic": "6770",
+   "state": "E9",
+   "filed": "2026-10-14",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/2040381/000182912626011096/0001829126-26-011096-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2040381&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001193125-26-419170",
+   "company": "MSGS Spinco, Inc.",
+   "cik": "2132873",
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "8.01",
+    "9.01"
+   ],
+   "ticker": null,
+   "exchange": null,
+   "sector": "Trade & Services",
+   "filerCategory": null,
+   "revenue": null,
+   "revenueFY": null,
+   "city": "NEW YORK",
+   "hq": "NY",
+   "formerName": null,
+   "event": "2026-10-09",
+   "quote": "For example, MSG Sports receives certain information technology services from MSG Entertainment under its services agreement, and in December 2025, MSG Entertainment identified and, with the assistance of a security firm, has taken measures to address a security incident involving MSG Entertainmentâs Oracle EBusiness Suite Enterprise Resource Planning system, which is utilized by MSG Sports.",
+   "sic": "7990",
+   "state": "NV",
+   "filed": "2026-10-09",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/2132873/000119312526419170/0001193125-26-419170-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2132873&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001104659-26-107560",
+   "company": "CENTERPOINT ENERGY INC",
+   "cik": "1130310",
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "ticker": "CNP",
+   "exchange": "NYSE",
+   "sector": "Electric Services",
+   "filerCategory": "Large accelerated filer",
+   "revenue": 9357000000,
+   "revenueFY": "2025",
+   "city": "HOUSTON",
+   "hq": "TX",
+   "formerName": null,
+   "event": null,
+   "quote": "While the investigation remains ongoing, the Company has determined that an unauthorized third party obtained personal information relating to a portion of the Companyâs customers through one of the Companyâs external facing systems (the âIncidentâ).",
+   "filed": "2026-09-14",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1130310/000110465926107560/0001104659-26-107560-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1130310&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001020859-26-000022",
+   "company": "UNITED NATURAL FOODS INC",
+   "cik": "1020859",
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "ticker": null,
+   "exchange": null,
+   "sector": null,
+   "filerCategory": null,
+   "revenue": null,
+   "revenueFY": null,
+   "city": null,
+   "hq": null,
+   "formerName": null,
+   "event": "2026-09-03",
+   "quote": "Sales in the fourth quarter of fiscal 2025 were impacted by the previously disclosed cybersecurity incident experienced in the fourth quarter of fiscal 2025.",
+   "sic": "5141",
+   "state": "DE",
+   "filed": "2026-09-08",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000022/0001020859-26-000022-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1020859&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001193125-26-385249",
+   "company": "Veradigm Inc.",
+   "cik": "1124804",
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "ticker": null,
+   "exchange": null,
+   "sector": null,
+   "filerCategory": null,
+   "revenue": null,
+   "revenueFY": null,
+   "city": null,
+   "hq": null,
+   "formerName": null,
+   "event": "2026-09-08",
+   "quote": "Veradigm Inc. (the âCompanyâ) recently learned that one of its third-party vendors experienced a cybersecurity incident that impacted certain data associated with a small number of the Companyâs customers.",
+   "sic": "7373",
+   "state": "DE",
+   "filed": "2026-09-08",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1124804/000119312526385249/0001193125-26-385249-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1124804&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001645113-26-000065",
+   "company": "NovoCure Ltd",
+   "cik": "1645113",
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "ticker": null,
+   "exchange": null,
+   "sector": null,
+   "filerCategory": null,
+   "revenue": null,
+   "revenueFY": null,
+   "city": null,
+   "hq": null,
+   "formerName": null,
+   "event": null,
+   "quote": "In mid-August 2026, NovoCure Limited (the \"Company,\" \"we,\" or \"us\") through a subsidiary, became aware of unauthorized access to some of its information systems.",
+   "filed": "2026-09-01",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000065/0001645113-26-000065-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645113&type=8-K&dateb=&owner=include&count=40"
+  }
+ ],
+ "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
+}

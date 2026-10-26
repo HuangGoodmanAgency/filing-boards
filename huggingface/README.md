@@ -2,9 +2,9 @@
 license: cc-by-4.0
 language:
   - en
-pretty_name: POPS4 Filing Boards — SEC 8-K signals
+pretty_name: POPS4 Filing Boards — SEC filings the day they are filed, with Edgar & Edgarette company cards
 size_categories:
-  - 1K<n<10K
+  - 10K<n<100K
 task_categories:
   - tabular-classification
   - text-retrieval
@@ -22,6 +22,12 @@ tags:
   - uncertainty-quantification
   - pre-registered
   - outcome-supervision
+  - company-fundamentals
+  - xbrl
+  - altman-z
+  - piotroski
+  - cybersecurity-incidents
+  - agentic-commerce
 configs:
   - config_name: cmo-moves
     data_files: data/cmo-moves.csv
@@ -41,14 +47,25 @@ configs:
     data_files: data/breaches.csv
   - config_name: auditor-watch
     data_files: data/auditor-watch.csv
+  - config_name: cyber-disclosures
+    data_files: data/cyber-disclosures.csv
+  - config_name: agentic-commerce
+    data_files: data/agentic-commerce.csv
+  - config_name: subsea-data
+    data_files: data/subsea-data.csv
+  - config_name: company-cards
+    data_files: data/company-cards.csv
+  - config_name: company-cards-full
+    data_files: data/company-cards.jsonl
   - config_name: forecast-ledger
     data_files: data/forecast-ledger.csv
 ---
 
 # POPS4 Filing Boards
 
-Nine tables built from United States SEC filings, refreshed every business day, each row linked to the
-original document on EDGAR.
+Twelve tables built from United States SEC filings, refreshed every business day, each row linked to the
+original document on EDGAR; a card for every filer on them, read from its own audited XBRL facts; and a
+forecast ledger in which every range is hashed before the outcome is known and scored after.
 
 Live boards: **https://www.pops4.com/boards**
 Source repository: **https://github.com/HuangGoodmanAgency/filing-boards**
@@ -80,6 +97,31 @@ independently checkable against a public primary document.
 | `restructuring` | 8-K Item 2.05 | Costs associated with exit or disposal activities |
 | `breaches` | 8-K Item 1.05 | Material cybersecurity incidents |
 | `auditor-watch` | 8-K Items 4.01, 4.02 | Auditor changes, and non-reliance on earlier financial statements |
+| `cyber-disclosures` | 8-K Items 8.01, 7.01 | Cybersecurity incidents disclosed voluntarily, without declaring them material |
+| `agentic-commerce` | Full-text search | Filers that say AI agents shop, buy, pay or procure for their customers, in the filer's own sentence |
+| `subsea-data` | Full-text search | Filers on undersea cables, cable landings, offshore wind for data centres, ocean cooling |
+
+## Company cards
+
+One card per SEC filer that has appeared on any board (about 3,000, growing with the boards), schema
+`pops4.edgarette.card/1`, read from the company's own audited XBRL company facts and its filing history
+on EDGAR. Refreshed every business day. The live page for any card is
+`https://www.pops4.com/boards/company/{cik}` (a ticker works too).
+
+`company-cards` is the flat summary, one row per company:
+
+- the last filing (form, items, date, link) and the count of event filings in the past twelve months
+- revenue, growth over one year and per year, operating and net margin, free cash flow, R&D
+- Altman Z with its zone, Piotroski F, Beneish M
+- the Health Harbor level and the Cash Compass quadrant
+- the 80% revenue range for next year: when it was logged, its hash, and its status in the forecast registry
+- the backtest: how many of the company's own past years the same method would have caught
+- two plain-language lines, Edgar's (what was filed) and Edgarette's (what the numbers say), and a one-paragraph summary
+
+`company-cards-full` is the whole card as one JSON object per line: filings, metrics, signals with their
+formulas and inputs, peers, harbor, cash flow, investments, the backtest by year, the registry entry,
+definitions, and the sources on EDGAR each figure was read from. About 2,600 of the 3,000 carry a ticker
+and about 2,150 carry audited revenue; the rest are filers without XBRL facts, and the card says so.
 
 ## Edgar & Edgarette
 
@@ -184,15 +226,26 @@ Both faces answer machines directly, free and without a key:
 Underlying filings are published by the U.S. Securities and Exchange Commission and are public
 domain. This dataset adds structure and links, not content.
 
+## Freshness and integrity
+
+- The boards refresh hourly on weekdays at the source; this mirror updates every business day.
+- `https://www.pops4.com/boards/status.json` reports `state`, `newestFiling` and the day's SHA-256 seal, for
+  pipelines that gate on freshness.
+- `data/forecast-ledger-root.json` and `data/roots.log` carry the daily root over every receipt. Anyone can
+  recompute it.
+
 ## Citation
+
+Cite the board for the selection and the row's `source` URL for the fact: the board is ours, the fact is
+the filer's. For a company card, cite the card's own `sources` fields. A `CITATION.cff` sits beside this file.
 
 ```bibtex
 @misc{pops4_filing_boards,
-  title  = {POPS4 Filing Boards: SEC 8-K signals with primary-source links},
+  title  = {POPS4 Filing Boards: SEC filings the day they are filed, with Edgar & Edgarette company cards},
   author = {Huang Goodman, Jenny},
   year   = {2026},
-  url    = {https://www.pops4.com/boards},
-  note   = {Hako Shikin LLC. CC BY 4.0.}
+  url    = {https://huggingface.co/datasets/jennyota/filing-boards},
+  note   = {Hako Shikin LLC. CC BY 4.0. Live at https://www.pops4.com/boards. Each row cites its SEC filing in the source field.}
 }
 ```
 

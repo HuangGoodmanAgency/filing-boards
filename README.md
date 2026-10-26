@@ -1,6 +1,6 @@
 # POPS4 Filing Boards
 
-**Nine public tables built from United States SEC filings, published the day those filings appear.**
+**Twelve public tables built from United States SEC filings, published the day those filings appear, and a card for every filer on them.**
 
 Live boards: **https://www.pops4.com/boards**
 Licence: **CC BY 4.0** — free to use with credit to POPS4.
@@ -196,7 +196,7 @@ present it also pushes the same files to Hugging Face.
 POPS4 is one house with two faces, and they pay for each other.
 
 **The record.** Edgar and Edgarette read what companies file with the SEC and put it in public,
-free, the day it is filed — nine boards, an actuarial reading of any US filer, and a forecast
+free, the day it is filed — twelve boards, an actuarial reading of any US filer, and a forecast
 ledger that is scored in the open. Free is the point: an open record that can be checked is
 what makes the house worth believing. It earns nothing directly, and the other face carries it.
 

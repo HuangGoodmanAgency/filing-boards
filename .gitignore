@@ -2,3 +2,6 @@
 Thumbs.db
 node_modules/
 mcp-publisher.exe
+# Built each run by tools/company_cards.py and mirrored to Hugging Face only.
+cards/
+__pycache__/
