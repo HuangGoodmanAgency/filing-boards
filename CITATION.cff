@@ -8,7 +8,14 @@ license: CC-BY-4.0
 url: "https://www.pops4.com/boards"
 repository-code: "https://github.com/HuangGoodmanAgency/filing-boards"
 repository: "https://huggingface.co/datasets/jennyota/filing-boards"
-doi: "10.5281/zenodo.PENDING"
+doi: "10.5281/zenodo.23672509"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23672509"
+    description: "Concept DOI, resolves to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.23672510"
+    description: "Version v2026.10.26.1"
 authors:
   - family-names: "Huang Goodman"
     given-names: "Jenny"

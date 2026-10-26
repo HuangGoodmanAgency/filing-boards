@@ -250,16 +250,21 @@ domain. This dataset adds structure and links, not content.
 
 ## Citation
 
+**DOI: [10.5281/zenodo.23672509](https://doi.org/10.5281/zenodo.23672509)** (concept DOI, always the latest
+version; each release carries its own). Archived by Zenodo from every GitHub release.
+
 Cite the board for the selection and the row's `source` URL for the fact: the board is ours, the fact is
 the filer's. For a company card, cite the card's own `sources` fields. A `CITATION.cff` sits beside this file.
 
 ```bibtex
-@misc{pops4_filing_boards,
-  title  = {POPS4 Filing Boards: SEC filings the day they are filed, with Edgar & Edgarette company cards},
-  author = {Huang Goodman, Jenny},
-  year   = {2026},
-  url    = {https://huggingface.co/datasets/jennyota/filing-boards},
-  note   = {Hako Shikin LLC. CC BY 4.0. Live at https://www.pops4.com/boards. Each row cites its SEC filing in the source field.}
+@dataset{pops4_filing_boards,
+  title     = {Edgar & Edgarette: every SEC 8-K event the day it is filed, Altman, Piotroski, Beneish and a credibility-weighted forecast range for every filer, scored in public (POPS4 Filing Boards)},
+  author    = {Huang Goodman, Jenny},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.23672509},
+  url       = {https://doi.org/10.5281/zenodo.23672509},
+  note      = {Hako Shikin LLC. CC BY 4.0. Live at https://www.pops4.com/boards. Each row cites its SEC filing in the source field.}
 }
 ```
 
