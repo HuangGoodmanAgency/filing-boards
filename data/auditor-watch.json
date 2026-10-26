@@ -1,14 +1,14 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "11 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 22 Oct 2026, including Shuttle Pharmaceuticals Holdings (SHPH), Nano Mobile Healthcare, Mannatech (MTEX), Apogee Acquisition (AACP), Globaltek Ventures and 6 more. The board holds 77, each linked to SEC EDGAR.",
- "as_of": "2026-10-23",
+ "answer": "5 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 22 Oct 2026, including Shuttle Pharmaceuticals Holdings (SHPH), Nano Mobile Healthcare, Mannatech (MTEX), Apogee Acquisition (AACP), Globaltek Ventures. The board holds 77, each linked to SEC EDGAR.",
+ "as_of": "2026-10-26",
  "newest_filing": "2026-10-22",
- "last_7_days": 11,
+ "last_7_days": 5,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-23T17:53:47.022Z",
+ "generated": "2026-10-26T17:08:41.714Z",
  "tracker": "auditor-watch",
  "total": 77,
  "returned": 74,
@@ -118,6 +118,7 @@
    "sic": "2834",
    "state": "DE",
    "filed": "2026-10-22",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1757499/000149315226048112/0001493152-26-048112-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1757499&type=8-K&dateb=&owner=include&count=40"
@@ -146,6 +147,7 @@
    "sic": "3790",
    "state": "DE",
    "filed": "2026-10-22",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1497130/000190359626000374/0001903596-26-000374-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1497130&type=8-K&dateb=&owner=include&count=40"
@@ -173,6 +175,7 @@
    "sic": "2833",
    "state": "TX",
    "filed": "2026-10-21",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1056358/000143774926033029/0001437749-26-033029-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1056358&type=8-K&dateb=&owner=include&count=40"
@@ -200,6 +203,7 @@
    "sic": "6770",
    "state": "E9",
    "filed": "2026-10-19",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/2102123/000121390026110392/0001213900-26-110392-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2102123&type=8-K&dateb=&owner=include&count=40"
@@ -226,6 +230,7 @@
    "sic": "3714",
    "state": null,
    "filed": "2026-10-19",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1530185/000137647426000654/0001376474-26-000654-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1530185&type=8-K&dateb=&owner=include&count=40"
@@ -253,6 +258,7 @@
    "sic": "3443",
    "state": "L6",
    "filed": "2026-10-16",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/2067627/000114036126039929/0001140361-26-039929-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2067627&type=8-K&dateb=&owner=include&count=40"
@@ -280,6 +286,7 @@
    "sic": "7340",
    "state": "DE",
    "filed": "2026-10-16",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1818274/000149315226047406/0001493152-26-047406-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1818274&type=8-K&dateb=&owner=include&count=40"
@@ -308,6 +315,7 @@
    "sic": "3861",
    "state": "DE",
    "filed": "2026-10-16",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1500435/000150043526000064/0001500435-26-000064-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1500435&type=8-K&dateb=&owner=include&count=40"
@@ -335,6 +343,7 @@
    "sic": "2836",
    "state": "NV",
    "filed": "2026-10-16",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1157075/000168316826007934/0001683168-26-007934-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1157075&type=8-K&dateb=&owner=include&count=40"
@@ -361,6 +370,7 @@
    "sic": "7900",
    "state": "DE",
    "filed": "2026-10-16",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626001958/0001753926-26-001958-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1947210&type=8-K&dateb=&owner=include&count=40"
@@ -388,6 +398,7 @@
    "sic": "3679",
    "state": "NY",
    "filed": "2026-10-16",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/33533/000207709626000284/0002077096-26-000284-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=33533&type=8-K&dateb=&owner=include&count=40"
@@ -415,6 +426,7 @@
    "sic": "3812",
    "state": "DE",
    "filed": "2026-10-15",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/2034161/000109690626001549/0001096906-26-001549-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2034161&type=8-K&dateb=&owner=include&count=40"
@@ -445,6 +457,7 @@
    "sic": "3714",
    "state": null,
    "filed": "2026-10-15",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1530185/000137647426000649/0001376474-26-000649-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1530185&type=8-K&dateb=&owner=include&count=40"
@@ -472,6 +485,7 @@
    "sic": "7363",
    "state": "TX",
    "filed": "2026-10-15",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/34285/000149315226047156/0001493152-26-047156-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=34285&type=8-K&dateb=&owner=include&count=40"
@@ -500,6 +514,7 @@
    "sic": "6199",
    "state": "UT",
    "filed": "2026-10-14",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1414767/000149315226047004/0001493152-26-047004-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1414767&type=8-K&dateb=&owner=include&count=40"
@@ -526,6 +541,7 @@
    "sic": "1311",
    "state": "DE",
    "filed": "2026-10-13",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1842556/000121390026108614/0001213900-26-108614-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1842556&type=8-K&dateb=&owner=include&count=40"
@@ -553,6 +569,7 @@
    "sic": "7389",
    "state": "NV",
    "filed": "2026-10-13",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1624985/000168316826007802/0001683168-26-007802-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1624985&type=8-K&dateb=&owner=include&count=40"
@@ -580,6 +597,7 @@
    "sic": "3841",
    "state": "DE",
    "filed": "2026-10-09",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026108552/0001213900-26-108552-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1859807&type=8-K&dateb=&owner=include&count=40"
@@ -607,6 +625,7 @@
    "sic": "2834",
    "state": "FL",
    "filed": "2026-10-09",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1035422/000147793226006156/0001477932-26-006156-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1035422&type=8-K&dateb=&owner=include&count=40"
@@ -634,6 +653,7 @@
    "sic": "1040",
    "state": "NV",
    "filed": "2026-10-09",
+   "lane": null,
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1506929/000149315226046517/0001493152-26-046517-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1506929&type=8-K&dateb=&owner=include&count=40"

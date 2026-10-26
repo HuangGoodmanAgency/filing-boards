@@ -2,8 +2,8 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-23T13:29:32.528Z",
- "swept": 7745,
+ "generated": "2026-10-26T07:00:54.653Z",
+ "swept": 7764,
  "fields": "https://www.pops4.com/boards/fields.json",
  "trackers": [
   {
@@ -13,6 +13,22 @@
    "line": "breach notification letters",
    "scope": "SEC 8-K Item 1.05",
    "rows": 4
+  },
+  {
+   "key": "agentic-commerce",
+   "title": "Agentic Commerce Watch",
+   "sub": "SEC filings · AI agents that shop, buy, order, pay, procure or transact on someone’s behalf · the filer’s own sentence",
+   "line": "AI visibility briefing",
+   "scope": "SEC full-text search · agents that shop, buy, pay and procure",
+   "rows": 24
+  },
+  {
+   "key": "subsea-data",
+   "title": "Subsea Data Watch",
+   "sub": "SEC filings · undersea cables, cable landings, offshore wind for data centres, ocean cooling · the filer’s own sentence",
+   "line": "infrastructure briefing",
+   "scope": "SEC full-text search · cables, landings, ocean cooling",
+   "rows": 21
   },
   {
    "key": "cyber-disclosures",
@@ -36,7 +52,7 @@
    "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
    "line": "identity integration",
    "scope": "SEC 8-K Item 2.01, 5.01",
-   "rows": 197
+   "rows": 198
   },
   {
    "key": "agreements",
@@ -44,7 +60,7 @@
    "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
    "line": "partnership programs",
    "scope": "SEC 8-K Item 1.01",
-   "rows": 1471
+   "rows": 1472
   },
   {
    "key": "restructuring",
@@ -60,7 +76,7 @@
    "sub": "SEC 8-K Item 5.02 · departures and appointments",
    "line": "rebrand and launch",
    "scope": "SEC 8-K Item 5.02",
-   "rows": 1374
+   "rows": 1376
   },
   {
    "key": "ipo-watch",
@@ -68,7 +84,7 @@
    "sub": "SEC Form S-1 · companies registering to go public",
    "line": "listing-day build-out",
    "scope": "SEC Form S-1",
-   "rows": 123
+   "rows": 126
   },
   {
    "key": "annual-meetings",
@@ -76,7 +92,7 @@
    "sub": "SEC Form DEF 14A · definitive proxy statements",
    "line": "event programs",
    "scope": "SEC Form DEF 14A",
-   "rows": 375
+   "rows": 387
   },
   {
    "key": "auditor-watch",

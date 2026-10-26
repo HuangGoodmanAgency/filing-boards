@@ -8,7 +8,7 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-26T16:04:11.742Z",
+ "generated": "2026-10-26T17:08:19.740Z",
  "tracker": "cyber-disclosures",
  "total": 6,
  "returned": 6,
@@ -16,7 +16,7 @@
  "more": null,
  "fields": {
   "id": {
-   "from": "EDGAR accession number â the filing's own primary key."
+   "from": "EDGAR accession number — the filing's own primary key."
   },
   "company": {
    "from": "Conformed company name, as the filer states it in the filing header."
@@ -29,7 +29,7 @@
   },
   "items": {
    "from": "The 8-K item numbers the FILER declared, read from the filing's .hdr.sgml <ITEMS> element.",
-   "note": "The filerâs own label, not our classification. Boards are selections of these numbers, nothing more."
+   "note": "The filer’s own label, not our classification. Boards are selections of these numbers, nothing more."
   },
   "ticker": {
    "from": "The SEC's own company_tickers file.",
@@ -65,7 +65,7 @@
    "note": "Present only when the filer has actually renamed."
   },
   "event": {
-   "from": "PERIOD from the filing header â the date of the event itself.",
+   "from": "PERIOD from the filing header — the date of the event itself.",
    "note": "Deliberately separate from `filed`. They are often different days."
   },
   "quote": {
@@ -77,7 +77,7 @@
   },
   "state": {
    "from": "STATE-OF-INCORPORATION from the filing header.",
-   "note": "Where the company is incorporated. NOT where it operates â see `hq`."
+   "note": "Where the company is incorporated. NOT where it operates — see `hq`."
   },
   "filed": {
    "from": "Date EDGAR accepted the filing."
@@ -143,7 +143,7 @@
    "hq": "NY",
    "formerName": null,
    "event": "2026-10-09",
-   "quote": "For example, MSG Sports receives certain information technology services from MSG Entertainment under its services agreement, and in December 2025, MSG Entertainment identified and, with the assistance of a security firm, has taken measures to address a security incident involving MSG Entertainmentâs Oracle EBusiness Suite Enterprise Resource Planning system, which is utilized by MSG Sports.",
+   "quote": "For example, MSG Sports receives certain information technology services from MSG Entertainment under its services agreement, and in December 2025, MSG Entertainment identified and, with the assistance of a security firm, has taken measures to address a security incident involving MSG Entertainment’s Oracle EBusiness Suite Enterprise Resource Planning system, which is utilized by MSG Sports.",
    "sic": "7990",
    "state": "NV",
    "filed": "2026-10-09",
@@ -169,7 +169,7 @@
    "hq": "TX",
    "formerName": null,
    "event": null,
-   "quote": "While the investigation remains ongoing, the Company has determined that an unauthorized third party obtained personal information relating to a portion of the Companyâs customers through one of the Companyâs external facing systems (the âIncidentâ).",
+   "quote": "While the investigation remains ongoing, the Company has determined that an unauthorized third party obtained personal information relating to a portion of the Company’s customers through one of the Company’s external facing systems (the “Incident”).",
    "filed": "2026-09-14",
    "deadline": null,
    "source": "https://www.sec.gov/Archives/edgar/data/1130310/000110465926107560/0001104659-26-107560-index.htm",
@@ -221,7 +221,7 @@
    "hq": null,
    "formerName": null,
    "event": "2026-09-08",
-   "quote": "Veradigm Inc. (the âCompanyâ) recently learned that one of its third-party vendors experienced a cybersecurity incident that impacted certain data associated with a small number of the Companyâs customers.",
+   "quote": "Veradigm Inc. (the “Company”) recently learned that one of its third-party vendors experienced a cybersecurity incident that impacted certain data associated with a small number of the Company’s customers.",
    "sic": "7373",
    "state": "DE",
    "filed": "2026-09-08",
