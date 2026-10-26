@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset, cite it as below. Every row cites its own SEC filing in the source field."
-title: "POPS4 Filing Boards: SEC filings the day they are filed, with Edgar & Edgarette company cards"
+title: "Edgar & Edgarette: every SEC 8-K event the day it is filed, Altman, Piotroski, Beneish and a credibility-weighted forecast range for every filer, scored in public (POPS4 Filing Boards)"
 type: dataset
 version: "2026.10.26"
 date-released: "2026-10-26"
