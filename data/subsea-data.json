@@ -1,6 +1,6 @@
 {
  "question": "Which public companies are filing about undersea cables, cable landings, offshore wind for data centres or ocean cooling?",
- "answer": "Underwater data centres named in SEC filings in the last 12 months: 0. The first filer to say it will appear here. In the last 7 days, 1 company named undersea cables, cable landing stations, offshore wind for data centres or ocean cooling in an SEC filing: Bw Lpg, filed 20 Oct 2026. The board holds 30, each with the filer’s own sentence and a link to SEC EDGAR.",
+ "answer": "Underwater data centres named in SEC filings in the last 12 months: 0. The first filer to say it will appear here. In the last 7 days, 1 company named undersea cables, cable landing stations, offshore wind for data centres or ocean cooling in an SEC filing: Bw Lpg, filed 20 Oct 2026. The board holds 31, each with the filer’s own sentence and a link to SEC EDGAR.",
  "as_of": "2026-10-26",
  "newest_filing": "2026-06-22",
  "last_7_days": 1,
@@ -8,12 +8,15 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-26T17:08:44.642Z",
+ "cite": "POPS4, Edgar & Edgarette: Subsea Data Watch (SEC filings · undersea cables, cable landings, offshore wind for data centres, ocean cooling · the filer’s own sentence), accessed 2026-10-26, https://www.pops4.com/boards/subsea-data. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "doi": "https://doi.org/10.5281/zenodo.23672509",
+ "catalog": "https://www.pops4.com/boards/catalog.json",
+ "generated": "2026-10-26T19:21:47.415Z",
  "tracker": "subsea-data",
- "total": 30,
+ "total": 31,
  "returned": 16,
  "truncated": true,
- "more": "?limit=30",
+ "more": "?limit=31",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
