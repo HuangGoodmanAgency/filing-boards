@@ -1,22 +1,22 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "5 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 22 Oct 2026, including Ebay, Fractyl Health (GUTS), Flutter Entertainment (FLUT), Northpointe Bancshares (NPB), EyePoint (EYPT). The board holds 35, each linked to SEC EDGAR.",
- "as_of": "2026-10-26",
- "newest_filing": "2026-10-22",
+ "answer": "5 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 26 Oct 2026, including Maplebear (CART), Ebay, Fractyl Health (GUTS), Flutter Entertainment (FLUT), Northpointe Bancshares (NPB). The board holds 36, each linked to SEC EDGAR.",
+ "as_of": "2026-10-27",
+ "newest_filing": "2026-10-26",
  "last_7_days": 5,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-10-26, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-10-27, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-10-26T19:21:35.394Z",
+ "generated": "2026-10-27T18:42:51.331Z",
  "tracker": "restructuring",
- "total": 35,
- "returned": 30,
+ "total": 36,
+ "returned": 31,
  "truncated": true,
- "more": "?limit=35",
+ "more": "?limit=36",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,33 @@
   }
  },
  "rows": [
+  {
+   "id": "0001579091-26-000050",
+   "company": "Maplebear Inc.",
+   "cik": "1579091",
+   "form": "8-K",
+   "items": [
+    "2.05"
+   ],
+   "ticker": "CART",
+   "exchange": "Nasdaq",
+   "sector": "Services-Business Services, NEC",
+   "filerCategory": "Large accelerated filer",
+   "revenue": 3742000000,
+   "revenueFY": "2025",
+   "city": "SAN FRANCISCO",
+   "hq": "CA",
+   "formerName": null,
+   "event": "2026-10-25",
+   "quote": null,
+   "sic": "7389",
+   "state": "DE",
+   "filed": "2026-10-26",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1579091/000157909126000050/0001579091-26-000050-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1579091&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001065088-26-000205",
    "company": "EBAY INC",
