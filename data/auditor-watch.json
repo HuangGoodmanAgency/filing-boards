@@ -1,22 +1,22 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "5 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 26 Oct 2026, including Datavault AI (DVLT), Panamera Holdings (PHCI), Shuttle Pharmaceuticals Holdings (SHPH), Nano Mobile Healthcare, Mannatech (MTEX). The board holds 79, each linked to SEC EDGAR.",
- "as_of": "2026-10-27",
- "newest_filing": "2026-10-26",
- "last_7_days": 5,
+ "answer": "6 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 27 Oct 2026, including Terra Innovatum Global (NKLR), Datavault AI (DVLT), Panamera Holdings (PHCI), Shuttle Pharmaceuticals Holdings (SHPH), Nano Mobile Healthcare and 1 more. The board holds 80, each linked to SEC EDGAR.",
+ "as_of": "2026-10-28",
+ "newest_filing": "2026-10-27",
+ "last_7_days": 6,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Auditor Watch (SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance), accessed 2026-10-27, https://www.pops4.com/boards/auditor-watch. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Auditor Watch (SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance), accessed 2026-10-28, https://www.pops4.com/boards/auditor-watch. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-10-27T18:43:00.796Z",
+ "generated": "2026-10-28T18:52:54.604Z",
  "tracker": "auditor-watch",
- "total": 79,
- "returned": 76,
+ "total": 80,
+ "returned": 77,
  "truncated": true,
- "more": "?limit=79",
+ "more": "?limit=80",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,34 @@
   }
  },
  "rows": [
+  {
+   "id": "0001140361-26-040902",
+   "company": "Terra Innovatum Global N.V.",
+   "cik": "2067627",
+   "form": "8-K",
+   "items": [
+    "4.01",
+    "9.01"
+   ],
+   "ticker": "NKLR",
+   "exchange": "Nasdaq",
+   "sector": "Fabricated Plate Work (Boiler Shops)",
+   "filerCategory": "Emerging growth company",
+   "revenue": null,
+   "revenueFY": null,
+   "city": "LUCCA",
+   "hq": null,
+   "formerName": "Terra Innovatum Global S.R.L.",
+   "event": "2026-10-23",
+   "quote": null,
+   "sic": "3443",
+   "state": "L6",
+   "filed": "2026-10-27",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/2067627/000114036126040902/0001140361-26-040902-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2067627&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001104659-26-118772",
    "company": "Datavault AI Inc.",

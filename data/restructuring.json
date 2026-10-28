@@ -1,22 +1,22 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "5 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 26 Oct 2026, including Maplebear (CART), Ebay, Fractyl Health (GUTS), Flutter Entertainment (FLUT), Northpointe Bancshares (NPB). The board holds 36, each linked to SEC EDGAR.",
- "as_of": "2026-10-27",
- "newest_filing": "2026-10-26",
- "last_7_days": 5,
+ "answer": "4 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 27 Oct 2026, including Artiva Biotherapeutics (ARTV), Maplebear (CART), Ebay, Fractyl Health (GUTS). The board holds 37, each linked to SEC EDGAR.",
+ "as_of": "2026-10-28",
+ "newest_filing": "2026-10-27",
+ "last_7_days": 4,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-10-27, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-10-28, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-10-27T18:42:51.331Z",
+ "generated": "2026-10-28T18:52:43.536Z",
  "tracker": "restructuring",
- "total": 36,
- "returned": 31,
+ "total": 37,
+ "returned": 32,
  "truncated": true,
- "more": "?limit=36",
+ "more": "?limit=37",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,35 @@
   }
  },
  "rows": [
+  {
+   "id": "0001193125-26-432806",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "cik": "1817241",
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "2.05",
+    "9.01"
+   ],
+   "ticker": "ARTV",
+   "exchange": "Nasdaq",
+   "sector": "Biological Products, (No Diagnostic Substances)",
+   "filerCategory": "Emerging growth company",
+   "revenue": 251000,
+   "revenueFY": "2024",
+   "city": "SAN DIEGO",
+   "hq": "CA",
+   "formerName": null,
+   "event": "2026-10-22",
+   "quote": null,
+   "sic": "2836",
+   "state": "DE",
+   "filed": "2026-10-27",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1817241/000119312526432806/0001193125-26-432806-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1817241&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001579091-26-000050",
    "company": "Maplebear Inc.",
