@@ -1,6 +1,6 @@
 # POPS4 Filing Boards
 
-**Twelve public tables built from United States SEC filings, published the day those filings appear, and a card for every filer on them.**
+**Twelve public tables built from United States SEC filings, published the business day after each filing from the settled SEC daily index, and a card for every filer on them.**
 
 Live boards: **https://www.pops4.com/boards**
 Licence: **CC BY 4.0** — free to use with credit to POPS4.
@@ -15,6 +15,23 @@ public, that day. This repository publishes those filings as plain tables, sorte
 company itself declared, with a link back to every original document.
 
 **Nothing here is written. Nothing is interpreted.** It is a record, not an article.
+
+## Why depend on this
+
+- **Fresh every business day, with the receipt.** The settled SEC daily index is read from 13:15 UTC the next
+  business day and every hour after; the public record page shows filings read per index day, when they were
+  first read, and who read them: https://www.pops4.com/boards/record (JSON: /boards/record.json).
+- **Scored in the open.** Every forecast range is hashed when it is logged and scored when the next 10-K lands.
+  Inside rate and every receipt: https://www.pops4.com/boards/scorecard. 83.4% of 3,134 companies landed inside
+  on the 2024 holdout year the method never saw.
+- **One row, one document.** No row exists without a link to its filing on sec.gov. Nothing is written or inferred.
+- **Every shape a machine wants.** JSON, CSV, RSS and Markdown twins for every board; an MCP endpoint with no key;
+  a DataCatalog with a DOI (10.5281/zenodo.23672509); this repository and the Hugging Face mirror refreshed daily.
+- **Read by the assistants already.** Named AI readers and tool calls are counted on the record page, apart from
+  registry probes, so the number you see is the true one.
+- **The AI line in the filings.** Annual-report documents using the phrase "artificial intelligence" went from 848
+  in 2021 to 3,904 by 28 October 2026; "AI governance" from 20 to 226 in two years. The house re-reads those lines on
+  the first business day of each month and publishes the counts, sealed with a receipt.
 
 ## The rule
 
@@ -196,7 +213,7 @@ present it also pushes the same files to Hugging Face.
 POPS4 is one house with two faces, and they pay for each other.
 
 **The record.** Edgar and Edgarette read what companies file with the SEC and put it in public,
-free, the day it is filed — twelve boards, an actuarial reading of any US filer, and a forecast
+free, the business day after it is filed, from the settled SEC daily index — twelve boards, an actuarial reading of any US filer, and a forecast
 ledger that is scored in the open. Free is the point: an open record that can be checked is
 what makes the house worth believing. It earns nothing directly, and the other face carries it.
 
