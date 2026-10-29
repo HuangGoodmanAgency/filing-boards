@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.HuangGoodmanAgency/edgar-and-edgarette",
   "title": "Edgar & Edgarette: SEC Filing Boards",
-  "description": "SEC filings the day they are filed, sorted onto twelve boards, plus an actuarial card for any US filer and a forecast ledger scored in public. Every figure links its SEC source. Free, no auth, CC BY 4.0.",
+  "description": "SEC filings the business day after they are filed, from the settled SEC daily index, sorted onto twelve boards, plus an audited card for every company that files, the measures that precede a company going exponential or going under, and a forecast ledger scored in public. Every figure links its SEC source. Free, no auth, CC BY 4.0.",
   "version": "2.1.0",
   "websiteUrl": "https://www.pops4.com/boards/developers",
   "repository": {
