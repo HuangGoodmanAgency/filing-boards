@@ -2,8 +2,8 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-10-28T17:30:55.522Z",
- "swept": 8615,
+ "generated": "2026-10-29T18:58:36.221Z",
+ "swept": 9007,
  "fields": "https://www.pops4.com/boards/fields.json",
  "trackers": [
   {
@@ -20,7 +20,7 @@
    "sub": "SEC filings · AI agents that shop, buy, order, pay, procure or transact on someone’s behalf · the filer’s own sentence",
    "line": "AI visibility briefing",
    "scope": "SEC full-text search · agents that shop, buy, pay and procure",
-   "rows": 63
+   "rows": 86
   },
   {
    "key": "subsea-data",
@@ -28,7 +28,7 @@
    "sub": "SEC filings · undersea cables, cable landings, offshore wind for data centres, ocean cooling · the filer’s own sentence",
    "line": "infrastructure briefing",
    "scope": "SEC full-text search · cables, landings, ocean cooling",
-   "rows": 45
+   "rows": 46
   },
   {
    "key": "cyber-disclosures",
@@ -44,7 +44,7 @@
    "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
    "line": "full reprint",
    "scope": "SEC 8-K Item 5.03",
-   "rows": 357
+   "rows": 363
   },
   {
    "key": "mergers",
@@ -52,7 +52,7 @@
    "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
    "line": "identity integration",
    "scope": "SEC 8-K Item 2.01, 5.01",
-   "rows": 220
+   "rows": 221
   },
   {
    "key": "agreements",
@@ -60,7 +60,7 @@
    "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
    "line": "partnership programs",
    "scope": "SEC 8-K Item 1.01",
-   "rows": 1583
+   "rows": 1618
   },
   {
    "key": "restructuring",
@@ -68,7 +68,7 @@
    "sub": "SEC 8-K Item 2.05 · costs associated with exit or disposal",
    "line": "vendor consolidation",
    "scope": "SEC 8-K Item 2.05",
-   "rows": 37
+   "rows": 39
   },
   {
    "key": "cmo-moves",
@@ -76,7 +76,7 @@
    "sub": "SEC 8-K Item 5.02 · departures and appointments",
    "line": "rebrand and launch",
    "scope": "SEC 8-K Item 5.02",
-   "rows": 1510
+   "rows": 1550
   },
   {
    "key": "ipo-watch",
@@ -92,7 +92,7 @@
    "sub": "SEC Form DEF 14A · definitive proxy statements",
    "line": "event programs",
    "scope": "SEC Form DEF 14A",
-   "rows": 455
+   "rows": 465
   },
   {
    "key": "auditor-watch",
@@ -100,7 +100,7 @@
    "sub": "SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance",
    "line": "investor communications",
    "scope": "SEC 8-K Item 4.01, 4.02",
-   "rows": 80
+   "rows": 82
   }
  ],
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
