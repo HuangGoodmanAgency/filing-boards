@@ -1,22 +1,22 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "7 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 28 Oct 2026, including Ocean Power Technologies (OPTT), Alphatime Acquisition, Terra Innovatum Global (NKLR), Datavault AI (DVLT), Panamera Holdings (PHCI) and 2 more. The board holds 82, each linked to SEC EDGAR.",
- "as_of": "2026-10-29",
- "newest_filing": "2026-10-28",
- "last_7_days": 7,
+ "answer": "6 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 29 Oct 2026, including Esg (ESGH), Ocean Power Technologies (OPTT), Alphatime Acquisition, Terra Innovatum Global (NKLR), Datavault AI (DVLT) and 1 more. The board holds 83, each linked to SEC EDGAR.",
+ "as_of": "2026-10-30",
+ "newest_filing": "2026-10-29",
+ "last_7_days": 6,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Auditor Watch (SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance), accessed 2026-10-29, https://www.pops4.com/boards/auditor-watch. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Auditor Watch (SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance), accessed 2026-10-30, https://www.pops4.com/boards/auditor-watch. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-10-29T18:58:31.984Z",
+ "generated": "2026-10-30T18:38:41.314Z",
  "tracker": "auditor-watch",
- "total": 82,
- "returned": 79,
+ "total": 83,
+ "returned": 80,
  "truncated": true,
- "more": "?limit=82",
+ "more": "?limit=83",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,34 @@
   }
  },
  "rows": [
+  {
+   "id": "0001520138-26-000444",
+   "company": "ESG Inc.",
+   "cik": "1883835",
+   "form": "8-K",
+   "items": [
+    "4.01",
+    "9.01"
+   ],
+   "ticker": "ESGH",
+   "exchange": "OTC",
+   "sector": "Agricultural Production-Crops",
+   "filerCategory": "Emerging growth company",
+   "revenue": 7510103,
+   "revenueFY": "2025",
+   "city": "CHADDS FORD",
+   "hq": "PA",
+   "formerName": "PLASMA INNOVATIVE INC.",
+   "event": "2026-10-26",
+   "quote": null,
+   "sic": "0100",
+   "state": "NV",
+   "filed": "2026-10-29",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1883835/000152013826000444/0001520138-26-000444-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1883835&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001493152-26-048802",
    "company": "Ocean Power Technologies, Inc.",
