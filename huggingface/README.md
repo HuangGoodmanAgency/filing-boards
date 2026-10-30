@@ -2,7 +2,7 @@
 license: cc-by-4.0
 language:
   - en
-pretty_name: POPS4 Filing Boards — SEC filings the day they are filed, with Edgar & Edgarette company cards
+pretty_name: "Edgar & Edgarette: every SEC 8-K event the day it is filed, Altman, Piotroski, Beneish and a credibility-weighted forecast range for every filer, scored in public"
 size_categories:
   - 10K<n<100K
 task_categories:
@@ -61,11 +61,27 @@ configs:
     data_files: data/forecast-ledger.csv
 ---
 
-# POPS4 Filing Boards
+# Edgar & Edgarette: the POPS4 Filing Boards
 
-Twelve tables built from United States SEC filings, refreshed every business day, each row linked to the
-original document on EDGAR; a card for every filer on them, read from its own audited XBRL facts; and a
-forecast ledger in which every range is hashed before the outcome is known and scored after.
+[![DOI](https://zenodo.org/badge/1374577081.svg)](https://doi.org/10.5281/zenodo.23672509)
+
+The only open dataset of United States SEC filings that publishes every corporate event the day it is
+filed, reads every filer the way an actuary would, screens them the way an analyst would, and locks its
+forecasts with a hash before the outcome is known. Twelve boards, a card for every filer on them, and a
+forecast ledger scored in public. Free, no login, no ads, every row linked to its filing on sec.gov.
+
+**Scope:** United States SEC filers, including foreign issuers that file 20-F or 40-F. For a global book
+this is the US-listed portion. Identifiers are SEC CIK and ticker; LEI and ISIN mapping is the next data
+change. Figures are as filed and can move with restatements; each card states its fiscal year and the
+filing it was read from. No personal data is collected or published.
+
+**What investors and analysts screen for here, from filings rather than price:** the Cash Leaders (top 20 US
+companies above $2B by cash returned to owners), cash cows and cash machines against the S&P 500 fund, AI
+and renewable-energy leader panels; distress, earnings-quality and fundamental-strength screens on every
+company (Altman Z, Beneish M, Sloan accruals, Piotroski F); ETF look-through for SPY, QQQ, DIA, IWM and
+the 11 sector funds ranked by fewest warning signs; a whole-portfolio read for any 13F filer; the safest
+money-market and short-term funds for parking cash, sealed monthly; reinsurer strength from five years of
+Schedule VI reserve development. All of it is description from filings, not a rating or a recommendation.
 
 Live boards: **https://www.pops4.com/boards**
 Source repository: **https://github.com/HuangGoodmanAgency/filing-boards**
@@ -236,16 +252,21 @@ domain. This dataset adds structure and links, not content.
 
 ## Citation
 
+**DOI: [10.5281/zenodo.23672509](https://doi.org/10.5281/zenodo.23672509)** (concept DOI, always the latest
+version; each release carries its own). Archived by Zenodo from every GitHub release.
+
 Cite the board for the selection and the row's `source` URL for the fact: the board is ours, the fact is
 the filer's. For a company card, cite the card's own `sources` fields. A `CITATION.cff` sits beside this file.
 
 ```bibtex
-@misc{pops4_filing_boards,
-  title  = {POPS4 Filing Boards: SEC filings the day they are filed, with Edgar & Edgarette company cards},
-  author = {Huang Goodman, Jenny},
-  year   = {2026},
-  url    = {https://huggingface.co/datasets/jennyota/filing-boards},
-  note   = {Hako Shikin LLC. CC BY 4.0. Live at https://www.pops4.com/boards. Each row cites its SEC filing in the source field.}
+@dataset{pops4_filing_boards,
+  title     = {Edgar & Edgarette: every SEC 8-K event the day it is filed, Altman, Piotroski, Beneish and a credibility-weighted forecast range for every filer, scored in public (POPS4 Filing Boards)},
+  author    = {Huang Goodman, Jenny},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.23672509},
+  url       = {https://doi.org/10.5281/zenodo.23672509},
+  note      = {Hako Shikin LLC. CC BY 4.0. Live at https://www.pops4.com/boards. Each row cites its SEC filing in the source field.}
 }
 ```
 
