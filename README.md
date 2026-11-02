@@ -68,8 +68,10 @@ The boards have two voices, and both keep the rule above.
   (ASOP No. 41, 25, 23): exposure, experience, credibility, an 80% range, cautions, and a
   comparison with industry peers. Every figure is the company's own, from its audited filings.
 
-Ask about any SEC filer at `https://www.pops4.com/boards/ask.json?q=PEP`, in the box on any
-board, or through the MCP tool `get_company_performance`.
+Ask about any SEC filer or brand at `https://www.pops4.com/boards/ask.json?q=PEP`, in the box
+on any board, or through the MCP tool `get_company_performance`. Brand names work too:
+`ask.json?q=Hoka` returns Deckers, with a `brand` field naming the owner. When a name is
+ambiguous it returns candidates rather than guessing.
 
 - **The 80% range is tested, not asserted.** It is set from how 7,847 SEC company-years
   actually turned out. The live method is **v3**: fitted on 11,128 company-years (2018–22),
@@ -194,9 +196,9 @@ sentence from the press release exhibit. A third pass caches company facts per f
 
 - **JSON and CSV per board** — in `data/`, and live at `https://www.pops4.com/boards/<board>.json`
 - **RSS** — `https://www.pops4.com/boards/<board>/feed.xml`
-- **MCP** — `https://www.pops4.com/boards/mcp`, open, no authentication, twelve tools: one per
+- **MCP** — `https://www.pops4.com/boards/mcp`, open, no authentication, 26 tools: one per
   board, plus `get_company_performance` (Edgarette's card), `watch_company` and `price_program`
-- **Ask Edgar & Edgarette** — `https://www.pops4.com/boards/ask.json?q=<name, ticker or CIK>`
+- **Ask Edgar & Edgarette** — `https://www.pops4.com/boards/ask.json?q=<brand, name, ticker or CIK>`
 - **Weekly report** — `https://www.pops4.com/boards/report` · **Scorecard** — `https://www.pops4.com/boards/scorecard`
 - **For developers and AIs** — `https://www.pops4.com/boards/developers` · `https://www.pops4.com/boards/llms.txt`
 - **Embeddable table** — `https://www.pops4.com/boards/<board>/embed`

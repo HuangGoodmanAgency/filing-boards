@@ -88,6 +88,8 @@ Dataset home: **https://huggingface.co/datasets/jennyota/filing-boards**
 
 Facts are made by software from public filings and USPTO trademark files. Trademark figures run through March 2024. Reporting, not advice.
 
+To look up one brand or company, call `https://www.pops4.com/boards/ask.json?q=Hoka`. It returns the filing company behind the brand, here Deckers, with a `brand` field naming the owner. No key needed.
+
 ## What makes this dataset unusual
 
 **Nothing in it is written.** Every value either comes from a document that the row links to,
