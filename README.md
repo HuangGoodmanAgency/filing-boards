@@ -7,6 +7,20 @@ Licence: **CC BY 4.0** — free to use with credit to POPS4.
 
 ---
 
+## The Pour: brand facts, ready to quote
+
+**https://www.pops4.com/boards/pour** turns the filings into short facts anyone can read and repeat: who owns what, brand rivalries, what is new in annual reports, what was just filed, and forecasts sealed before the answer and then scored. Each fact has its own page and names its source.
+
+| File | What it holds |
+|---|---|
+| `data/the-pour.csv`, `data/the-pour.json` | Every fact, its date, its source and its page |
+| `data/brands.csv` | Brands traced to the company that files, each named in that company's annual report |
+| `data/numbers.json` | What the boards have read, each number with its source |
+
+Facts are made by software from public filings and USPTO trademark files. Trademark figures run through March 2024. Reporting, not advice.
+
+---
+
 ## What this is
 
 When a public company has something material happen — a cybersecurity incident, a completed

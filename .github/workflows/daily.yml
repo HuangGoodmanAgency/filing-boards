@@ -63,6 +63,9 @@ jobs:
             fi
           done
 
+      - name: Publish The Pour, the brand list and the numbers
+        run: python3 tools/pour.py
+
       # The boards can be rebuilt from SEC data by anyone. The ledger cannot:
       # a range is only worth something if it was published BEFORE the outcome,
       # and the proof of that is a commit timestamped by GitHub rather than by
