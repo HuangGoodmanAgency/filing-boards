@@ -1,0 +1,1439 @@
+{
+ "title": "The Pour",
+ "note": "Facts made by software from SEC filings and USPTO trademark files. Trademark figures run through March 2024. Reporting, not advice.",
+ "facts": [
+  {
+   "kind": "Just filed",
+   "text": "Unifi filed a completed deal or change of control on 29 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/100726/000010072626000018/0000100726-26-000018-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Alamo Group filed a completed deal or change of control on 27 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/897077/000089707726000105/0000897077-26-000105-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-27"
+  },
+  {
+   "kind": "Just filed",
+   "text": "1-800-Flowers.com filed a completed deal or change of control on 23 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000041/0001084869-26-000041-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-23"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Instacart filed restructuring or exit costs on 26 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579091/000157909126000050/0001579091-26-000050-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-26"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Dropbox filed restructuring or exit costs on 28 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467623/000146762326000052/0001467623-26-000052-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-28"
+  },
+  {
+   "kind": "Just filed",
+   "text": "eBay filed restructuring or exit costs on 22 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000205/0001065088-26-000205-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-22"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Harley-Davidson filed an officer or director change on 29 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/793952/000079395226000065/0000793952-26-000065-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Opendoor filed an officer or director change on 29 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1801169/000114036126041096/0001140361-26-041096-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Align Technology filed an officer or director change on 28 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000078/0001097149-26-000078-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-28"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Garrett Motion filed an officer or director change on 28 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1735707/000095015726001131/0000950157-26-001131-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-28"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Saia filed an officer or director change on 29 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1177702/000119312526437022/0001193125-26-437022-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Scored",
+   "text": "UniFirst filed $2.5B in revenue, inside the 80% range sealed before the answer: $2.2B to $2.7B.",
+   "url": "https://www.pops4.com/boards/company/UNF",
+   "label": "Company card",
+   "as_of": "2026-10-30"
+  },
+  {
+   "kind": "Scored",
+   "text": "AutoZone filed $20.3B in revenue, inside the 80% range sealed before the answer: $17.7B to $20.4B.",
+   "url": "https://www.pops4.com/boards/company/AZO",
+   "label": "Company card",
+   "as_of": "2026-10-26"
+  },
+  {
+   "kind": "Scored",
+   "text": "Acuity filed $4.6B in revenue, inside the 80% range sealed before the answer: $4.0B to $5.2B.",
+   "url": "https://www.pops4.com/boards/company/AYI",
+   "label": "Company card",
+   "as_of": "2026-10-23"
+  },
+  {
+   "kind": "Scored",
+   "text": "MSC Industrial filed $4.0B in revenue, inside the 80% range sealed before the answer: $3.3B to $4.1B.",
+   "url": "https://www.pops4.com/boards/company/MSM",
+   "label": "Company card",
+   "as_of": "2026-10-22"
+  },
+  {
+   "kind": "Scored",
+   "text": "Lindsay filed $636M in revenue, inside the 80% range sealed before the answer: $528M to $898M.",
+   "url": "https://www.pops4.com/boards/company/LNN",
+   "label": "Company card",
+   "as_of": "2026-10-22"
+  },
+  {
+   "kind": "Scored",
+   "text": "FactSet filed $2.5B in revenue, inside the 80% range sealed before the answer: $2.2B to $2.7B.",
+   "url": "https://www.pops4.com/boards/company/FDS",
+   "label": "Company card",
+   "as_of": "2026-10-20"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Dollar General sells 2.2 times what Dollar Tree sells. Dollar Tree keeps 1.7 times as much of each dollar. Dollar General $42.7B vs Dollar Tree $19.4B in revenue. Operating margin: 5.2% vs 8.5%.",
+   "hook": "Dollar General sells 2.2 times what Dollar Tree sells. Dollar Tree keeps 1.7 times as much of each dollar.",
+   "url": "https://www.pops4.com/boards/company/DG",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "dollar-general-sells-22-times-what-dollar-tree-sells-47701",
+   "page": "https://www.pops4.com/boards/pour/dollar-general-sells-22-times-what-dollar-tree-sells-47701"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Delta Faucet and Behr are both Masco.",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000005/mas-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "delta-faucet-and-behr-are-both-masco-011d9",
+   "rankKey": "62996",
+   "page": "https://www.pops4.com/boards/pour/delta-faucet-and-behr-are-both-masco-011d9"
+  },
+  {
+   "kind": "The Bar",
+   "text": "Costco's annual report lists class actions over its Kirkland Signature tequila.",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "costcos-annual-report-lists-class-actions-over-its-kirkland-3afdc",
+   "rankKey": "909832",
+   "page": "https://www.pops4.com/boards/pour/costcos-annual-report-lists-class-actions-over-its-kirkland-3afdc"
+  },
+  {
+   "kind": "New this year",
+   "text": "Nike: \"agentic\" is new in this year's annual report. It was not in last year's.",
+   "context": "AI-enabled search, comparison-shopping and agentic shopping are named as ways shoppers may change how they buy.",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "nike-agentic-is-new-in-this-years-annual-report-be3c8",
+   "rankKey": "320187",
+   "page": "https://www.pops4.com/boards/pour/nike-agentic-is-new-in-this-years-annual-report-be3c8"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Burlington is #1 of 4 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/BURL",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "burlington-is-1-of-4-in-its-field-on-04b7e",
+   "rankKey": "BURL",
+   "page": "https://www.pops4.com/boards/pour/burlington-is-1-of-4-in-its-field-on-04b7e"
+  },
+  {
+   "kind": "Mentions",
+   "text": "66.5% of the annual reports we read mention climate change. Among household names, United says it most, 15 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/ual-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "665-of-the-annual-reports-we-read-mention-climate-3c499",
+   "rankKey": "100517",
+   "page": "https://www.pops4.com/boards/pour/665-of-the-annual-reports-we-read-mention-climate-3c499"
+  },
+  {
+   "kind": "The Bar",
+   "text": "Tilray is a cannabis company. Its annual report also lists Breckenridge bourbon and Casa Breck Tequila.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1731348/000143774926024698/tlry20260531_10k.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "tilray-is-a-cannabis-company-its-annual-report-also-86216",
+   "rankKey": "1731348",
+   "page": "https://www.pops4.com/boards/pour/tilray-is-a-cannabis-company-its-annual-report-also-86216"
+  },
+  {
+   "kind": "Warning",
+   "text": "Leslie's showed an Altman Z of -3.1 in its last annual report, under the 1.1 distress line. Then it filed for bankruptcy.",
+   "url": "https://www.pops4.com/boards/company/LESLQ",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "leslies-showed-an-altman-z-of-31-in-its-71b54",
+   "rankKey": "LESLQ",
+   "page": "https://www.pops4.com/boards/pour/leslies-showed-an-altman-z-of-31-in-its-71b54"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Mondelez $38.5B vs Hershey $11.7B in revenue. Operating margin: 9.2% vs 12.3%.",
+   "hook": "Mondelez takes revenue. Hershey takes margin.",
+   "url": "https://www.pops4.com/boards/company/MDLZ",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "mondelez-takes-revenue-hershey-takes-margin-7fda0",
+   "page": "https://www.pops4.com/boards/pour/mondelez-takes-revenue-hershey-takes-margin-7fda0"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Monopoly and Nerf are both Hasbro.",
+   "url": "https://www.sec.gov/Archives/edgar/data/46080/000004608026000011/has-20251228.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "monopoly-and-nerf-are-both-hasbro-f9260",
+   "rankKey": "46080",
+   "page": "https://www.pops4.com/boards/pour/monopoly-and-nerf-are-both-hasbro-f9260"
+  },
+  {
+   "kind": "The Bar",
+   "text": "Exactly one annual report we read mentions hangovers: Prestige Consumer Healthcare.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1295947/000129594726000016/pbh-20260331.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "exactly-one-annual-report-we-read-mentions-hangovers-prestige-f9a44",
+   "rankKey": "1295947",
+   "page": "https://www.pops4.com/boards/pour/exactly-one-annual-report-we-read-mentions-hangovers-prestige-f9a44"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Domino's ranks #23 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/DPZ",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "dominos-ranks-23-on-the-trillion-score-apple-ranks-b1b53",
+   "rankKey": "DPZ",
+   "page": "https://www.pops4.com/boards/pour/dominos-ranks-23-on-the-trillion-score-apple-ranks-b1b53"
+  },
+  {
+   "kind": "Mentions",
+   "text": "11.6% of the annual reports we read mention crypto. Among household names, Tesla says it most, 14 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "116-of-the-annual-reports-we-read-mention-crypto-48142",
+   "rankKey": "1318605",
+   "page": "https://www.pops4.com/boards/pour/116-of-the-annual-reports-we-read-mention-crypto-48142"
+  },
+  {
+   "kind": "The Bar",
+   "text": "Boston Beer says \"hard seltzer\" 37 times in its annual report. Monster, the energy drink company, says it 23 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/949870/000119312526067467/sam-20251227.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "boston-beer-says-hard-seltzer-37-times-in-its-68c92",
+   "rankKey": "949870",
+   "page": "https://www.pops4.com/boards/pour/boston-beer-says-hard-seltzer-37-times-in-its-68c92"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Disney sells 2.1 times what Netflix sells. Netflix keeps 1.6 times as much of each dollar. Disney $94.4B vs Netflix $45.2B in revenue. Operating margin: 18.6% vs 29.5%.",
+   "hook": "Disney sells 2.1 times what Netflix sells. Netflix keeps 1.6 times as much of each dollar.",
+   "url": "https://www.pops4.com/boards/company/DIS",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "disney-sells-21-times-what-netflix-sells-netflix-keeps-187f6",
+   "page": "https://www.pops4.com/boards/pour/disney-sells-21-times-what-netflix-sells-netflix-keeps-187f6"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Calvin Klein and Tommy Hilfiger are both PVH.",
+   "url": "https://www.sec.gov/Archives/edgar/data/78239/000007823926000021/pvh-20260201.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "calvin-klein-and-tommy-hilfiger-are-both-pvh-5f618",
+   "rankKey": "78239",
+   "page": "https://www.pops4.com/boards/pour/calvin-klein-and-tommy-hilfiger-are-both-pvh-5f618"
+  },
+  {
+   "kind": "New this year",
+   "text": "Alphabet: \"self-preferencing\" is new in this year's annual report. It was not in last year's.",
+   "context": "Further, in September 2025, the EC announced its decision that Google had infringed European competition laws through \"self-preferencing\" practices on the buy-side and the sell-side relating to Google's advertising technology business.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "alphabet-selfpreferencing-is-new-in-this-years-annual-report-b7410",
+   "rankKey": "1652044",
+   "page": "https://www.pops4.com/boards/pour/alphabet-selfpreferencing-is-new-in-this-years-annual-report-b7410"
+  },
+  {
+   "kind": "The Bar",
+   "text": "US trademarks are ahead on hangovers: 74 live marks say HANGOVER, 70 say HARD SELTZER.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "us-trademarks-are-ahead-on-hangovers-74-live-marks-773ee",
+   "page": "https://www.pops4.com/boards/pour/us-trademarks-are-ahead-on-hangovers-74-live-marks-773ee"
+  },
+  {
+   "kind": "Surprise",
+   "text": "e.l.f. Beauty is #1 of 20 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/ELF",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "elf-beauty-is-1-of-20-in-its-field-9e79b",
+   "rankKey": "ELF",
+   "page": "https://www.pops4.com/boards/pour/elf-beauty-is-1-of-20-in-its-field-9e79b"
+  },
+  {
+   "kind": "Mentions",
+   "text": "26.4% of the annual reports we read mention Taiwan. Among household names, Peloton says it most, 12 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1639825/000163982526000038/pton-20260630.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "264-of-the-annual-reports-we-read-mention-taiwan-7461a",
+   "rankKey": "1639825",
+   "page": "https://www.pops4.com/boards/pour/264-of-the-annual-reports-we-read-mention-taiwan-7461a"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Procter & Gamble $87.0B vs Colgate-Palmolive $20.4B in revenue. Operating margin: 22.7% vs 16.2%.",
+   "hook": "Procter & Gamble takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/PG",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "procter-gamble-takes-revenue-and-margin-bcf56",
+   "page": "https://www.pops4.com/boards/pour/procter-gamble-takes-revenue-and-margin-bcf56"
+  },
+  {
+   "kind": "The Bar",
+   "text": "Live US trademarks by the bottle: 823 say WHISKEY, 731 VODKA, 534 BOURBON, 262 TEQUILA, 66 MEZCAL.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "live-us-trademarks-by-the-bottle-823-say-whiskey-57611",
+   "page": "https://www.pops4.com/boards/pour/live-us-trademarks-by-the-bottle-823-say-whiskey-57611"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "GEICO, Dairy Queen and Duracell are all Berkshire Hathaway.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "geico-dairy-queen-and-duracell-are-all-berkshire-hathaway-c5473",
+   "rankKey": "1067983",
+   "page": "https://www.pops4.com/boards/pour/geico-dairy-queen-and-duracell-are-all-berkshire-hathaway-c5473"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Domino's is #1 of 9 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/DPZ",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "dominos-is-1-of-9-in-its-field-on-33fe0",
+   "rankKey": "DPZ",
+   "page": "https://www.pops4.com/boards/pour/dominos-is-1-of-9-in-its-field-on-33fe0"
+  },
+  {
+   "kind": "The Bar",
+   "text": "161 live US trademarks say SOBER. Only 4 say ZERO PROOF.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "161-live-us-trademarks-say-sober-only-4-say-747db",
+   "page": "https://www.pops4.com/boards/pour/161-live-us-trademarks-say-sober-only-4-say-747db"
+  },
+  {
+   "kind": "Mentions",
+   "text": "0.5% of the annual reports we read mention trading down.",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "05-of-the-annual-reports-we-read-mention-trading-97bec",
+   "rankKey": "910521",
+   "page": "https://www.pops4.com/boards/pour/05-of-the-annual-reports-we-read-mention-trading-97bec"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Uber $52.0B vs DoorDash $13.7B in revenue. Operating margin: 10.7% vs 5.3%.",
+   "hook": "Uber takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/UBER",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "uber-takes-revenue-and-margin-e11e6",
+   "page": "https://www.pops4.com/boards/pour/uber-takes-revenue-and-margin-e11e6"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Barbie and Hot Wheels are both Mattel.",
+   "url": "https://www.sec.gov/Archives/edgar/data/63276/000162828026010716/mat-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "barbie-and-hot-wheels-are-both-mattel-35708",
+   "rankKey": "63276",
+   "page": "https://www.pops4.com/boards/pour/barbie-and-hot-wheels-are-both-mattel-35708"
+  },
+  {
+   "kind": "The Bar",
+   "text": "3,659 live US trademarks say BREWING. Only 16 say PROSECCO.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "3659-live-us-trademarks-say-brewing-only-16-say-91786",
+   "page": "https://www.pops4.com/boards/pour/3659-live-us-trademarks-say-brewing-only-16-say-91786"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Ulta is #1 of 13 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/ULTA",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "ulta-is-1-of-13-in-its-field-on-1d866",
+   "rankKey": "ULTA",
+   "page": "https://www.pops4.com/boards/pour/ulta-is-1-of-13-in-its-field-on-1d866"
+  },
+  {
+   "kind": "Mentions",
+   "text": "2.9% of the annual reports we read mention GLP-1 drugs.",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/cvs-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "29-of-the-annual-reports-we-read-mention-glp1-9c26f",
+   "rankKey": "64803",
+   "page": "https://www.pops4.com/boards/pour/29-of-the-annual-reports-we-read-mention-glp1-9c26f"
+  },
+  {
+   "kind": "The Bar",
+   "text": "Winemaker E. & J. Gallo holds almost as many live US trademarks as Apple: 717 vs 737.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "winemaker-e-j-gallo-holds-almost-as-many-live-85e7a",
+   "page": "https://www.pops4.com/boards/pour/winemaker-e-j-gallo-holds-almost-as-many-live-85e7a"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Walmart $713.2B vs Kroger $147.6B in revenue. Operating margin: 4.2% vs 1.3%.",
+   "hook": "Walmart takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/WMT",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "walmart-takes-revenue-and-margin-77224",
+   "page": "https://www.pops4.com/boards/pour/walmart-takes-revenue-and-margin-77224"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Brita, Burt's Bees and Hidden Valley are all Clorox.",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000034/clx-20260630.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "brita-burts-bees-and-hidden-valley-are-all-clorox-517b4",
+   "rankKey": "21076",
+   "page": "https://www.pops4.com/boards/pour/brita-burts-bees-and-hidden-valley-are-all-clorox-517b4"
+  },
+  {
+   "kind": "New this year",
+   "text": "Apple: \"sector-based\" is new in this year's annual report. It was not in last year's.",
+   "context": "Tariffs have been announced and further changes could be made in the future, which may include additional sector-based tariffs or other measures.",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "apple-sectorbased-is-new-in-this-years-annual-report-5367b",
+   "rankKey": "320193",
+   "page": "https://www.pops4.com/boards/pour/apple-sectorbased-is-new-in-this-years-annual-report-5367b"
+  },
+  {
+   "kind": "Trademarks",
+   "text": "Mattel holds more live US trademarks than Apple: 1,123 vs 737.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "mattel-holds-more-live-us-trademarks-than-apple-1123-e609f",
+   "rankKey": "MAT",
+   "page": "https://www.pops4.com/boards/pour/mattel-holds-more-live-us-trademarks-than-apple-1123-e609f"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Lululemon is #1 of 10 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/LULU",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "lululemon-is-1-of-10-in-its-field-on-802bd",
+   "rankKey": "LULU",
+   "page": "https://www.pops4.com/boards/pour/lululemon-is-1-of-10-in-its-field-on-802bd"
+  },
+  {
+   "kind": "Mentions",
+   "text": "83.9% of the annual reports we read mention pandemics. Among household names, Crocs says it most, 16 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1334036/000133403626000006/crox-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "839-of-the-annual-reports-we-read-mention-pandemics-d5b6b",
+   "rankKey": "1334036",
+   "page": "https://www.pops4.com/boards/pour/839-of-the-annual-reports-we-read-mention-pandemics-d5b6b"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Starbucks $37.2B vs McDonald's $26.9B in revenue. Operating margin: 7.9% vs 46.1%.",
+   "hook": "Starbucks takes revenue. McDonald's takes margin.",
+   "url": "https://www.pops4.com/boards/company/SBUX",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "starbucks-takes-revenue-mcdonalds-takes-margin-98f03",
+   "page": "https://www.pops4.com/boards/pour/starbucks-takes-revenue-mcdonalds-takes-margin-98f03"
+  },
+  {
+   "kind": "Trademarks",
+   "text": "Disney Enterprises holds 1,786 live US trademarks, the most of any owner name we read.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "disney-enterprises-holds-1786-live-us-trademarks-the-most-6e0dc",
+   "rankKey": "DIS",
+   "page": "https://www.pops4.com/boards/pour/disney-enterprises-holds-1786-live-us-trademarks-the-most-6e0dc"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "KFC and Taco Bell are both Yum! Brands.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000084/yum-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "kfc-and-taco-bell-are-both-yum-brands-50b11",
+   "rankKey": "1041061",
+   "page": "https://www.pops4.com/boards/pour/kfc-and-taco-bell-are-both-yum-brands-50b11"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Celsius ranks #25 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/CELH",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "celsius-ranks-25-on-the-trillion-score-apple-ranks-c6fea",
+   "rankKey": "CELH",
+   "page": "https://www.pops4.com/boards/pour/celsius-ranks-25-on-the-trillion-score-apple-ranks-c6fea"
+  },
+  {
+   "kind": "Trademarks",
+   "text": "Mattel alone holds 58 live US trademarks with BARBIE in the name.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "mattel-alone-holds-58-live-us-trademarks-with-barbie-2540a",
+   "rankKey": "MAT",
+   "page": "https://www.pops4.com/boards/pour/mattel-alone-holds-58-live-us-trademarks-with-barbie-2540a"
+  },
+  {
+   "kind": "Mentions",
+   "text": "5.7% of the annual reports we read mention AI hallucinations.",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "57-of-the-annual-reports-we-read-mention-ai-93454",
+   "rankKey": "829224",
+   "page": "https://www.pops4.com/boards/pour/57-of-the-annual-reports-we-read-mention-ai-93454"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Carnival $26.6B vs Royal Caribbean $17.9B in revenue. Operating margin: 16.8% vs 27.4%.",
+   "hook": "Carnival takes revenue. Royal Caribbean takes margin.",
+   "url": "https://www.pops4.com/boards/company/CCL",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "carnival-takes-revenue-royal-caribbean-takes-margin-cf9e6",
+   "page": "https://www.pops4.com/boards/pour/carnival-takes-revenue-royal-caribbean-takes-margin-cf9e6"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Sprite, Fanta, Dasani and Minute Maid are all Coca-Cola.",
+   "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "sprite-fanta-dasani-and-minute-maid-are-all-cocacola-94809",
+   "rankKey": "21344",
+   "page": "https://www.pops4.com/boards/pour/sprite-fanta-dasani-and-minute-maid-are-all-cocacola-94809"
+  },
+  {
+   "kind": "Trademarks",
+   "text": "1,415 live US trademarks say AI. Only 43 say NFT.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "1415-live-us-trademarks-say-ai-only-43-say-67664",
+   "page": "https://www.pops4.com/boards/pour/1415-live-us-trademarks-say-ai-only-43-say-67664"
+  },
+  {
+   "kind": "Surprise",
+   "text": "CVS is #1 of 4 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/CVS",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "cvs-is-1-of-4-in-its-field-on-dc3be",
+   "rankKey": "CVS",
+   "page": "https://www.pops4.com/boards/pour/cvs-is-1-of-4-in-its-field-on-dc3be"
+  },
+  {
+   "kind": "Mentions",
+   "text": "10.5% of the annual reports we read mention activist investors. Among household names, Southwest says it most, 12 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/luv-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "105-of-the-annual-reports-we-read-mention-activist-3a30d",
+   "rankKey": "92380",
+   "page": "https://www.pops4.com/boards/pour/105-of-the-annual-reports-we-read-mention-activist-3a30d"
+  },
+  {
+   "kind": "Trademarks",
+   "text": "139 live US trademarks say PICKLEBALL.",
+   "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/trademark-case-files-dataset",
+   "label": "USPTO",
+   "as_of": "2026-11-01",
+   "slug": "139-live-us-trademarks-say-pickleball-931f0",
+   "page": "https://www.pops4.com/boards/pour/139-live-us-trademarks-say-pickleball-931f0"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "PepsiCo sells 2.0 times what Coca-Cola sells. Coca-Cola keeps 2.3 times as much of each dollar. PepsiCo $93.9B vs Coca-Cola $47.9B in revenue. Operating margin: 12.2% vs 28.7%.",
+   "hook": "PepsiCo sells 2.0 times what Coca-Cola sells. Coca-Cola keeps 2.3 times as much of each dollar.",
+   "url": "https://www.pops4.com/boards/company/PEP",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "pepsico-sells-20-times-what-cocacola-sells-cocacola-keeps-71468",
+   "page": "https://www.pops4.com/boards/pour/pepsico-sells-20-times-what-cocacola-sells-cocacola-keeps-71468"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Vrbo and Hotels.com are both Expedia.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000008/expe-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "vrbo-and-hotelscom-are-both-expedia-c54e5",
+   "rankKey": "1324424",
+   "page": "https://www.pops4.com/boards/pour/vrbo-and-hotelscom-are-both-expedia-c54e5"
+  },
+  {
+   "kind": "New this year",
+   "text": "eBay: \"fast-fashion\" is new in this year's annual report. It was not in last year's.",
+   "context": "Recently, regulators in certain EU-member countries have increased their activity challenging certain fast-fashion marketplaces.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "ebay-fastfashion-is-new-in-this-years-annual-report-146ca",
+   "rankKey": "1065088",
+   "page": "https://www.pops4.com/boards/pour/ebay-fastfashion-is-new-in-this-years-annual-report-146ca"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Crocs ranks #70 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/CROX",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "crocs-ranks-70-on-the-trillion-score-apple-ranks-def48",
+   "rankKey": "CROX",
+   "page": "https://www.pops4.com/boards/pour/crocs-ranks-70-on-the-trillion-score-apple-ranks-def48"
+  },
+  {
+   "kind": "Mentions",
+   "text": "92.1% of the annual reports we read mention tariffs. Among household names, Peloton says it most, 67 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1639825/000163982526000038/pton-20260630.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "921-of-the-annual-reports-we-read-mention-tariffs-fe92d",
+   "rankKey": "1639825",
+   "page": "https://www.pops4.com/boards/pour/921-of-the-annual-reports-we-read-mention-tariffs-fe92d"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "McDonald's $26.9B vs Chipotle $11.9B in revenue. Operating margin: 46.1% vs 16.2%.",
+   "hook": "McDonald's takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/MCD",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "mcdonalds-takes-revenue-and-margin-4c0be",
+   "page": "https://www.pops4.com/boards/pour/mcdonalds-takes-revenue-and-margin-4c0be"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Harris Teeter and Ralphs are both Kroger.",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "harris-teeter-and-ralphs-are-both-kroger-003b7",
+   "rankKey": "56873",
+   "page": "https://www.pops4.com/boards/pour/harris-teeter-and-ralphs-are-both-kroger-003b7"
+  },
+  {
+   "kind": "New this year",
+   "text": "General Mills: \"better-for-you\" is new in this year's annual report. It was not in last year's.",
+   "context": "2026, our plans in fiscal 2027 are focused on delivering product innovation and renovation news centered on the benefits that matter most to today's consumers, including better-for-you benefits like protein and fiber, bold flavors, and fun and indulgence, all ",
+   "url": "https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/gis-20260531.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "general-mills-betterforyou-is-new-in-this-years-annual-e4376",
+   "rankKey": "40704",
+   "page": "https://www.pops4.com/boards/pour/general-mills-betterforyou-is-new-in-this-years-annual-e4376"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Deckers is #1 of 6 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/DECK",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "deckers-is-1-of-6-in-its-field-on-a93f5",
+   "rankKey": "DECK",
+   "page": "https://www.pops4.com/boards/pour/deckers-is-1-of-6-in-its-field-on-a93f5"
+  },
+  {
+   "kind": "Mentions",
+   "text": "9.7% of the annual reports we read mention agentic AI. Among household names, Etsy says it most, 8 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000019/etsy-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "97-of-the-annual-reports-we-read-mention-agentic-5200a",
+   "rankKey": "1370637",
+   "page": "https://www.pops4.com/boards/pour/97-of-the-annual-reports-we-read-mention-agentic-5200a"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Walmart $713.2B vs Target $104.8B in revenue. Operating margin: 4.2% vs 4.9%.",
+   "hook": "Walmart takes revenue. Target takes margin.",
+   "url": "https://www.pops4.com/boards/company/WMT",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "walmart-takes-revenue-target-takes-margin-cd926",
+   "page": "https://www.pops4.com/boards/pour/walmart-takes-revenue-target-takes-margin-cd926"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Clinique and La Mer are both Estee Lauder.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125026000041/el-20260630.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "clinique-and-la-mer-are-both-estee-lauder-145b4",
+   "rankKey": "1001250",
+   "page": "https://www.pops4.com/boards/pour/clinique-and-la-mer-are-both-estee-lauder-145b4"
+  },
+  {
+   "kind": "New this year",
+   "text": "Snap: \"age-gating\" is new in this year's annual report. It was not in last year's.",
+   "context": "a proxy server or if there are other data limitations, we may not be able to accurately reflect the user's actual location, and we may inadvertently fail to apply local age-gating, content moderation, or data-retention standards required by that specific locat",
+   "url": "https://www.sec.gov/Archives/edgar/data/1564408/000156440826000013/snap-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "snap-agegating-is-new-in-this-years-annual-report-0020c",
+   "rankKey": "1564408",
+   "page": "https://www.pops4.com/boards/pour/snap-agegating-is-new-in-this-years-annual-report-0020c"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Deckers ranks #22 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/DECK",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "deckers-ranks-22-on-the-trillion-score-apple-ranks-1810f",
+   "rankKey": "DECK",
+   "page": "https://www.pops4.com/boards/pour/deckers-ranks-22-on-the-trillion-score-apple-ranks-1810f"
+  },
+  {
+   "kind": "Mentions",
+   "text": "35.1% of the annual reports we read mention generative AI. Among household names, Roblox says it most, 17 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "351-of-the-annual-reports-we-read-mention-generative-72150",
+   "rankKey": "1315098",
+   "page": "https://www.pops4.com/boards/pour/351-of-the-annual-reports-we-read-mention-generative-72150"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Delta $63.4B vs United $59.1B in revenue. Operating margin: 9.2% vs 8.0%.",
+   "hook": "Delta takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/DAL",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "delta-takes-revenue-and-margin-0fda2",
+   "page": "https://www.pops4.com/boards/pour/delta-takes-revenue-and-margin-0fda2"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Ring, Twitch and Prime Video are all Amazon.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "ring-twitch-and-prime-video-are-all-amazon-dc3cb",
+   "rankKey": "1018724",
+   "page": "https://www.pops4.com/boards/pour/ring-twitch-and-prime-video-are-all-amazon-dc3cb"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Roblox ranks #189 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/RBLX",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "roblox-ranks-189-on-the-trillion-score-apple-ranks-b8e03",
+   "rankKey": "RBLX",
+   "page": "https://www.pops4.com/boards/pour/roblox-ranks-189-on-the-trillion-score-apple-ranks-b8e03"
+  },
+  {
+   "kind": "Mentions",
+   "text": "15.3% of the annual reports we read mention boycotts. Among household names, Target says it most, 6 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "153-of-the-annual-reports-we-read-mention-boycotts-4339b",
+   "rankKey": "27419",
+   "page": "https://www.pops4.com/boards/pour/153-of-the-annual-reports-we-read-mention-boycotts-4339b"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "eBay $11.1B vs Etsy $2.9B in revenue. Operating margin: 20.5% vs 9.2%.",
+   "hook": "eBay takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/EBAY",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "ebay-takes-revenue-and-margin-b1d85",
+   "page": "https://www.pops4.com/boards/pour/ebay-takes-revenue-and-margin-b1d85"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Burger King, Tim Hortons and Popeyes are all Restaurant Brands.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1618756/000161875626000017/qsr-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "burger-king-tim-hortons-and-popeyes-are-all-restaurant-82685",
+   "rankKey": "1618756",
+   "page": "https://www.pops4.com/boards/pour/burger-king-tim-hortons-and-popeyes-are-all-restaurant-82685"
+  },
+  {
+   "kind": "New this year",
+   "text": "Snap: \"youth-related\" is new in this year's annual report. It was not in last year's.",
+   "context": "e in litigation and threatened claims related to the provision of our services to younger users, and expect to face similar litigation in the future, including as global youth-related regulation continues to evolve.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1564408/000156440826000013/snap-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "snap-youthrelated-is-new-in-this-years-annual-report-5e95d",
+   "rankKey": "1564408",
+   "page": "https://www.pops4.com/boards/pour/snap-youthrelated-is-new-in-this-years-annual-report-5e95d"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Airbnb is #1 of 12 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/ABNB",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "airbnb-is-1-of-12-in-its-field-on-eb5f1",
+   "rankKey": "ABNB",
+   "page": "https://www.pops4.com/boards/pour/airbnb-is-1-of-12-in-its-field-on-eb5f1"
+  },
+  {
+   "kind": "Mentions",
+   "text": "1.2% of the annual reports we read mention return to office.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "12-of-the-annual-reports-we-read-mention-return-0e966",
+   "rankKey": "1543151",
+   "page": "https://www.pops4.com/boards/pour/12-of-the-annual-reports-we-read-mention-return-0e966"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Ford $187.3B vs General Motors $185.0B in revenue. Operating margin: -4.9% vs 1.6%.",
+   "hook": "Ford takes revenue. General Motors takes margin.",
+   "url": "https://www.pops4.com/boards/company/F",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "ford-takes-revenue-general-motors-takes-margin-dd789",
+   "page": "https://www.pops4.com/boards/pour/ford-takes-revenue-general-motors-takes-margin-dd789"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "YouTube, Google and Android are all Alphabet.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "youtube-google-and-android-are-all-alphabet-47c42",
+   "rankKey": "1652044",
+   "page": "https://www.pops4.com/boards/pour/youtube-google-and-android-are-all-alphabet-47c42"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Burlington ranks #1 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/BURL",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "burlington-ranks-1-on-the-trillion-score-apple-ranks-bd87b",
+   "rankKey": "BURL",
+   "page": "https://www.pops4.com/boards/pour/burlington-ranks-1-on-the-trillion-score-apple-ranks-bd87b"
+  },
+  {
+   "kind": "Mentions",
+   "text": "36.7% of the annual reports we read mention unions. Among household names, Delta says it most, 10 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "367-of-the-annual-reports-we-read-mention-unions-98ac9",
+   "rankKey": "27904",
+   "page": "https://www.pops4.com/boards/pour/367-of-the-annual-reports-we-read-mention-unions-98ac9"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "American Eagle $5.5B vs Abercrombie $5.3B in revenue. Operating margin: 4.1% vs 13.3%.",
+   "hook": "American Eagle takes revenue. Abercrombie takes margin.",
+   "url": "https://www.pops4.com/boards/company/AEO",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "american-eagle-takes-revenue-abercrombie-takes-margin-b7f6a",
+   "page": "https://www.pops4.com/boards/pour/american-eagle-takes-revenue-abercrombie-takes-margin-b7f6a"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Kayak, Priceline and OpenTable are all Booking Holdings.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "kayak-priceline-and-opentable-are-all-booking-holdings-b6506",
+   "rankKey": "1075531",
+   "page": "https://www.pops4.com/boards/pour/kayak-priceline-and-opentable-are-all-booking-holdings-b6506"
+  },
+  {
+   "kind": "Surprise",
+   "text": "e.l.f. Beauty ranks #65 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/ELF",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "elf-beauty-ranks-65-on-the-trillion-score-apple-e6339",
+   "rankKey": "ELF",
+   "page": "https://www.pops4.com/boards/pour/elf-beauty-ranks-65-on-the-trillion-score-apple-e6339"
+  },
+  {
+   "kind": "Mentions",
+   "text": "4.7% of the annual reports we read mention deepfakes.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1564408/000156440826000013/snap-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "47-of-the-annual-reports-we-read-mention-deepfakes-2fac9",
+   "rankKey": "1564408",
+   "page": "https://www.pops4.com/boards/pour/47-of-the-annual-reports-we-read-mention-deepfakes-2fac9"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Home Depot $164.7B vs Lowe's $86.3B in revenue. Operating margin: 12.7% vs 11.8%.",
+   "hook": "Home Depot takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/HD",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "home-depot-takes-revenue-and-margin-ff06b",
+   "page": "https://www.pops4.com/boards/pour/home-depot-takes-revenue-and-margin-ff06b"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Marvel, Pixar, ESPN and Hulu are all Disney.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "marvel-pixar-espn-and-hulu-are-all-disney-7ec40",
+   "rankKey": "1744489",
+   "page": "https://www.pops4.com/boards/pour/marvel-pixar-espn-and-hulu-are-all-disney-7ec40"
+  },
+  {
+   "kind": "New this year",
+   "text": "Etsy: \"pre-loved\" is new in this year's annual report. It was not in last year's.",
+   "context": "tionality, social discovery, and brand energy positioned it to capture momentum in the fast-growing resale apparel market, while its listings of affordable, fashionable, pre-loved merchandise resonated with value-conscious consumers.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000019/etsy-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "etsy-preloved-is-new-in-this-years-annual-report-dabaf",
+   "rankKey": "1370637",
+   "page": "https://www.pops4.com/boards/pour/etsy-preloved-is-new-in-this-years-annual-report-dabaf"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Airbnb ranks #58 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/ABNB",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "airbnb-ranks-58-on-the-trillion-score-apple-ranks-e6050",
+   "rankKey": "ABNB",
+   "page": "https://www.pops4.com/boards/pour/airbnb-ranks-58-on-the-trillion-score-apple-ranks-e6050"
+  },
+  {
+   "kind": "Mentions",
+   "text": "10.2% of the annual reports we read mention influencers. Among household names, Celsius says it most, 8 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341766/000134176626000024/celh-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "102-of-the-annual-reports-we-read-mention-influencers-9d4b6",
+   "rankKey": "1341766",
+   "page": "https://www.pops4.com/boards/pour/102-of-the-annual-reports-we-read-mention-influencers-9d4b6"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Marriott $26.2B vs Hilton $12.0B in revenue. Operating margin: 15.8% vs 22.4%.",
+   "hook": "Marriott takes revenue. Hilton takes margin.",
+   "url": "https://www.pops4.com/boards/company/MAR",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "marriott-takes-revenue-hilton-takes-margin-c23af",
+   "page": "https://www.pops4.com/boards/pour/marriott-takes-revenue-hilton-takes-margin-c23af"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Old Navy, Banana Republic and Athleta are all Gap.",
+   "url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "old-navy-banana-republic-and-athleta-are-all-gap-58052",
+   "rankKey": "39911",
+   "page": "https://www.pops4.com/boards/pour/old-navy-banana-republic-and-athleta-are-all-gap-58052"
+  },
+  {
+   "kind": "Surprise",
+   "text": "CVS ranks #139 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/CVS",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "cvs-ranks-139-on-the-trillion-score-apple-ranks-3fed2",
+   "rankKey": "CVS",
+   "page": "https://www.pops4.com/boards/pour/cvs-ranks-139-on-the-trillion-score-apple-ranks-3fed2"
+  },
+  {
+   "kind": "Mentions",
+   "text": "4.0% of the annual reports we read mention quantum computing.",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "40-of-the-annual-reports-we-read-mention-quantum-f0342",
+   "rankKey": "56873",
+   "page": "https://www.pops4.com/boards/pour/40-of-the-annual-reports-we-read-mention-quantum-f0342"
+  },
+  {
+   "kind": "Brand Wars",
+   "text": "Walmart $713.2B vs Costco $303.2B in revenue. Operating margin: 4.2% vs 3.9%.",
+   "hook": "Walmart takes revenue and margin.",
+   "url": "https://www.pops4.com/boards/company/WMT",
+   "label": "Company cards",
+   "as_of": "2026-11-01",
+   "slug": "walmart-takes-revenue-and-margin-92e24",
+   "page": "https://www.pops4.com/boards/pour/walmart-takes-revenue-and-margin-92e24"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "The North Face, Vans and Timberland are all VF.",
+   "url": "https://www.sec.gov/Archives/edgar/data/103379/000010337926000030/vfc-20260328.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "the-north-face-vans-and-timberland-are-all-vf-1fd98",
+   "rankKey": "103379",
+   "page": "https://www.pops4.com/boards/pour/the-north-face-vans-and-timberland-are-all-vf-1fd98"
+  },
+  {
+   "kind": "New this year",
+   "text": "Colgate-Palmolive: \"fluoride\" is new in this year's annual report. It was not in last year's.",
+   "context": "For example, regulatory authorities globally are increasingly reviewing ingredients or other substances in consumer products, such as fluoride, titanium dioxide, synthetic colors and per- and polyfluoroalkyl (PFAS).",
+   "url": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000006/cl-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "colgatepalmolive-fluoride-is-new-in-this-years-annual-report-5c83f",
+   "rankKey": "21665",
+   "page": "https://www.pops4.com/boards/pour/colgatepalmolive-fluoride-is-new-in-this-years-annual-report-5c83f"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Celsius is #1 of 21 in its field on the Trillion Score.",
+   "url": "https://www.pops4.com/boards/company/CELH",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "celsius-is-1-of-21-in-its-field-on-76864",
+   "rankKey": "CELH",
+   "page": "https://www.pops4.com/boards/pour/celsius-is-1-of-21-in-its-field-on-76864"
+  },
+  {
+   "kind": "Mentions",
+   "text": "27.2% of the annual reports we read mention wildfires. Among household names, Monster says it most, 4 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "272-of-the-annual-reports-we-read-mention-wildfires-7eb35",
+   "rankKey": "865752",
+   "page": "https://www.pops4.com/boards/pour/272-of-the-annual-reports-we-read-mention-wildfires-7eb35"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Instagram, WhatsApp, Facebook and Threads are all Meta.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "instagram-whatsapp-facebook-and-threads-are-all-meta-0ef15",
+   "rankKey": "1326801",
+   "page": "https://www.pops4.com/boards/pour/instagram-whatsapp-facebook-and-threads-are-all-meta-0ef15"
+  },
+  {
+   "kind": "Surprise",
+   "text": "Lululemon ranks #64 on the Trillion Score. Apple ranks #1,189.",
+   "url": "https://www.pops4.com/boards/company/LULU",
+   "label": "Company card",
+   "as_of": "2026-11-01",
+   "slug": "lululemon-ranks-64-on-the-trillion-score-apple-ranks-9deb7",
+   "rankKey": "LULU",
+   "page": "https://www.pops4.com/boards/pour/lululemon-ranks-64-on-the-trillion-score-apple-ranks-9deb7"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Corona and Modelo are both Constellation Brands.",
+   "url": "https://www.sec.gov/Archives/edgar/data/16918/000001691826000011/stz-20260228.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "corona-and-modelo-are-both-constellation-brands-ffa1d",
+   "rankKey": "16918",
+   "page": "https://www.pops4.com/boards/pour/corona-and-modelo-are-both-constellation-brands-ffa1d"
+  },
+  {
+   "kind": "Mentions",
+   "text": "0.8% of the annual reports we read mention the Super Bowl.",
+   "url": "https://www.pops4.com/boards",
+   "label": "The boards",
+   "as_of": "2026-11-01",
+   "slug": "08-of-the-annual-reports-we-read-mention-the-4c4f6",
+   "page": "https://www.pops4.com/boards/pour/08-of-the-annual-reports-we-read-mention-the-4c4f6"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Xfinity, Peacock, NBC and Universal are all Comcast.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "xfinity-peacock-nbc-and-universal-are-all-comcast-7bd45",
+   "rankKey": "1166691",
+   "page": "https://www.pops4.com/boards/pour/xfinity-peacock-nbc-and-universal-are-all-comcast-7bd45"
+  },
+  {
+   "kind": "New this year",
+   "text": "Meta: \"per-violation\" is new in this year's annual report. It was not in last year's.",
+   "context": "mages awards and fines has increased, including through class action litigations and other legal proceedings under statutory regimes permitting penalties or damages on a per-violation basis or based on a percentage of global revenue.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "meta-perviolation-is-new-in-this-years-annual-report-0e01f",
+   "rankKey": "1326801",
+   "page": "https://www.pops4.com/boards/pour/meta-perviolation-is-new-in-this-years-annual-report-0e01f"
+  },
+  {
+   "kind": "Mentions",
+   "text": "41.4% of the annual reports we read mention data centers. Among household names, Roblox says it most, 45 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "414-of-the-annual-reports-we-read-mention-data-e2319",
+   "rankKey": "1315098",
+   "page": "https://www.pops4.com/boards/pour/414-of-the-annual-reports-we-read-mention-data-e2319"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Reese's and Jolly Rancher are both Hershey.",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/hsy-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "reeses-and-jolly-rancher-are-both-hershey-4c36b",
+   "rankKey": "47111",
+   "page": "https://www.pops4.com/boards/pour/reeses-and-jolly-rancher-are-both-hershey-4c36b"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "UGG and Hoka are both Deckers.",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "ugg-and-hoka-are-both-deckers-f538d",
+   "rankKey": "910521",
+   "page": "https://www.pops4.com/boards/pour/ugg-and-hoka-are-both-deckers-f538d"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "LinkedIn, Xbox, GitHub and Activision are all Microsoft.",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "linkedin-xbox-github-and-activision-are-all-microsoft-1f887",
+   "rankKey": "789019",
+   "page": "https://www.pops4.com/boards/pour/linkedin-xbox-github-and-activision-are-all-microsoft-1f887"
+  },
+  {
+   "kind": "Mentions",
+   "text": "4.8% of the annual reports we read mention TikTok. Among household names, e.l.f. Beauty says it most, 7 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1600033/000160003326000020/elf-20260331.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "48-of-the-annual-reports-we-read-mention-tiktok-b4dca",
+   "rankKey": "1600033",
+   "page": "https://www.pops4.com/boards/pour/48-of-the-annual-reports-we-read-mention-tiktok-b4dca"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Coors Light and Miller Lite are both Molson Coors.",
+   "url": "https://www.sec.gov/Archives/edgar/data/24545/000002454526000006/tap-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "coors-light-and-miller-lite-are-both-molson-coors-c708a",
+   "rankKey": "24545",
+   "page": "https://www.pops4.com/boards/pour/coors-light-and-miller-lite-are-both-molson-coors-c708a"
+  },
+  {
+   "kind": "New this year",
+   "text": "Costco: \"tequila\" is new in this year's annual report. It was not in last year's.",
+   "context": "er 2025, two class actions were filed against the Company alleging violations of consumer protection and other laws arising from the Company's sale of Kirkland Signature tequila products in the United States: Glazer v.",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "costco-tequila-is-new-in-this-years-annual-report-e654f",
+   "rankKey": "909832",
+   "page": "https://www.pops4.com/boards/pour/costco-tequila-is-new-in-this-years-annual-report-e654f"
+  },
+  {
+   "kind": "Mentions",
+   "text": "59.6% of the annual reports we read mention ransomware. Among household names, Yum! Brands says it most, 7 times.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000084/yum-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "596-of-the-annual-reports-we-read-mention-ransomware-40b22",
+   "rankKey": "1041061",
+   "page": "https://www.pops4.com/boards/pour/596-of-the-annual-reports-we-read-mention-ransomware-40b22"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "TurboTax, QuickBooks, Credit Karma and Mailchimp are all Intuit.",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000037/intu-20260731.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "turbotax-quickbooks-credit-karma-and-mailchimp-are-all-intuit-4c9df",
+   "rankKey": "896878",
+   "page": "https://www.pops4.com/boards/pour/turbotax-quickbooks-credit-karma-and-mailchimp-are-all-intuit-4c9df"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Tinder and Hinge are both Match Group.",
+   "url": "https://www.sec.gov/Archives/edgar/data/891103/000089110326000025/mtch-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "tinder-and-hinge-are-both-match-group-219a7",
+   "rankKey": "891103",
+   "page": "https://www.pops4.com/boards/pour/tinder-and-hinge-are-both-match-group-219a7"
+  },
+  {
+   "kind": "New this year",
+   "text": "Walmart: \"mistrial\" is new in this year's annual report. It was not in last year's.",
+   "context": "A jury trial in this matter commenced on September 18, 2025 and ended on December 8, 2025, at which time the Court declared a mistrial.",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "walmart-mistrial-is-new-in-this-years-annual-report-3948f",
+   "rankKey": "104169",
+   "page": "https://www.pops4.com/boards/pour/walmart-mistrial-is-new-in-this-years-annual-report-3948f"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Converse and Jordan are both Nike.",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "converse-and-jordan-are-both-nike-c60e0",
+   "rankKey": "320187",
+   "page": "https://www.pops4.com/boards/pour/converse-and-jordan-are-both-nike-c60e0"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Chevrolet, Cadillac, Buick and GMC are all General Motors.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "chevrolet-cadillac-buick-and-gmc-are-all-general-motors-b65f0",
+   "rankKey": "1467858",
+   "page": "https://www.pops4.com/boards/pour/chevrolet-cadillac-buick-and-gmc-are-all-general-motors-b65f0"
+  },
+  {
+   "kind": "New this year",
+   "text": "Kroger: \"disintermediated\" is new in this year's annual report. It was not in last year's.",
+   "context": "ustomers increasingly delegate purchasing decisions to AI agents that prioritize price, speed or other factors over retailer preference or brand loyalty, we could become disintermediated from the customer relationship.",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "kroger-disintermediated-is-new-in-this-years-annual-report-15e27",
+   "rankKey": "56873",
+   "page": "https://www.pops4.com/boards/pour/kroger-disintermediated-is-new-in-this-years-annual-report-15e27"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Tide, Gillette, Pampers and Crest are all Procter & Gamble.",
+   "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/pg-20260630.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "tide-gillette-pampers-and-crest-are-all-procter-gamble-a9c61",
+   "rankKey": "80424",
+   "page": "https://www.pops4.com/boards/pour/tide-gillette-pampers-and-crest-are-all-procter-gamble-a9c61"
+  },
+  {
+   "kind": "New this year",
+   "text": "CVS: \"deadlocked\" is new in this year's annual report. It was not in last year's.",
+   "context": "Trial in a case brought by a group of Florida hospitals concluded in December 2025 when the Court declared a mistrial due to a deadlocked jury; a new trial is scheduled to begin in August 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/cvs-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "cvs-deadlocked-is-new-in-this-years-annual-report-50280",
+   "rankKey": "64803",
+   "page": "https://www.pops4.com/boards/pour/cvs-deadlocked-is-new-in-this-years-annual-report-50280"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Cash App, Square and Afterpay are all Block.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/xyz-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "cash-app-square-and-afterpay-are-all-block-4c5a0",
+   "rankKey": "1512673",
+   "page": "https://www.pops4.com/boards/pour/cash-app-square-and-afterpay-are-all-block-4c5a0"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Gatorade, Doritos, Lay's and Cheetos are all PepsiCo.",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "gatorade-doritos-lays-and-cheetos-are-all-pepsico-f1ea7",
+   "rankKey": "77476",
+   "page": "https://www.pops4.com/boards/pour/gatorade-doritos-lays-and-cheetos-are-all-pepsico-f1ea7"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "T.J. Maxx, Marshalls and HomeGoods are all TJX.",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/tjx-20260131.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "tj-maxx-marshalls-and-homegoods-are-all-tjx-24336",
+   "rankKey": "109198",
+   "page": "https://www.pops4.com/boards/pour/tj-maxx-marshalls-and-homegoods-are-all-tjx-24336"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Olive Garden and LongHorn Steakhouse are both Darden.",
+   "url": "https://www.sec.gov/Archives/edgar/data/940944/000094094426000025/dri-20260531.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "olive-garden-and-longhorn-steakhouse-are-both-darden-e3265",
+   "rankKey": "940944",
+   "page": "https://www.pops4.com/boards/pour/olive-garden-and-longhorn-steakhouse-are-both-darden-e3265"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "iPhone and Beats are both Apple.",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "iphone-and-beats-are-both-apple-93662",
+   "rankKey": "320193",
+   "page": "https://www.pops4.com/boards/pour/iphone-and-beats-are-both-apple-93662"
+  },
+  {
+   "kind": "New this year",
+   "text": "Microsoft: \"age-appropriate\" is new in this year's annual report. It was not in last year's.",
+   "context": "At the same time, laws designed to reduce risks to children are driving new obligations for age-assurance systems, age-appropriate design, and parental controls across the online ecosystem, including within app stores and operating systems.",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "microsoft-ageappropriate-is-new-in-this-years-annual-report-5e566",
+   "rankKey": "789019",
+   "page": "https://www.pops4.com/boards/pour/microsoft-ageappropriate-is-new-in-this-years-annual-report-5e566"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Coach and Kate Spade are both Tapestry.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "coach-and-kate-spade-are-both-tapestry-06c6f",
+   "rankKey": "1116132",
+   "page": "https://www.pops4.com/boards/pour/coach-and-kate-spade-are-both-tapestry-06c6f"
+  },
+  {
+   "kind": "New this year",
+   "text": "Microsoft: \"over-reliance\" is new in this year's annual report. It was not in last year's.",
+   "context": "Companion or highly-personalized AI systems may result in over-reliance or dependence by users that is harmful.",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "microsoft-overreliance-is-new-in-this-years-annual-report-ba3e0",
+   "rankKey": "789019",
+   "page": "https://www.pops4.com/boards/pour/microsoft-overreliance-is-new-in-this-years-annual-report-ba3e0"
+  },
+  {
+   "kind": "Who owns it",
+   "text": "Ritz-Carlton, Sheraton and Westin are all Marriott.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm",
+   "label": "Named in its annual report",
+   "as_of": "2026-11-01",
+   "slug": "ritzcarlton-sheraton-and-westin-are-all-marriott-000fe",
+   "rankKey": "1048286",
+   "page": "https://www.pops4.com/boards/pour/ritzcarlton-sheraton-and-westin-are-all-marriott-000fe"
+  },
+  {
+   "kind": "New this year",
+   "text": "Target: \"value-focused\" is new in this year's annual report. It was not in last year's.",
+   "context": "ncial Condition and Results of Operations Executive Overview In 2025, we operated in a dynamic and uncertain environment characterized by cautious consumers who remained value-focused and selective in discretionary spending along with unprecedented tariff vola",
+   "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "target-valuefocused-is-new-in-this-years-annual-report-9b63f",
+   "rankKey": "27419",
+   "page": "https://www.pops4.com/boards/pour/target-valuefocused-is-new-in-this-years-annual-report-9b63f"
+  },
+  {
+   "kind": "New this year",
+   "text": "Kohl's: \"value-seeking\" is new in this year's annual report. It was not in last year's.",
+   "context": "As consumer behavior shifts toward a value-seeking mindset, our ability to differentiate our value proposition through personalization and loyalty remains critical.",
+   "url": "https://www.sec.gov/Archives/edgar/data/885639/000119312526115982/kss-20260131.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "kohls-valueseeking-is-new-in-this-years-annual-report-72ea7",
+   "rankKey": "885639",
+   "page": "https://www.pops4.com/boards/pour/kohls-valueseeking-is-new-in-this-years-annual-report-72ea7"
+  },
+  {
+   "kind": "New this year",
+   "text": "Roblox: \"youth-related\" is new in this year's annual report. It was not in last year's.",
+   "context": "arious state Attorneys General have filed claims or announced the intent to file claims against us based on various state laws and causes of action primarily relating to youth-related consumer protection and online safety matters.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm",
+   "label": "Its annual report",
+   "as_of": "2026-11-01",
+   "slug": "roblox-youthrelated-is-new-in-this-years-annual-report-82bf5",
+   "rankKey": "1315098",
+   "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
+  }
+ ],
+ "updated": "2026-11-02T01:15:58.576Z",
+ "refreshes": "Five times a day, as the boards read new SEC filings.",
+ "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
+}
