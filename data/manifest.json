@@ -118,8 +118,8 @@
  },
  "otherSurfaces": [
   {
-   "path": "/boards/ask.json?q={name|ticker|CIK}",
-   "what": "Edgarette’s card for any SEC filer. Returns candidates rather than guessing when a name is ambiguous."
+   "path": "/boards/ask.json?q={brand|name|ticker|CIK}",
+   "what": "Edgarette’s card for any SEC filer, or the owner of a brand. Returns candidates rather than guessing when a name is ambiguous."
   },
   {
    "path": "/boards/company/{cik}",

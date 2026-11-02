@@ -5,8 +5,8 @@
  "numbers": [
   {
    "label": "8-K and event filings read",
-   "value": 9496,
-   "shown_as": "9,496",
+   "value": 9752,
+   "shown_as": "9,752",
    "source": "SEC daily index",
    "url": "https://www.sec.gov/Archives/edgar/daily-index/",
    "updates_live": true

@@ -2,7 +2,7 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-11-01T07:30:53.097Z",
+ "generated": "2026-11-02T11:30:53.821Z",
  "swept": 9496,
  "fields": "https://www.pops4.com/boards/fields.json",
  "trackers": [
@@ -20,7 +20,7 @@
    "sub": "SEC filings · AI agents that shop, buy, order, pay, procure or transact on someone’s behalf · the filer’s own sentence",
    "line": "AI visibility briefing",
    "scope": "SEC full-text search · agents that shop, buy, pay and procure",
-   "rows": 137
+   "rows": 160
   },
   {
    "key": "subsea-data",
@@ -35,7 +35,7 @@
    "title": "Cyber Disclosures",
    "sub": "SEC 8-K Items 8.01 and 7.01 · cybersecurity incidents disclosed voluntarily · the filer’s own sentence",
    "line": "breach notification letters",
-   "scope": "SEC 8-K Item ",
+   "scope": "SEC 8-K Item 8.01, 7.01",
    "rows": 6
   },
   {
