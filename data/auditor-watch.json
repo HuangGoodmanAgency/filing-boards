@@ -1,22 +1,22 @@
 {
  "question": "Which public companies changed auditors, or said past financials cannot be relied on, this week?",
- "answer": "7 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 30 Oct 2026, including Citizens Financial Group (CFG), Esg (ESGH), Ocean Power Technologies (OPTT), Alphatime Acquisition, Terra Innovatum Global (NKLR) and 2 more. The board holds 84, each linked to SEC EDGAR.",
- "as_of": "2026-11-02",
- "newest_filing": "2026-10-30",
- "last_7_days": 7,
+ "answer": "6 companies filed SEC 8-K Item 4.01 or 4.02 (an auditor change or non-reliance) in the last 7 days, newest 2 Nov 2026, including GoodRx Holdings (GDRX), Citizens Financial Group (CFG), Esg (ESGH), Ocean Power Technologies (OPTT), Alphatime Acquisition and 1 more. The board holds 85, each linked to SEC EDGAR.",
+ "as_of": "2026-11-03",
+ "newest_filing": "2026-11-02",
+ "last_7_days": 6,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Auditor Watch (SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance), accessed 2026-11-02, https://www.pops4.com/boards/auditor-watch. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Auditor Watch (SEC 8-K Items 4.01 and 4.02 · auditor changes and non-reliance), accessed 2026-11-03, https://www.pops4.com/boards/auditor-watch. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-02T22:21:08.111Z",
+ "generated": "2026-11-03T20:08:22.356Z",
  "tracker": "auditor-watch",
- "total": 84,
- "returned": 81,
+ "total": 85,
+ "returned": 82,
  "truncated": true,
- "more": "?limit=84",
+ "more": "?limit=85",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,33 @@
   }
  },
  "rows": [
+  {
+   "id": "0001809519-26-000184",
+   "company": "GoodRx Holdings, Inc.",
+   "cik": "1809519",
+   "form": "8-K",
+   "items": [
+    "4.02"
+   ],
+   "ticker": "GDRX",
+   "exchange": "Nasdaq",
+   "sector": "Services-Computer Processing & Data Preparation",
+   "filerCategory": "Accelerated filer",
+   "revenue": 796853000,
+   "revenueFY": "2025",
+   "city": "SANTA MONICA",
+   "hq": "CA",
+   "formerName": null,
+   "event": "2026-10-27",
+   "quote": null,
+   "sic": "7374",
+   "state": "DE",
+   "filed": "2026-11-02",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000184/0001809519-26-000184-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1809519&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001193125-26-441754",
    "company": "CITIZENS FINANCIAL GROUP INC/RI",
