@@ -1,22 +1,22 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "6 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 2 Nov 2026, including Kimberly Clark (KMB), Fti Consulting (FCN), Vistagen Therapeutics (VTGN), Dropbox (DBX), LENZ Therapeutics (LENZ) and 1 more. The board holds 42, each linked to SEC EDGAR.",
- "as_of": "2026-11-03",
- "newest_filing": "2026-11-02",
+ "answer": "6 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 3 Nov 2026, including Ultragenyx Pharmaceutical (RARE), Kimberly Clark (KMB), Fti Consulting (FCN), Vistagen Therapeutics (VTGN), Dropbox (DBX) and 1 more. The board holds 43, each linked to SEC EDGAR.",
+ "as_of": "2026-11-04",
+ "newest_filing": "2026-11-03",
  "last_7_days": 6,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-03, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-04, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-03T20:08:04.238Z",
+ "generated": "2026-11-04T20:26:36.606Z",
  "tracker": "restructuring",
- "total": 42,
- "returned": 37,
+ "total": 43,
+ "returned": 38,
  "truncated": true,
- "more": "?limit=42",
+ "more": "?limit=43",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,36 @@
   }
  },
  "rows": [
+  {
+   "id": "0001193125-26-445342",
+   "company": "Ultragenyx Pharmaceutical Inc.",
+   "cik": "1515673",
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "2.02",
+    "2.05",
+    "9.01"
+   ],
+   "ticker": "RARE",
+   "exchange": "Nasdaq",
+   "sector": "Pharmaceutical Preparations",
+   "filerCategory": "Large accelerated filer",
+   "revenue": 673000000,
+   "revenueFY": "2025",
+   "city": "NOVATO",
+   "hq": "CA",
+   "formerName": null,
+   "event": "2026-10-30",
+   "quote": "In October 2026, the Company entered into two definitive agreements to sell the PRVs received upon the approval of GENGLYCOS and FAYUVI for a combined price of $413 million.",
+   "sic": "2834",
+   "state": "DE",
+   "filed": "2026-11-03",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526445342/0001193125-26-445342-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1515673&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001104659-26-120990",
    "company": "KIMBERLY CLARK CORP",
