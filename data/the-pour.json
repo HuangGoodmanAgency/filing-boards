@@ -4,31 +4,24 @@
  "facts": [
   {
    "kind": "Just filed",
-   "text": "Alpine Income Property filed a completed deal or change of control on 2 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926120907/0001104659-26-120907-index.htm",
+   "text": "Vistra filed a completed deal or change of control on 5 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/0001140361-26-042013-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-02"
+   "as_of": "2026-11-05"
   },
   {
    "kind": "Just filed",
-   "text": "Unifi filed a completed deal or change of control on 29 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/100726/000010072626000018/0000100726-26-000018-index.htm",
+   "text": "NCR Voyix filed a completed deal or change of control on 5 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/70866/000007086626000038/0000070866-26-000038-index.htm",
    "label": "The filing",
-   "as_of": "2026-10-29"
+   "as_of": "2026-11-05"
   },
   {
    "kind": "Just filed",
-   "text": "Kimberly-Clark filed a completed deal or change of control on 2 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926120990/0001104659-26-120990-index.htm",
+   "text": "Willdan filed a completed deal or change of control on 5 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926123327/0001104659-26-123327-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-02"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Dropbox filed restructuring or exit costs on 28 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1467623/000146762326000052/0001467623-26-000052-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-28"
+   "as_of": "2026-11-05"
   },
   {
    "kind": "Just filed",
@@ -46,24 +39,31 @@
   },
   {
    "kind": "Just filed",
-   "text": "Align Technology filed an officer or director change on 28 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000078/0001097149-26-000078-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-28"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Garrett Motion filed an officer or director change on 28 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1735707/000095015726001131/0000950157-26-001131-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-28"
-  },
-  {
-   "kind": "Just filed",
    "text": "Saia filed an officer or director change on 29 Oct 2026.",
    "url": "https://www.sec.gov/Archives/edgar/data/1177702/000119312526437022/0001193125-26-437022-index.htm",
    "label": "The filing",
    "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Strategy filed an officer or director change on 29 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/0001050446-26-000047-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Shutterstock filed an officer or director change on 29 Oct 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126041191/0001140361-26-041191-index.htm",
+   "label": "The filing",
+   "as_of": "2026-10-29"
+  },
+  {
+   "kind": "Scored",
+   "text": "Visa filed $45.9B in revenue, inside the 80% range sealed before the answer: $39.8B to $46.5B.",
+   "url": "https://www.pops4.com/boards/company/V",
+   "label": "Company card",
+   "as_of": "2026-11-06"
   },
   {
    "kind": "Scored",
@@ -99,13 +99,6 @@
    "url": "https://www.pops4.com/boards/company/AYI",
    "label": "Company card",
    "as_of": "2026-10-23"
-  },
-  {
-   "kind": "Scored",
-   "text": "MSC Industrial filed $4.0B in revenue, inside the 80% range sealed before the answer: $3.3B to $4.1B.",
-   "url": "https://www.pops4.com/boards/company/MSM",
-   "label": "Company card",
-   "as_of": "2026-10-22"
   },
   {
    "kind": "Brand Wars",
@@ -1419,7 +1412,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-05T20:41:40.309Z",
+ "updated": "2026-11-06T19:58:27.010Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
