@@ -1,8 +1,13 @@
-# POPS4 Filing Boards
+# Edgar & Edgarette: the POPS4 Filing Boards
+
+[![DOI](https://zenodo.org/badge/1374577081.svg)](https://doi.org/10.5281/zenodo.23672509)
+[![Dataset on Hugging Face](https://img.shields.io/badge/Hugging%20Face-jennyota%2Ffiling--boards-ffcc4d)](https://huggingface.co/datasets/jennyota/filing-boards)
+[![Licence CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-2f6b3a)](https://creativecommons.org/licenses/by/4.0/)
 
 **Twelve public tables built from United States SEC filings, published the business day after each filing from the settled SEC daily index, and a card for every filer on them.**
 
 Live boards: **https://www.pops4.com/boards**
+DOI: **https://doi.org/10.5281/zenodo.23672509** (concept DOI, always the latest version)
 Licence: **CC BY 4.0** — free to use with credit to POPS4.
 
 ---
