@@ -3,6 +3,13 @@
  "note": "Facts made by software from SEC filings and USPTO trademark files. Trademark figures run through March 2024. Reporting, not advice.",
  "facts": [
   {
+   "kind": "Side by side",
+   "text": "⚖️ SIDE BY SIDE · Deckers turns 20.1% of its revenue into free cash; Nike turns 4.7%.",
+   "url": "https://www.pops4.com/?check=NKE,LULU,DECK",
+   "label": "Open the comparison",
+   "as_of": "2026-11-07"
+  },
+  {
    "kind": "Just filed",
    "text": "Vistra filed a completed deal or change of control on 5 Nov 2026.",
    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/0001140361-26-042013-index.htm",
@@ -24,39 +31,18 @@
    "as_of": "2026-11-05"
   },
   {
-   "kind": "Just filed",
-   "text": "Harley-Davidson filed an officer or director change on 29 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/793952/000079395226000065/0000793952-26-000065-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-29"
+   "kind": "Scored",
+   "text": "Te Connectivity filed $19.9B in revenue, outside the 80% range sealed before the answer: $16.2B to $19.2B.",
+   "url": "https://www.pops4.com/boards/company/TEL",
+   "label": "Company card",
+   "as_of": "2026-11-09"
   },
   {
-   "kind": "Just filed",
-   "text": "Opendoor filed an officer or director change on 29 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1801169/000114036126041096/0001140361-26-041096-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-29"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Saia filed an officer or director change on 29 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1177702/000119312526437022/0001193125-26-437022-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-29"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Strategy filed an officer or director change on 29 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/0001050446-26-000047-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-29"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Shutterstock filed an officer or director change on 29 Oct 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126041191/0001140361-26-041191-index.htm",
-   "label": "The filing",
-   "as_of": "2026-10-29"
+   "kind": "Scored",
+   "text": "Fair Isaac filed $2.5B in revenue, outside the 80% range sealed before the answer: $2.0B to $2.5B.",
+   "url": "https://www.pops4.com/boards/company/FICO",
+   "label": "Company card",
+   "as_of": "2026-11-09"
   },
   {
    "kind": "Scored",
@@ -85,20 +71,6 @@
    "url": "https://www.pops4.com/boards/company/UNF",
    "label": "Company card",
    "as_of": "2026-10-30"
-  },
-  {
-   "kind": "Scored",
-   "text": "AutoZone filed $20.3B in revenue, inside the 80% range sealed before the answer: $17.7B to $20.4B.",
-   "url": "https://www.pops4.com/boards/company/AZO",
-   "label": "Company card",
-   "as_of": "2026-10-26"
-  },
-  {
-   "kind": "Scored",
-   "text": "Acuity filed $4.6B in revenue, inside the 80% range sealed before the answer: $4.0B to $5.2B.",
-   "url": "https://www.pops4.com/boards/company/AYI",
-   "label": "Company card",
-   "as_of": "2026-10-23"
   },
   {
    "kind": "Brand Wars",
@@ -1412,7 +1384,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-06T19:58:27.010Z",
+ "updated": "2026-11-09T21:56:47.090Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
