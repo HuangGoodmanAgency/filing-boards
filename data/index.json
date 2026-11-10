@@ -2,8 +2,8 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-11-10T14:04:06.373Z",
- "swept": 12425,
+ "generated": "2026-11-10T16:00:53.334Z",
+ "swept": 12534,
  "fields": "https://www.pops4.com/boards/fields.json",
  "trackers": [
   {
@@ -20,7 +20,7 @@
    "sub": "SEC filings · AI agents that shop, buy, order, pay, procure or transact on someone’s behalf · the filer’s own sentence",
    "line": "AI visibility briefing",
    "scope": "SEC full-text search · agents that shop, buy, pay and procure",
-   "rows": 230
+   "rows": 234
   },
   {
    "key": "subsea-data",
@@ -44,7 +44,7 @@
    "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
    "line": "full reprint",
    "scope": "SEC 8-K Item 5.03",
-   "rows": 448
+   "rows": 449
   },
   {
    "key": "mergers",
@@ -60,7 +60,7 @@
    "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
    "line": "partnership programs",
    "scope": "SEC 8-K Item 1.01",
-   "rows": 1940
+   "rows": 1949
   },
   {
    "key": "restructuring",
@@ -76,7 +76,7 @@
    "sub": "SEC 8-K Item 5.02 · departures and appointments",
    "line": "rebrand and launch",
    "scope": "SEC 8-K Item 5.02",
-   "rows": 1896
+   "rows": 1906
   },
   {
    "key": "ipo-watch",
@@ -84,7 +84,7 @@
    "sub": "SEC Form S-1 · companies registering to go public",
    "line": "listing-day build-out",
    "scope": "SEC Form S-1",
-   "rows": 160
+   "rows": 163
   },
   {
    "key": "annual-meetings",
@@ -92,7 +92,7 @@
    "sub": "SEC Form DEF 14A · definitive proxy statements",
    "line": "event programs",
    "scope": "SEC Form DEF 14A",
-   "rows": 537
+   "rows": 545
   },
   {
    "key": "auditor-watch",
