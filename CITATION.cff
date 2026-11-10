@@ -8,12 +8,13 @@ license: CC-BY-4.0
 url: "https://www.pops4.com/boards"
 repository-code: "https://github.com/HuangGoodmanAgency/filing-boards"
 repository: "https://huggingface.co/datasets/jennyota/filing-boards"
-doi: "10.5281/zenodo.PENDING"
+doi: "10.5281/zenodo.23672509"
 authors:
   - family-names: "Huang Goodman"
     given-names: "Jenny"
+    name-suffix: "MPA MSc MHSA"
     affiliation: "Hako Shikin LLC, Virginia Beach, Virginia, USA"
-    email: "jenny@pops4.com"
+    email: "info@pops4.com"
   - name: "POPS4 (Hako Shikin LLC)"
     website: "https://www.pops4.com/"
 keywords:

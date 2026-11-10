@@ -261,7 +261,7 @@ the filer's. For a company card, cite the card's own `sources` fields. A `CITATI
 ```bibtex
 @misc{pops4_filing_boards,
   title  = {POPS4 Filing Boards: SEC filings the day they are filed, with Edgar & Edgarette company cards},
-  author = {Huang Goodman, Jenny},
+  author = {Huang Goodman, MPA MSc MHSA, Jenny},
   year   = {2026},
   url    = {https://huggingface.co/datasets/jennyota/filing-boards},
   note   = {Hako Shikin LLC. CC BY 4.0. Live at https://www.pops4.com/boards. Each row cites its SEC filing in the source field.}
