@@ -1,12 +1,12 @@
 {
  "title": "What the POPS4 filing boards have read",
  "note": "Each figure names its source. Trademark figures run through March 2024. Reporting, not advice.",
- "as_of": "2026-11-09",
+ "as_of": "2026-11-10",
  "numbers": [
   {
    "label": "8-K and event filings read",
-   "value": 12133,
-   "shown_as": "12,133",
+   "value": 12425,
+   "shown_as": "12,425",
    "source": "SEC daily index",
    "url": "https://www.sec.gov/Archives/edgar/daily-index/",
    "updates_live": true
