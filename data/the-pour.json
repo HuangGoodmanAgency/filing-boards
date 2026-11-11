@@ -25,10 +25,38 @@
   },
   {
    "kind": "Just filed",
-   "text": "Willdan filed a completed deal or change of control on 5 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926123327/0001104659-26-123327-index.htm",
+   "text": "Braemar Hotels & Resorts filed a completed deal or change of control on 10 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1574085/000110465926125156/0001104659-26-125156-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-05"
+   "as_of": "2026-11-10"
+  },
+  {
+   "kind": "Scored",
+   "text": "Bitmine Immersion Technologies filed $125M in revenue, outside the 80% range sealed before the answer: $8M to $22M.",
+   "url": "https://www.pops4.com/boards/company/BMNR",
+   "label": "Company card",
+   "as_of": "2026-11-11"
+  },
+  {
+   "kind": "Scored",
+   "text": "TransDigm Group filed $10.6B in revenue, inside the 80% range sealed before the answer: $9.0B to $10.9B.",
+   "url": "https://www.pops4.com/boards/company/TDG",
+   "label": "Company card",
+   "as_of": "2026-11-10"
+  },
+  {
+   "kind": "Scored",
+   "text": "Sally Beauty Holdings filed $3.7B in revenue, inside the 80% range sealed before the answer: $3.3B to $3.9B.",
+   "url": "https://www.pops4.com/boards/company/SBH",
+   "label": "Company card",
+   "as_of": "2026-11-10"
+  },
+  {
+   "kind": "Scored",
+   "text": "Skyworks Solutions filed $4.0B in revenue, inside the 80% range sealed before the answer: $3.3B to $4.3B.",
+   "url": "https://www.pops4.com/boards/company/SWKS",
+   "label": "Company card",
+   "as_of": "2026-11-10"
   },
   {
    "kind": "Scored",
@@ -43,34 +71,6 @@
    "url": "https://www.pops4.com/boards/company/BEN",
    "label": "Company card",
    "as_of": "2026-11-10"
-  },
-  {
-   "kind": "Scored",
-   "text": "Amcon Distributing filed $3.1B in revenue, inside the 80% range sealed before the answer: $2.6B to $3.4B.",
-   "url": "https://www.pops4.com/boards/company/DIT",
-   "label": "Company card",
-   "as_of": "2026-11-09"
-  },
-  {
-   "kind": "Scored",
-   "text": "Te Connectivity filed $19.9B in revenue, outside the 80% range sealed before the answer: $16.2B to $19.2B.",
-   "url": "https://www.pops4.com/boards/company/TEL",
-   "label": "Company card",
-   "as_of": "2026-11-09"
-  },
-  {
-   "kind": "Scored",
-   "text": "Fair Isaac filed $2.5B in revenue, outside the 80% range sealed before the answer: $2.0B to $2.5B.",
-   "url": "https://www.pops4.com/boards/company/FICO",
-   "label": "Company card",
-   "as_of": "2026-11-09"
-  },
-  {
-   "kind": "Scored",
-   "text": "Visa filed $45.9B in revenue, inside the 80% range sealed before the answer: $39.8B to $46.5B.",
-   "url": "https://www.pops4.com/boards/company/V",
-   "label": "Company card",
-   "as_of": "2026-11-06"
   },
   {
    "kind": "Brand Wars",
@@ -1384,7 +1384,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-10T20:29:15.663Z",
+ "updated": "2026-11-11T20:14:09.208Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
