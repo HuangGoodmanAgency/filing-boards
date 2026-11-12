@@ -32,6 +32,34 @@
   },
   {
    "kind": "Scored",
+   "text": "Rockwell Automation filed $9.0B in revenue, inside the 80% range sealed before the answer: $7.2B to $9.6B.",
+   "url": "https://www.pops4.com/boards/company/ROK",
+   "label": "Company card",
+   "as_of": "2026-11-12"
+  },
+  {
+   "kind": "Scored",
+   "text": "Johnson Controls International filed $25.7B in revenue, inside the 80% range sealed before the answer: $21.2B to $26.4B.",
+   "url": "https://www.pops4.com/boards/company/JCI",
+   "label": "Company card",
+   "as_of": "2026-11-12"
+  },
+  {
+   "kind": "Scored",
+   "text": "Ezcorp filed $1.7B in revenue, outside the 80% range sealed before the answer: $1.3B to $1.5B.",
+   "url": "https://www.pops4.com/boards/company/EZPW",
+   "label": "Company card",
+   "as_of": "2026-11-12"
+  },
+  {
+   "kind": "Scored",
+   "text": "BrightView Holdings filed $2.7B in revenue, inside the 80% range sealed before the answer: $2.3B to $2.8B.",
+   "url": "https://www.pops4.com/boards/company/BV",
+   "label": "Company card",
+   "as_of": "2026-11-11"
+  },
+  {
+   "kind": "Scored",
    "text": "Bitmine Immersion Technologies filed $125M in revenue, outside the 80% range sealed before the answer: $8M to $22M.",
    "url": "https://www.pops4.com/boards/company/BMNR",
    "label": "Company card",
@@ -41,34 +69,6 @@
    "kind": "Scored",
    "text": "TransDigm Group filed $10.6B in revenue, inside the 80% range sealed before the answer: $9.0B to $10.9B.",
    "url": "https://www.pops4.com/boards/company/TDG",
-   "label": "Company card",
-   "as_of": "2026-11-10"
-  },
-  {
-   "kind": "Scored",
-   "text": "Sally Beauty Holdings filed $3.7B in revenue, inside the 80% range sealed before the answer: $3.3B to $3.9B.",
-   "url": "https://www.pops4.com/boards/company/SBH",
-   "label": "Company card",
-   "as_of": "2026-11-10"
-  },
-  {
-   "kind": "Scored",
-   "text": "Skyworks Solutions filed $4.0B in revenue, inside the 80% range sealed before the answer: $3.3B to $4.3B.",
-   "url": "https://www.pops4.com/boards/company/SWKS",
-   "label": "Company card",
-   "as_of": "2026-11-10"
-  },
-  {
-   "kind": "Scored",
-   "text": "Emerson Electric filed $19.0B in revenue, inside the 80% range sealed before the answer: $17.1B to $20.0B.",
-   "url": "https://www.pops4.com/boards/company/EMR",
-   "label": "Company card",
-   "as_of": "2026-11-10"
-  },
-  {
-   "kind": "Scored",
-   "text": "Franklin Resources filed $9.4B in revenue, inside the 80% range sealed before the answer: $7.9B to $9.8B.",
-   "url": "https://www.pops4.com/boards/company/BEN",
    "label": "Company card",
    "as_of": "2026-11-10"
   },
@@ -1384,7 +1384,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-11T20:14:09.208Z",
+ "updated": "2026-11-12T20:51:50.622Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
