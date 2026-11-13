@@ -1,22 +1,22 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "7 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 10 Nov 2026, including Phunware (PHUN), GrowGeneration (GRWG), Coursera (COUR), Eos Energy Enterprises (EOSE), Acumen Pharmaceuticals (ABOS) and 2 more. The board holds 52, each linked to SEC EDGAR.",
- "as_of": "2026-11-12",
- "newest_filing": "2026-11-10",
- "last_7_days": 7,
+ "answer": "4 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 12 Nov 2026, including Pvh (PVH), Phunware (PHUN), GrowGeneration (GRWG), Coursera (COUR). The board holds 53, each linked to SEC EDGAR.",
+ "as_of": "2026-11-13",
+ "newest_filing": "2026-11-12",
+ "last_7_days": 4,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-12, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-13, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-12T20:51:15.947Z",
+ "generated": "2026-11-13T20:30:09.315Z",
  "tracker": "restructuring",
- "total": 52,
- "returned": 47,
+ "total": 53,
+ "returned": 48,
  "truncated": true,
- "more": "?limit=52",
+ "more": "?limit=53",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,33 @@
   }
  },
  "rows": [
+  {
+   "id": "0001213900-26-118427",
+   "company": "PVH CORP. /DE/",
+   "cik": "78239",
+   "form": "8-K",
+   "items": [
+    "2.05"
+   ],
+   "ticker": "PVH",
+   "exchange": "NYSE",
+   "sector": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+   "filerCategory": "Large accelerated filer",
+   "revenue": 8950200000,
+   "revenueFY": "2026",
+   "city": "NEW YORK",
+   "hq": "NY",
+   "formerName": "PHILLIPS VAN HEUSEN CORP /DE/",
+   "event": "2026-11-12",
+   "quote": null,
+   "sic": "2320",
+   "state": "DE",
+   "filed": "2026-11-12",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/78239/000121390026118427/0001213900-26-118427-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=78239&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001193125-26-455414",
    "company": "Phunware, Inc.",

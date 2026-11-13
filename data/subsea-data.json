@@ -1,22 +1,22 @@
 {
  "question": "Which public companies are filing about undersea cables, cable landings, offshore wind for data centres or ocean cooling?",
- "answer": "Underwater data centres named in SEC filings in the last 12 months: 0. The first filer to say it will appear here. In the last 7 days, 2 companies named undersea cables, cable landing stations, offshore wind for data centres or ocean cooling in an SEC filing: Kt, filed 10 Nov 2026; Chunghwa Telecom Co, filed 5 Nov 2026. The board holds 48, each with the filer’s own sentence and a link to SEC EDGAR.",
- "as_of": "2026-11-12",
- "newest_filing": "2026-11-10",
+ "answer": "Underwater data centres named in SEC filings in the last 12 months: 0. The first filer to say it will appear here. In the last 7 days, 2 companies named undersea cables, cable landing stations, offshore wind for data centres or ocean cooling in an SEC filing: Launch Two Acquisition (LPBB), filed 12 Nov 2026; Kt, filed 10 Nov 2026. The board holds 49, each with the filer’s own sentence and a link to SEC EDGAR.",
+ "as_of": "2026-11-13",
+ "newest_filing": "2026-11-12",
  "last_7_days": 2,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Subsea Data Watch (SEC filings · undersea cables, cable landings, offshore wind for data centres, ocean cooling · the filer’s own sentence), accessed 2026-11-12, https://www.pops4.com/boards/subsea-data. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Subsea Data Watch (SEC filings · undersea cables, cable landings, offshore wind for data centres, ocean cooling · the filer’s own sentence), accessed 2026-11-13, https://www.pops4.com/boards/subsea-data. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-12T20:51:41.526Z",
+ "generated": "2026-11-13T20:30:32.457Z",
  "tracker": "subsea-data",
- "total": 48,
- "returned": 27,
+ "total": 49,
+ "returned": 28,
  "truncated": true,
- "more": "?limit=48",
+ "more": "?limit=49",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,32 @@
   }
  },
  "rows": [
+  {
+   "id": "0001213900-26-118924",
+   "company": "Launch Two Acquisition Corp.",
+   "cik": "2023676",
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "ticker": "LPBB",
+   "exchange": "Nasdaq",
+   "sector": "Fabricated Plate Work (Boiler Shops)",
+   "filerCategory": "Emerging growth company",
+   "revenue": null,
+   "revenueFY": null,
+   "city": "OAKLAND",
+   "hq": "CA",
+   "formerName": null,
+   "event": null,
+   "quote": "Nuclear Gas Peaking Wind Offshore Wind + Storage Onshore Wind Onshore Geothermal Solar + Storage Utility Solar PV Utility Solar PV C&I Primary Market 3: Data Centers 25 A $40 $60/ton carbon price lifts the LCOE of most conventional generation above NuCube's NOAK range; ~15 MWe NuSunTM units, deployed up to 20 at a time (300 MW), can address power demand from existing data centers in the market 1.",
+   "filed": "2026-11-12",
+   "lane": "Offshore wind for data centres",
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026118924/0001213900-26-118924-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2023676&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001628280-26-072441",
    "company": "KT CORP",
