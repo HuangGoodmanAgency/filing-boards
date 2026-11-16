@@ -3,11 +3,46 @@
  "note": "Facts made by software from SEC filings and USPTO trademark files. Trademark figures run through March 2024. Reporting, not advice.",
  "facts": [
   {
-   "kind": "Side by side",
-   "text": "⚖️ SIDE BY SIDE · Deckers turns 20.1% of its revenue into free cash; Nike turns 4.7%.",
-   "url": "https://www.pops4.com/?check=NKE,LULU,DECK",
-   "label": "Open the comparison",
-   "as_of": "2026-11-07"
+   "kind": "Receipts",
+   "text": "LKQ's sales kept growing. Its operating profit fell from $1.58 billion to $993 million.",
+   "url": "https://www.pops4.com/boards/company/LKQ",
+   "label": "See the receipts",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Sonoco's sales jumped forty-one percent. Its cash did not.",
+   "url": "https://www.pops4.com/boards/company/SON",
+   "label": "See the receipts",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Receipts",
+   "text": "ARKO sells $7.6 billion a year. Here is how little of it stays.",
+   "url": "https://www.pops4.com/boards/company/ARKO",
+   "label": "See the receipts",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Receipts",
+   "text": "HubSpot’s CEO stepped down this week. Here is what ten years of filings show.",
+   "url": "https://www.pops4.com/boards/company/HUBS",
+   "label": "See the receipts",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Costco keeps 3.9 cents of every dollar, and just handed its owners $13.3 billion.",
+   "url": "https://www.pops4.com/boards/company/COST",
+   "label": "See the receipts",
+   "as_of": "2026-11-15"
+  },
+  {
+   "kind": "Receipts",
+   "text": "NVIDIA lost $2 trillion in a month. Here is the one year that built it.",
+   "url": "https://www.pops4.com/boards/company/NVDA",
+   "label": "See the receipts",
+   "as_of": "2026-11-15"
   },
   {
    "kind": "Just filed",
@@ -32,45 +67,45 @@
   },
   {
    "kind": "Scored",
+   "text": "Atmos Energy filed $5.0B in revenue, inside the 80% range sealed before the answer: $4.3B to $5.7B.",
+   "url": "https://www.pops4.com/boards/company/ATO",
+   "label": "Company card",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Scored",
+   "text": "Marinemax filed $2.2B in revenue, inside the 80% range sealed before the answer: $2.0B to $2.5B.",
+   "url": "https://www.pops4.com/boards/company/HZO",
+   "label": "Company card",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Scored",
+   "text": "Tyson Foods filed $56.4B in revenue, inside the 80% range sealed before the answer: $49.0B to $58.2B.",
+   "url": "https://www.pops4.com/boards/company/TSN",
+   "label": "Company card",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Scored",
+   "text": "Edgewell Personal Care filed $2.0B in revenue, inside the 80% range sealed before the answer: $2.0B to $2.4B.",
+   "url": "https://www.pops4.com/boards/company/EPC",
+   "label": "Company card",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Scored",
+   "text": "Adient filed $15.2B in revenue, inside the 80% range sealed before the answer: $12.9B to $15.3B.",
+   "url": "https://www.pops4.com/boards/company/ADNT",
+   "label": "Company card",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Scored",
    "text": "Rmr Group filed $643M in revenue, inside the 80% range sealed before the answer: $436M to $808M.",
    "url": "https://www.pops4.com/boards/company/RMR",
    "label": "Company card",
    "as_of": "2026-11-13"
-  },
-  {
-   "kind": "Scored",
-   "text": "MACOM Technology Solutions Holdings filed $1.3B in revenue, inside the 80% range sealed before the answer: $959M to $1.4B.",
-   "url": "https://www.pops4.com/boards/company/MTSI",
-   "label": "Company card",
-   "as_of": "2026-11-13"
-  },
-  {
-   "kind": "Scored",
-   "text": "Starbucks filed $37.9B in revenue, inside the 80% range sealed before the answer: $34.4B to $40.5B.",
-   "url": "https://www.pops4.com/boards/company/SBUX",
-   "label": "Company card",
-   "as_of": "2026-11-12"
-  },
-  {
-   "kind": "Scored",
-   "text": "Rockwell Automation filed $9.0B in revenue, inside the 80% range sealed before the answer: $7.2B to $9.6B.",
-   "url": "https://www.pops4.com/boards/company/ROK",
-   "label": "Company card",
-   "as_of": "2026-11-12"
-  },
-  {
-   "kind": "Scored",
-   "text": "Johnson Controls International filed $25.7B in revenue, inside the 80% range sealed before the answer: $21.2B to $26.4B.",
-   "url": "https://www.pops4.com/boards/company/JCI",
-   "label": "Company card",
-   "as_of": "2026-11-12"
-  },
-  {
-   "kind": "Scored",
-   "text": "Ezcorp filed $1.7B in revenue, outside the 80% range sealed before the answer: $1.3B to $1.5B.",
-   "url": "https://www.pops4.com/boards/company/EZPW",
-   "label": "Company card",
-   "as_of": "2026-11-12"
   },
   {
    "kind": "Brand Wars",
@@ -1384,7 +1419,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-13T20:30:37.075Z",
+ "updated": "2026-11-16T22:55:21.733Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
