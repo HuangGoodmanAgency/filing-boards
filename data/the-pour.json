@@ -4,6 +4,34 @@
  "facts": [
   {
    "kind": "Receipts",
+   "text": "Walmart sales are up 47% in ten years. Free cash is down. Here is why.",
+   "url": "https://www.pops4.com/boards/company/WMT",
+   "label": "See the receipts",
+   "as_of": "2026-11-18"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Weyerhaeuser pays out 187% of its profit. Here is how its cash fell from $3.2B to $562M.",
+   "url": "https://www.pops4.com/boards/company/WY",
+   "label": "See the receipts",
+   "as_of": "2026-11-18"
+  },
+  {
+   "kind": "Receipts",
+   "text": "The Children's Place filed for bankruptcy and wants a $166 million lifeline. Here is the slide.",
+   "url": "https://www.pops4.com/boards/company/PLCE",
+   "label": "See the receipts",
+   "as_of": "2026-11-18"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Vireo Growth just added thirty-three dispensaries. Here is what its own filings say it cost.",
+   "url": "https://www.pops4.com/boards/company/VREOF",
+   "label": "See the receipts",
+   "as_of": "2026-11-18"
+  },
+  {
+   "kind": "Receipts",
    "text": "CMC’s finance chief is retiring. Here is what ten years of its cash say.",
    "url": "https://www.pops4.com/boards/company/CMC",
    "label": "See the receipts",
@@ -95,6 +123,13 @@
   },
   {
    "kind": "Just filed",
+   "text": "Integer filed a completed deal or change of control on 17 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326017597/0000950103-26-017597-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-17"
+  },
+  {
+   "kind": "Just filed",
    "text": "Braemar Hotels & Resorts filed a completed deal or change of control on 10 Nov 2026.",
    "url": "https://www.sec.gov/Archives/edgar/data/1574085/000110465926125156/0001104659-26-125156-index.htm",
    "label": "The filing",
@@ -108,53 +143,46 @@
    "as_of": "2026-11-16"
   },
   {
-   "kind": "Just filed",
-   "text": "Aon filed a completed deal or change of control on 16 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/0001193125-26-463733-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-16"
+   "kind": "Scored",
+   "text": "Sonos filed $1.5B in revenue, outside the 80% range sealed before the answer: $1.2B to $1.5B.",
+   "url": "https://www.pops4.com/boards/company/SONO",
+   "label": "Company card",
+   "as_of": "2026-11-18"
   },
   {
    "kind": "Scored",
-   "text": "Powell Industries filed $1.3B in revenue, inside the 80% range sealed before the answer: $1.1B to $1.5B.",
-   "url": "https://www.pops4.com/boards/company/POWL",
+   "text": "Aecom filed $15.1B in revenue, inside the 80% range sealed before the answer: $14.8B to $17.7B.",
+   "url": "https://www.pops4.com/boards/company/ACM",
    "label": "Company card",
-   "as_of": "2026-11-17"
+   "as_of": "2026-11-18"
   },
   {
    "kind": "Scored",
-   "text": "Twist Bioscience filed $459M in revenue, inside the 80% range sealed before the answer: $375M to $537M.",
-   "url": "https://www.pops4.com/boards/company/TWST",
+   "text": "Clearfield filed $152M in revenue, inside the 80% range sealed before the answer: $80M to $279M.",
+   "url": "https://www.pops4.com/boards/company/CLFD",
    "label": "Company card",
-   "as_of": "2026-11-17"
+   "as_of": "2026-11-18"
   },
   {
    "kind": "Scored",
-   "text": "Walt Disney filed $102.3B in revenue, inside the 80% range sealed before the answer: $85.6B to $105.0B.",
-   "url": "https://www.pops4.com/boards/company/DIS",
+   "text": "Enanta Pharmaceuticals filed $63M in revenue, inside the 80% range sealed before the answer: $41M to $87M.",
+   "url": "https://www.pops4.com/boards/company/ENTA",
    "label": "Company card",
-   "as_of": "2026-11-17"
+   "as_of": "2026-11-18"
   },
   {
    "kind": "Scored",
-   "text": "Tetra Tech filed $5.1B in revenue, outside the 80% range sealed before the answer: $5.2B to $6.7B.",
-   "url": "https://www.pops4.com/boards/company/TTEK",
+   "text": "Griffon filed $1.8B in revenue, outside the 80% range sealed before the answer: $2.0B to $2.8B.",
+   "url": "https://www.pops4.com/boards/company/GFF",
    "label": "Company card",
-   "as_of": "2026-11-17"
+   "as_of": "2026-11-18"
   },
   {
    "kind": "Scored",
-   "text": "Atmos Energy filed $5.0B in revenue, inside the 80% range sealed before the answer: $4.3B to $5.7B.",
-   "url": "https://www.pops4.com/boards/company/ATO",
+   "text": "Energizer Holdings filed $2.9B in revenue, inside the 80% range sealed before the answer: $2.7B to $3.2B.",
+   "url": "https://www.pops4.com/boards/company/ENR",
    "label": "Company card",
-   "as_of": "2026-11-16"
-  },
-  {
-   "kind": "Scored",
-   "text": "Marinemax filed $2.2B in revenue, inside the 80% range sealed before the answer: $2.0B to $2.5B.",
-   "url": "https://www.pops4.com/boards/company/HZO",
-   "label": "Company card",
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-18"
   },
   {
    "kind": "Brand Wars",
@@ -1468,7 +1496,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-17T21:48:23.693Z",
+ "updated": "2026-11-18T21:27:42.930Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }

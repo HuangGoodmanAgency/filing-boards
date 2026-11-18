@@ -1,22 +1,22 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "5 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 16 Nov 2026, including Cardlytics (CDLX), Pvh (PVH), Phunware (PHUN), GrowGeneration (GRWG), Coursera (COUR). The board holds 54, each linked to SEC EDGAR.",
- "as_of": "2026-11-17",
- "newest_filing": "2026-11-16",
- "last_7_days": 5,
+ "answer": "3 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 17 Nov 2026, including Ecolab (ECL), Cardlytics (CDLX), Pvh (PVH). The board holds 55, each linked to SEC EDGAR.",
+ "as_of": "2026-11-18",
+ "newest_filing": "2026-11-17",
+ "last_7_days": 3,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-17, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-18, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-17T21:47:59.073Z",
+ "generated": "2026-11-18T21:27:11.875Z",
  "tracker": "restructuring",
- "total": 54,
- "returned": 49,
+ "total": 55,
+ "returned": 50,
  "truncated": true,
- "more": "?limit=54",
+ "more": "?limit=55",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,33 @@
   }
  },
  "rows": [
+  {
+   "id": "0001628280-26-074572",
+   "company": "ECOLAB INC.",
+   "cik": "31462",
+   "form": "8-K",
+   "items": [
+    "2.05"
+   ],
+   "ticker": "ECL",
+   "exchange": "NYSE",
+   "sector": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+   "filerCategory": "Large accelerated filer",
+   "revenue": 16081200000,
+   "revenueFY": "2025",
+   "city": "SAINT PAUL",
+   "hq": "MN",
+   "formerName": "ECOLAB INC",
+   "event": "2026-11-17",
+   "quote": null,
+   "sic": "2840",
+   "state": "DE",
+   "filed": "2026-11-17",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/31462/000162828026074572/0001628280-26-074572-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=31462&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001628280-26-074161",
    "company": "Cardlytics, Inc.",
