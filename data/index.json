@@ -2,8 +2,8 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-11-18T20:30:59.747Z",
- "swept": 14406,
+ "generated": "2026-11-19T20:50:34.510Z",
+ "swept": 14603,
  "fields": "https://www.pops4.com/boards/fields.json",
  "trackers": [
   {
@@ -44,7 +44,7 @@
    "sub": "SEC 8-K Item 5.03 · articles, bylaws, fiscal year · renames flagged",
    "line": "full reprint",
    "scope": "SEC 8-K Item 5.03",
-   "rows": 498
+   "rows": 510
   },
   {
    "key": "mergers",
@@ -52,7 +52,7 @@
    "sub": "SEC 8-K Items 2.01 and 5.01 · completed acquisitions and control changes",
    "line": "identity integration",
    "scope": "SEC 8-K Item 2.01, 5.01",
-   "rows": 301
+   "rows": 304
   },
   {
    "key": "agreements",
@@ -60,7 +60,7 @@
    "sub": "SEC 8-K Item 1.01 · sponsorships, naming rights, partnerships",
    "line": "partnership programs",
    "scope": "SEC 8-K Item 1.01",
-   "rows": 2171
+   "rows": 2205
   },
   {
    "key": "restructuring",
@@ -76,7 +76,7 @@
    "sub": "SEC 8-K Item 5.02 · departures and appointments",
    "line": "rebrand and launch",
    "scope": "SEC 8-K Item 5.02",
-   "rows": 2113
+   "rows": 2146
   },
   {
    "key": "ipo-watch",
@@ -84,7 +84,7 @@
    "sub": "SEC Form S-1 · companies registering to go public",
    "line": "listing-day build-out",
    "scope": "SEC Form S-1",
-   "rows": 178
+   "rows": 180
   },
   {
    "key": "annual-meetings",
@@ -92,7 +92,7 @@
    "sub": "SEC Form DEF 14A · definitive proxy statements",
    "line": "event programs",
    "scope": "SEC Form DEF 14A",
-   "rows": 592
+   "rows": 594
   },
   {
    "key": "auditor-watch",
