@@ -4,6 +4,34 @@
  "facts": [
   {
    "kind": "Receipts",
+   "text": "Viatris paid $36.50 a share for Pacira. Here are the numbers behind it.",
+   "url": "https://www.pops4.com/boards/company/VTRS",
+   "label": "See the receipts",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Receipts",
+   "text": "RPC appointed a new CEO this week. Here are ten years of numbers behind the job.",
+   "url": "https://www.pops4.com/boards/company/RES",
+   "label": "See the receipts",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Jack in the Box's finance chief will step down. Here is the margin that melted.",
+   "url": "https://www.pops4.com/boards/company/JACK",
+   "label": "See the receipts",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Integer Holdings was bought for $127 a share in cash. Here is how it got there.",
+   "url": "https://www.pops4.com/boards/company/ITGR",
+   "label": "See the receipts",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Receipts",
    "text": "JPMorgan just named a new finance chief for a $5.1 trillion bank. Here is the cash line to watch.",
    "url": "https://www.pops4.com/boards/company/JPM",
    "label": "See the receipts",
@@ -165,45 +193,45 @@
   },
   {
    "kind": "Scored",
-   "text": "Woodward filed $4.4B in revenue, outside the 80% range sealed before the answer: $3.5B to $4.3B.",
-   "url": "https://www.pops4.com/boards/company/WWD",
+   "text": "Ashland filed $1.9B in revenue, outside the 80% range sealed before the answer: $1.4B to $1.8B.",
+   "url": "https://www.pops4.com/boards/company/ASH",
    "label": "Company card",
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Scored",
-   "text": "Warner Music Group filed $7.4B in revenue, inside the 80% range sealed before the answer: $6.2B to $7.5B.",
-   "url": "https://www.pops4.com/boards/company/WMG",
+   "text": "National Fuel Gas filed $2.5B in revenue, inside the 80% range sealed before the answer: $1.5B to $3.5B.",
+   "url": "https://www.pops4.com/boards/company/NFG",
    "label": "Company card",
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Scored",
-   "text": "Wafd filed $32M in revenue, inside the 80% range sealed before the answer: $21M to $44M.",
-   "url": "https://www.pops4.com/boards/company/WAFD",
+   "text": "Digi International filed $535M in revenue, outside the 80% range sealed before the answer: $359M to $521M.",
+   "url": "https://www.pops4.com/boards/company/DGII",
    "label": "Company card",
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Scored",
-   "text": "Air Products And Chemicals filed $13.0B in revenue, inside the 80% range sealed before the answer: $10.1B to $13.0B.",
-   "url": "https://www.pops4.com/boards/company/APD",
+   "text": "Moog filed $4.5B in revenue, outside the 80% range sealed before the answer: $3.7B to $4.4B.",
+   "url": "https://www.pops4.com/boards/company/MOG-A",
    "label": "Company card",
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Scored",
-   "text": "Liquidity Services filed $478M in revenue, outside the 80% range sealed before the answer: $503M to $682M.",
-   "url": "https://www.pops4.com/boards/company/LQDT",
+   "text": "Azenta filed $622M in revenue, inside the 80% range sealed before the answer: $528M to $678M.",
+   "url": "https://www.pops4.com/boards/company/AZTA",
    "label": "Company card",
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Scored",
-   "text": "Kulicke And Soffa Industries filed $1.2B in revenue, outside the 80% range sealed before the answer: $363M to $811M.",
-   "url": "https://www.pops4.com/boards/company/KLIC",
+   "text": "Helmerich & Payne filed $4.1B in revenue, inside the 80% range sealed before the answer: $3.6B to $6.2B.",
+   "url": "https://www.pops4.com/boards/company/HP",
    "label": "Company card",
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Brand Wars",
@@ -1517,7 +1545,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-19T21:38:55.924Z",
+ "updated": "2026-11-20T21:11:07.294Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
