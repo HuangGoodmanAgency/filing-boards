@@ -1,6 +1,6 @@
 {
  "question": "Which public companies have disclosed a cybersecurity incident to the SEC?",
- "answer": "None in the last 7 days. The most recent: Park Dental Partners (PARK), filed 13 Oct 2026; Astrana Health (ASTH), filed 23 Sept 2026; Boston Scientific (BSX), filed 8 Sept 2026. For the newest, day 30 from filing falls on 12 Nov 2026. The board holds 4 such filings, each linked to SEC EDGAR. Incidents reported voluntarily, without a materiality finding, are on the Cyber Disclosures board.",
+ "answer": "None in the last 7 days. The most recent: Park Dental Partners (PARK), filed 13 Oct 2026; Astrana Health (ASTH), filed 23 Sept 2026; Boston Scientific (BSX), filed 8 Sept 2026; and 1 more. For the newest, day 30 from filing falls on 12 Nov 2026. The board holds 4 such filings, each linked to SEC EDGAR. Incidents reported voluntarily, without a materiality finding, are on the Cyber Disclosures board.",
  "as_of": "2026-11-24",
  "newest_filing": "2026-10-13",
  "last_7_days": 0,
@@ -11,12 +11,12 @@
  "cite": "POPS4, Edgar & Edgarette: Breach Clock (SEC 8-K Item 1.05 · every filer · same day), accessed 2026-11-24, https://www.pops4.com/boards/breaches. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-24T00:56:25.660Z",
+ "generated": "2026-11-24T23:02:18.248Z",
  "tracker": "breaches",
  "total": 4,
- "returned": 3,
- "truncated": true,
- "more": "?limit=4",
+ "returned": 4,
+ "truncated": false,
+ "more": null,
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -175,6 +175,34 @@
    "deadline": "2026-10-08",
    "source": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000059/0000885725-26-000059-index.htm",
    "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=885725&type=8-K&dateb=&owner=include&count=40"
+  },
+  {
+   "id": "0001104659-26-104300",
+   "company": "Park Dental Partners, Inc.",
+   "cik": "2069604",
+   "form": "8-K",
+   "items": [
+    "1.05",
+    "9.01"
+   ],
+   "ticker": "PARK",
+   "exchange": "Nasdaq",
+   "sector": "Services-Misc Health & Allied Services, NEC",
+   "filerCategory": "Emerging growth company",
+   "revenue": null,
+   "revenueFY": null,
+   "city": "ROSEVILLE",
+   "hq": "MN",
+   "formerName": null,
+   "event": "2026-08-28",
+   "quote": null,
+   "sic": "8090",
+   "state": "MN",
+   "filed": "2026-09-01",
+   "lane": null,
+   "deadline": "2026-10-01",
+   "source": "https://www.sec.gov/Archives/edgar/data/2069604/000110465926104300/0001104659-26-104300-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2069604&type=8-K&dateb=&owner=include&count=40"
   }
  ],
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."

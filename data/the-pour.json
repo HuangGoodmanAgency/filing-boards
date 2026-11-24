@@ -4,6 +4,34 @@
  "facts": [
   {
    "kind": "Receipts",
+   "text": "Utz Brands just went private at a ninety-one percent premium. Here is the cash catch.",
+   "url": "https://www.pops4.com/boards/company/UTZ",
+   "label": "See the receipts",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Receipts",
+   "text": "GeneDx's CEO will step down. Here is how it went from burning $319M to making cash.",
+   "url": "https://www.pops4.com/boards/company/WGS",
+   "label": "See the receipts",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Viatris just bought Pacira for $36.50 a share. Here is the one year that turned it.",
+   "url": "https://www.pops4.com/boards/company/PCRX",
+   "label": "See the receipts",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Luxfer just went private at $17.37 a share. Here is what its filings show.",
+   "url": "https://www.pops4.com/boards/company/LXFR",
+   "label": "See the receipts",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Receipts",
    "text": "Diversified Energy owes $3 billion. Here is the one year that changed its margin.",
    "url": "https://www.pops4.com/boards/company/DEC",
    "label": "See the receipts",
@@ -143,32 +171,11 @@
    "as_of": "2026-11-19"
   },
   {
-   "kind": "Receipts",
-   "text": "Home Depot named a new CEO. Here are ten years of its own numbers.",
-   "url": "https://www.pops4.com/boards/company/HD",
-   "label": "See the receipts",
-   "as_of": "2026-11-19"
-  },
-  {
-   "kind": "Receipts",
-   "text": "Walmart sales are up 47% in ten years. Free cash is down. Here is why.",
-   "url": "https://www.pops4.com/boards/company/WMT",
-   "label": "See the receipts",
-   "as_of": "2026-11-18"
-  },
-  {
-   "kind": "Receipts",
-   "text": "Weyerhaeuser pays out 187% of its profit. Here is how its cash fell from $3.2B to $562M.",
-   "url": "https://www.pops4.com/boards/company/WY",
-   "label": "See the receipts",
-   "as_of": "2026-11-18"
-  },
-  {
-   "kind": "Receipts",
-   "text": "The Children's Place filed for bankruptcy and wants a $166 million lifeline. Here is the slide.",
-   "url": "https://www.pops4.com/boards/company/PLCE",
-   "label": "See the receipts",
-   "as_of": "2026-11-18"
+   "kind": "Why sales moved",
+   "text": "Subscription revenue rose 29% on new customers and add-on modules, lifting revenue to $1.6B from $1.2B",
+   "url": "https://www.pops4.com/boards/company/CRWD",
+   "label": "See why sales moved",
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Why sales moved",
@@ -181,6 +188,13 @@
    "kind": "Why sales moved",
    "text": "Recurring revenue rose $14.3M, more than offsetting an $8.8M drop in non-recurring revenue; total up 2.6%",
    "url": "https://www.pops4.com/boards/company/IIIV",
+   "label": "See why sales moved",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "Revenue was flat as the Kepware and ThingWorx sale and a shorter big license deal offset CAD growth",
+   "url": "https://www.pops4.com/boards/company/PTC",
    "label": "See why sales moved",
    "as_of": "2026-11-20"
   },
@@ -255,44 +269,121 @@
    "as_of": "2026-11-16"
   },
   {
+   "kind": "Just filed",
+   "text": "Enphase Energy filed restructuring or exit costs on 20 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1463101/000146310126000112/0001463101-26-000112-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Ecolab filed restructuring or exit costs on 17 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/31462/000162828026074572/0001628280-26-074572-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-17"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Cardlytics filed restructuring or exit costs on 16 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1666071/000162828026074161/0001628280-26-074161-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Just filed",
+   "text": "SurgePays filed an auditor change on 17 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226052894/0001493152-26-052894-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-17"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Scilex filed an auditor change on 17 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526465507/0001193125-26-465507-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-17"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Century Casinos filed an auditor change on 16 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000055/0000911147-26-000055-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-16"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Nvidia filed an officer or director change on 23 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/0001045810-26-000090-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Tyson Foods filed an officer or director change on 20 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Just filed",
+   "text": "American Airlines filed an officer or director change on 20 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Just filed",
+   "text": "PayPal filed an officer or director change on 20 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Westinghouse Air Brake Technologies filed an officer or director change on 20 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126045007/0001140361-26-045007-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Scored",
+   "text": "Amentum Holdings filed $13.8B in revenue, outside the 80% range sealed before the answer: $15.8B to $26.3B.",
+   "url": "https://www.pops4.com/boards/company/AMTM",
+   "label": "Company card",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Scored",
+   "text": "Aramark filed $20.1B in revenue, inside the 80% range sealed before the answer: $18.0B to $21.0B.",
+   "url": "https://www.pops4.com/boards/company/ARMK",
+   "label": "Company card",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Scored",
+   "text": "Cencora filed $337.4B in revenue, inside the 80% range sealed before the answer: $320.2B to $364.7B.",
+   "url": "https://www.pops4.com/boards/company/COR",
+   "label": "Company card",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Scored",
+   "text": "Scotts Miracle-Gro filed $3.3B in revenue, inside the 80% range sealed before the answer: $2.8B to $3.7B.",
+   "url": "https://www.pops4.com/boards/company/SMG",
+   "label": "Company card",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Scored",
+   "text": "Alico filed $18M in revenue, outside the 80% range sealed before the answer: $19M to $73M.",
+   "url": "https://www.pops4.com/boards/company/ALCO",
+   "label": "Company card",
+   "as_of": "2026-11-24"
+  },
+  {
    "kind": "Scored",
    "text": "Varex Imaging filed $856M in revenue, inside the 80% range sealed before the answer: $730M to $973M.",
    "url": "https://www.pops4.com/boards/company/VREX",
-   "label": "Company card",
-   "as_of": "2026-11-23"
-  },
-  {
-   "kind": "Scored",
-   "text": "Symbotic filed $2.8B in revenue, inside the 80% range sealed before the answer: $2.3B to $4.2B.",
-   "url": "https://www.pops4.com/boards/company/SYM",
-   "label": "Company card",
-   "as_of": "2026-11-23"
-  },
-  {
-   "kind": "Scored",
-   "text": "Fluence Energy filed $2.3B in revenue, inside the 80% range sealed before the answer: $1.5B to $3.4B.",
-   "url": "https://www.pops4.com/boards/company/FLNC",
-   "label": "Company card",
-   "as_of": "2026-11-23"
-  },
-  {
-   "kind": "Scored",
-   "text": "Ptc filed $2.7B in revenue, outside the 80% range sealed before the answer: $2.8B to $3.4B.",
-   "url": "https://www.pops4.com/boards/company/PTC",
-   "label": "Company card",
-   "as_of": "2026-11-23"
-  },
-  {
-   "kind": "Scored",
-   "text": "i3 Verticals filed $219M in revenue, inside the 80% range sealed before the answer: $188M to $271M.",
-   "url": "https://www.pops4.com/boards/company/IIIV",
-   "label": "Company card",
-   "as_of": "2026-11-23"
-  },
-  {
-   "kind": "Scored",
-   "text": "Post Holdings filed $8.1B in revenue, inside the 80% range sealed before the answer: $7.7B to $9.5B.",
-   "url": "https://www.pops4.com/boards/company/POST",
    "label": "Company card",
    "as_of": "2026-11-23"
   },
@@ -1608,7 +1699,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-24T00:57:10.150Z",
+ "updated": "2026-11-24T23:02:38.034Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
