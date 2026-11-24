@@ -4,6 +4,104 @@
  "facts": [
   {
    "kind": "Receipts",
+   "text": "Diversified Energy owes $3 billion. Here is the one year that changed its margin.",
+   "url": "https://www.pops4.com/boards/company/DEC",
+   "label": "See the receipts",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Receipts",
+   "text": "NorthWestern Energy changed control with $3.3 billion in debt. Here is the cash gap behind it.",
+   "url": "https://www.pops4.com/boards/company/NWE",
+   "label": "See the receipts",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Enphase is cutting about 320 jobs. Here is the cash that vanished first.",
+   "url": "https://www.pops4.com/boards/company/ENPH",
+   "label": "See the receipts",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Receipts",
+   "text": "MARVELL: A $115B DEAL ON $8.2B OF SALES",
+   "url": "https://www.pops4.com/boards/company/MRVL",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "BOSTON BEER: SALES FELL, PROFIT NEARLY DOUBLED",
+   "url": "https://www.pops4.com/boards/company/SAM",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "MAXIMUS: THE PROFIT THAT WASN’T CASH",
+   "url": "https://www.pops4.com/boards/company/MMS",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "ECOLAB: THE MARGIN SLIP",
+   "url": "https://www.pops4.com/boards/company/ECL",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "COMMERCIAL METALS: THE $3.1B YEAR",
+   "url": "https://www.pops4.com/boards/company/CMC",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "JACK IN THE BOX: THE MARGIN THAT MELTED",
+   "url": "https://www.pops4.com/boards/company/JACK",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "HOME DEPOT: THE NEW BOSS & THE CASH",
+   "url": "https://www.pops4.com/boards/company/HD",
+   "label": "See the receipts",
+   "as_of": "2026-11-22"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Ecolab filed restructuring costs on $16 billion in sales. Here is the margin that slipped.",
+   "url": "https://www.pops4.com/boards/company/ECL",
+   "label": "See the receipts",
+   "as_of": "2026-11-21"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Boston Beer's founder stepped down as CEO. Here is the profit twist behind it.",
+   "url": "https://www.pops4.com/boards/company/SAM",
+   "label": "See the receipts",
+   "as_of": "2026-11-21"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Maximus borrowed $295 million this week. Its spare cash just fell from $366 million to $69 million.",
+   "url": "https://www.pops4.com/boards/company/MMS",
+   "label": "See the receipts",
+   "as_of": "2026-11-21"
+  },
+  {
+   "kind": "Receipts",
+   "text": "GEO sold a facility for $453 million. Here is the cash number behind it.",
+   "url": "https://www.pops4.com/boards/company/GEO",
+   "label": "See the receipts",
+   "as_of": "2026-11-21"
+  },
+  {
+   "kind": "Receipts",
    "text": "Viatris paid $36.50 a share for Pacira. Here are the numbers behind it.",
    "url": "https://www.pops4.com/boards/company/VTRS",
    "label": "See the receipts",
@@ -73,102 +171,67 @@
    "as_of": "2026-11-18"
   },
   {
-   "kind": "Receipts",
-   "text": "Vireo Growth just added thirty-three dispensaries. Here is what its own filings say it cost.",
-   "url": "https://www.pops4.com/boards/company/VREOF",
-   "label": "See the receipts",
+   "kind": "Why sales moved",
+   "text": "Bigger average tickets plus the GMS and Mingledorff's deals lifted sales, while customer transactions dipped",
+   "url": "https://www.pops4.com/boards/company/HD",
+   "label": "See why sales moved",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "Recurring revenue rose $14.3M, more than offsetting an $8.8M drop in non-recurring revenue; total up 2.6%",
+   "url": "https://www.pops4.com/boards/company/IIIV",
+   "label": "See why sales moved",
+   "as_of": "2026-11-20"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "QuickBooks online growth in Global Business Solutions drove most of Intuit's 12% revenue rise",
+   "url": "https://www.pops4.com/boards/company/INTU",
+   "label": "See why sales moved",
+   "as_of": "2026-11-19"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "Revenue rose 39% to $3.4B on wider adoption and acquisitions such as CyberArk and Chronosphere",
+   "url": "https://www.pops4.com/boards/company/PANW",
+   "label": "See why sales moved",
+   "as_of": "2026-11-19"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "Revenues fell 4% as fewer homes closed at lower prices and rental property sales dropped sharply",
+   "url": "https://www.pops4.com/boards/company/DHI",
+   "label": "See why sales moved",
    "as_of": "2026-11-18"
   },
   {
-   "kind": "Receipts",
-   "text": "CMC’s finance chief is retiring. Here is what ten years of its cash say.",
-   "url": "https://www.pops4.com/boards/company/CMC",
-   "label": "See the receipts",
+   "kind": "Why sales moved",
+   "text": "Hardware systems drove F5's 10.6% revenue rise, on stronger demand and price increases, per management",
+   "url": "https://www.pops4.com/boards/company/FFIV",
+   "label": "See why sales moved",
    "as_of": "2026-11-17"
   },
   {
-   "kind": "Receipts",
-   "text": "PVH sold more and kept less. Here is where the margin went.",
-   "url": "https://www.pops4.com/boards/company/PVH",
-   "label": "See the receipts",
-   "as_of": "2026-11-17"
+   "kind": "Why sales moved",
+   "text": "Sales fell 2.3% as volume dropped and low-margin non-branded items were cut; price added 2.9%.",
+   "url": "https://www.pops4.com/boards/company/UTZ",
+   "label": "See why sales moved",
+   "as_of": "2026-11-06"
   },
   {
-   "kind": "Receipts",
-   "text": "Mercer filed a prepackaged bankruptcy plan with $1.6B of debt. Here is how it got there.",
-   "url": "https://www.pops4.com/boards/company/MERC",
-   "label": "See the receipts",
-   "as_of": "2026-11-17"
+   "kind": "Why sales moved",
+   "text": "US revenue fell 33% as a home-solar tax credit ended; battery and microinverter volumes dropped",
+   "url": "https://www.pops4.com/boards/company/ENPH",
+   "label": "See why sales moved",
+   "as_of": "2026-10-27"
   },
   {
-   "kind": "Receipts",
-   "text": "Aon closed a $17 billion deal this week. Here is what ten years of its filings say.",
-   "url": "https://www.pops4.com/boards/company/AON",
-   "label": "See the receipts",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Receipts",
-   "text": "Black Hills merged and renamed itself this week. Here is what ten years of its filings show.",
-   "url": "https://www.pops4.com/boards/company/BKH",
-   "label": "See the receipts",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Receipts",
-   "text": "Liberty Capital bought an Alaska fiber network after a $347 million operating loss. Here are the receipts.",
-   "url": "https://www.pops4.com/boards/company/GLIBA",
-   "label": "See the receipts",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Receipts",
-   "text": "DocGo filed a CEO transition plan after revenue fell 47.7%. Here is the year the margin broke.",
-   "url": "https://www.pops4.com/boards/company/DCGO",
-   "label": "See the receipts",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Receipts",
-   "text": "LKQ's sales kept growing. Its operating profit fell from $1.58 billion to $993 million.",
-   "url": "https://www.pops4.com/boards/company/LKQ",
-   "label": "See the receipts",
-   "as_of": "2026-11-16"
-  },
-  {
-   "kind": "Receipts",
-   "text": "Sonoco's sales jumped forty-one percent. Its cash did not.",
-   "url": "https://www.pops4.com/boards/company/SON",
-   "label": "See the receipts",
-   "as_of": "2026-11-16"
-  },
-  {
-   "kind": "Receipts",
-   "text": "ARKO sells $7.6 billion a year. Here is how little of it stays.",
-   "url": "https://www.pops4.com/boards/company/ARKO",
-   "label": "See the receipts",
-   "as_of": "2026-11-16"
-  },
-  {
-   "kind": "Receipts",
-   "text": "HubSpot’s CEO stepped down this week. Here is what ten years of filings show.",
-   "url": "https://www.pops4.com/boards/company/HUBS",
-   "label": "See the receipts",
-   "as_of": "2026-11-16"
-  },
-  {
-   "kind": "Receipts",
-   "text": "Costco keeps 3.9 cents of every dollar, and just handed its owners $13.3 billion.",
-   "url": "https://www.pops4.com/boards/company/COST",
-   "label": "See the receipts",
-   "as_of": "2026-11-15"
-  },
-  {
-   "kind": "Receipts",
-   "text": "NVIDIA lost $2 trillion in a month. Here is the one year that built it.",
-   "url": "https://www.pops4.com/boards/company/NVDA",
-   "label": "See the receipts",
-   "as_of": "2026-11-15"
+   "kind": "Why sales moved",
+   "text": "Fewer barrels shipped, led by Twisted Tea and Truly, outweighed higher prices and a richer mix",
+   "url": "https://www.pops4.com/boards/company/SAM",
+   "label": "See why sales moved",
+   "as_of": "2026-10-22"
   },
   {
    "kind": "Just filed",
@@ -193,45 +256,45 @@
   },
   {
    "kind": "Scored",
-   "text": "Ashland filed $1.9B in revenue, outside the 80% range sealed before the answer: $1.4B to $1.8B.",
-   "url": "https://www.pops4.com/boards/company/ASH",
+   "text": "Varex Imaging filed $856M in revenue, inside the 80% range sealed before the answer: $730M to $973M.",
+   "url": "https://www.pops4.com/boards/company/VREX",
    "label": "Company card",
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Scored",
-   "text": "National Fuel Gas filed $2.5B in revenue, inside the 80% range sealed before the answer: $1.5B to $3.5B.",
-   "url": "https://www.pops4.com/boards/company/NFG",
+   "text": "Symbotic filed $2.8B in revenue, inside the 80% range sealed before the answer: $2.3B to $4.2B.",
+   "url": "https://www.pops4.com/boards/company/SYM",
    "label": "Company card",
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Scored",
-   "text": "Digi International filed $535M in revenue, outside the 80% range sealed before the answer: $359M to $521M.",
-   "url": "https://www.pops4.com/boards/company/DGII",
+   "text": "Fluence Energy filed $2.3B in revenue, inside the 80% range sealed before the answer: $1.5B to $3.4B.",
+   "url": "https://www.pops4.com/boards/company/FLNC",
    "label": "Company card",
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Scored",
-   "text": "Moog filed $4.5B in revenue, outside the 80% range sealed before the answer: $3.7B to $4.4B.",
-   "url": "https://www.pops4.com/boards/company/MOG-A",
+   "text": "Ptc filed $2.7B in revenue, outside the 80% range sealed before the answer: $2.8B to $3.4B.",
+   "url": "https://www.pops4.com/boards/company/PTC",
    "label": "Company card",
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Scored",
-   "text": "Azenta filed $622M in revenue, inside the 80% range sealed before the answer: $528M to $678M.",
-   "url": "https://www.pops4.com/boards/company/AZTA",
+   "text": "i3 Verticals filed $219M in revenue, inside the 80% range sealed before the answer: $188M to $271M.",
+   "url": "https://www.pops4.com/boards/company/IIIV",
    "label": "Company card",
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Scored",
-   "text": "Helmerich & Payne filed $4.1B in revenue, inside the 80% range sealed before the answer: $3.6B to $6.2B.",
-   "url": "https://www.pops4.com/boards/company/HP",
+   "text": "Post Holdings filed $8.1B in revenue, inside the 80% range sealed before the answer: $7.7B to $9.5B.",
+   "url": "https://www.pops4.com/boards/company/POST",
    "label": "Company card",
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-23"
   },
   {
    "kind": "Brand Wars",
@@ -1545,7 +1608,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-20T21:11:07.294Z",
+ "updated": "2026-11-24T00:57:10.150Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }

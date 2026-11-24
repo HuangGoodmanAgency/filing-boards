@@ -2,7 +2,7 @@
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "generated": "2026-11-20T21:11:02.555Z",
+ "generated": "2026-11-23T12:00:27.512Z",
  "swept": 14863,
  "fields": "https://www.pops4.com/boards/fields.json",
  "trackers": [
@@ -20,7 +20,7 @@
    "sub": "SEC filings · AI agents that shop, buy, order, pay, procure or transact on someone’s behalf · the filer’s own sentence",
    "line": "AI visibility briefing",
    "scope": "SEC full-text search · agents that shop, buy, pay and procure",
-   "rows": 241
+   "rows": 245
   },
   {
    "key": "subsea-data",
@@ -28,7 +28,7 @@
    "sub": "SEC filings · undersea cables, cable landings, offshore wind for data centres, ocean cooling · the filer’s own sentence",
    "line": "infrastructure briefing",
    "scope": "SEC full-text search · cables, landings, ocean cooling",
-   "rows": 50
+   "rows": 51
   },
   {
    "key": "cyber-disclosures",

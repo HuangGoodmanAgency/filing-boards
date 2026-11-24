@@ -1,22 +1,22 @@
 {
  "question": "Which public companies reported restructuring costs this week?",
- "answer": "2 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 17 Nov 2026, including Ecolab (ECL), Cardlytics (CDLX). The board holds 55, each linked to SEC EDGAR.",
- "as_of": "2026-11-20",
- "newest_filing": "2026-11-17",
+ "answer": "2 companies filed SEC 8-K Item 2.05 (costs of an exit or disposal) in the last 7 days, newest 20 Nov 2026, including Enphase Energy (ENPH), Ecolab (ECL). The board holds 56, each linked to SEC EDGAR.",
+ "as_of": "2026-11-24",
+ "newest_filing": "2026-11-20",
  "last_7_days": 2,
  "how": "Built from the rows on this board only: company names, filing dates and counts from SEC EDGAR. Nothing written or inferred.",
  "source": "SEC EDGAR",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Free to use with credit to POPS4.",
- "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-20, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
+ "cite": "POPS4, Edgar & Edgarette: Restructuring (SEC 8-K Item 2.05 · costs associated with exit or disposal), accessed 2026-11-24, https://www.pops4.com/boards/restructuring. CC BY 4.0. For a row, add its source URL: the filing is the fact.",
  "doi": "https://doi.org/10.5281/zenodo.23672509",
  "catalog": "https://www.pops4.com/boards/catalog.json",
- "generated": "2026-11-20T21:10:40.243Z",
+ "generated": "2026-11-24T00:56:34.145Z",
  "tracker": "restructuring",
- "total": 55,
- "returned": 50,
+ "total": 56,
+ "returned": 51,
  "truncated": true,
- "more": "?limit=55",
+ "more": "?limit=56",
  "fields": {
   "id": {
    "from": "EDGAR accession number — the filing's own primary key."
@@ -98,6 +98,34 @@
   }
  },
  "rows": [
+  {
+   "id": "0001463101-26-000112",
+   "company": "Enphase Energy, Inc.",
+   "cik": "1463101",
+   "form": "8-K",
+   "items": [
+    "2.05",
+    "7.01"
+   ],
+   "ticker": "ENPH",
+   "exchange": "Nasdaq",
+   "sector": "Semiconductors & Related Devices",
+   "filerCategory": "Large accelerated filer",
+   "revenue": 1472985000,
+   "revenueFY": "2025",
+   "city": "FREMONT",
+   "hq": "CA",
+   "formerName": null,
+   "event": "2026-11-20",
+   "quote": "The impact on the U.S. residential solar industry has been substantial.",
+   "sic": "3674",
+   "state": "DE",
+   "filed": "2026-11-20",
+   "lane": null,
+   "deadline": null,
+   "source": "https://www.sec.gov/Archives/edgar/data/1463101/000146310126000112/0001463101-26-000112-index.htm",
+   "profile": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1463101&type=8-K&dateb=&owner=include&count=40"
+  },
   {
    "id": "0001628280-26-074572",
    "company": "ECOLAB INC.",
