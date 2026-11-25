@@ -256,17 +256,17 @@
   },
   {
    "kind": "Just filed",
-   "text": "Vireo Growth filed a completed deal or change of control on 16 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926128260/0001104659-26-128260-index.htm",
+   "text": "Viatris filed a completed deal or change of control on 17 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-17"
   },
   {
    "kind": "Just filed",
-   "text": "Aon filed a completed deal or change of control on 16 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/0001193125-26-463733-index.htm",
+   "text": "Maximus filed a completed deal or change of control on 19 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000052/0001032220-26-000052-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-19"
   },
   {
    "kind": "Just filed",
@@ -284,13 +284,6 @@
   },
   {
    "kind": "Just filed",
-   "text": "Cardlytics filed restructuring or exit costs on 16 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1666071/000162828026074161/0001628280-26-074161-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-16"
-  },
-  {
-   "kind": "Just filed",
    "text": "SurgePays filed an auditor change on 17 Nov 2026.",
    "url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226052894/0001493152-26-052894-index.htm",
    "label": "The filing",
@@ -305,10 +298,10 @@
   },
   {
    "kind": "Just filed",
-   "text": "Century Casinos filed an auditor change on 16 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000055/0000911147-26-000055-index.htm",
+   "text": "Indivior Pharmaceuticals filed an auditor change on 24 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1625297/000162529726000036/0001625297-26-000036-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-16"
+   "as_of": "2026-11-24"
   },
   {
    "kind": "Just filed",
@@ -319,73 +312,73 @@
   },
   {
    "kind": "Just filed",
-   "text": "Tyson Foods filed an officer or director change on 20 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm",
+   "text": "Capstone Energy Plus filed an officer or director change on 23 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926130881/0001104659-26-130881-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-20"
-  },
-  {
-   "kind": "Just filed",
-   "text": "American Airlines filed an officer or director change on 20 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-20"
-  },
-  {
-   "kind": "Just filed",
-   "text": "PayPal filed an officer or director change on 20 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-20"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Westinghouse Air Brake Technologies filed an officer or director change on 20 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126045007/0001140361-26-045007-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-20"
-  },
-  {
-   "kind": "Scored",
-   "text": "Amentum Holdings filed $13.8B in revenue, outside the 80% range sealed before the answer: $15.8B to $26.3B.",
-   "url": "https://www.pops4.com/boards/company/AMTM",
-   "label": "Company card",
-   "as_of": "2026-11-24"
-  },
-  {
-   "kind": "Scored",
-   "text": "Aramark filed $20.1B in revenue, inside the 80% range sealed before the answer: $18.0B to $21.0B.",
-   "url": "https://www.pops4.com/boards/company/ARMK",
-   "label": "Company card",
-   "as_of": "2026-11-24"
-  },
-  {
-   "kind": "Scored",
-   "text": "Cencora filed $337.4B in revenue, inside the 80% range sealed before the answer: $320.2B to $364.7B.",
-   "url": "https://www.pops4.com/boards/company/COR",
-   "label": "Company card",
-   "as_of": "2026-11-24"
-  },
-  {
-   "kind": "Scored",
-   "text": "Scotts Miracle-Gro filed $3.3B in revenue, inside the 80% range sealed before the answer: $2.8B to $3.7B.",
-   "url": "https://www.pops4.com/boards/company/SMG",
-   "label": "Company card",
-   "as_of": "2026-11-24"
-  },
-  {
-   "kind": "Scored",
-   "text": "Alico filed $18M in revenue, outside the 80% range sealed before the answer: $19M to $73M.",
-   "url": "https://www.pops4.com/boards/company/ALCO",
-   "label": "Company card",
-   "as_of": "2026-11-24"
-  },
-  {
-   "kind": "Scored",
-   "text": "Varex Imaging filed $856M in revenue, inside the 80% range sealed before the answer: $730M to $973M.",
-   "url": "https://www.pops4.com/boards/company/VREX",
-   "label": "Company card",
    "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Covenant Logistics filed an officer or director change on 23 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000252/0001008886-26-000252-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Bristol Myers Squibb filed an officer or director change on 23 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/0001140361-26-045300-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Visa filed an officer or director change on 23 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/0001403161-26-000143-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-23"
+  },
+  {
+   "kind": "Scored",
+   "text": "Central Garden & Pet filed $2.9B in revenue, inside the 80% range sealed before the answer: $2.7B to $3.3B.",
+   "url": "https://www.pops4.com/boards/company/CENT",
+   "label": "Company card",
+   "as_of": "2026-11-25"
+  },
+  {
+   "kind": "Scored",
+   "text": "Suburban Propane Partners filed $1.4B in revenue, inside the 80% range sealed before the answer: $1.3B to $1.7B.",
+   "url": "https://www.pops4.com/boards/company/SPH",
+   "label": "Company card",
+   "as_of": "2026-11-25"
+  },
+  {
+   "kind": "Scored",
+   "text": "Capitol Federal Financial filed $16M in revenue, inside the 80% range sealed before the answer: $11M to $24M.",
+   "url": "https://www.pops4.com/boards/company/CFFN",
+   "label": "Company card",
+   "as_of": "2026-11-25"
+  },
+  {
+   "kind": "Scored",
+   "text": "Compass Minerals International filed $1.3B in revenue, inside the 80% range sealed before the answer: $1.1B to $1.5B.",
+   "url": "https://www.pops4.com/boards/company/CMP",
+   "label": "Company card",
+   "as_of": "2026-11-25"
+  },
+  {
+   "kind": "Scored",
+   "text": "Lexaria Bioscience filed $0M in revenue, outside the 80% range sealed before the answer: $0M to $3M.",
+   "url": "https://www.pops4.com/boards/company/LEXX",
+   "label": "Company card",
+   "as_of": "2026-11-25"
+  },
+  {
+   "kind": "Scored",
+   "text": "Becton, Dickinson And filed $19.5B in revenue, outside the 80% range sealed before the answer: $20.9B to $24.3B.",
+   "url": "https://www.pops4.com/boards/company/BDX",
+   "label": "Company card",
+   "as_of": "2026-11-25"
   },
   {
    "kind": "Brand Wars",
@@ -1699,7 +1692,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-24T23:02:38.034Z",
+ "updated": "2026-11-25T22:35:19.152Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
