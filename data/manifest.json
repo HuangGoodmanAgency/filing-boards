@@ -15,6 +15,27 @@
   "ai": "https://www.pops4.com/boards/llms.txt",
   "fieldDictionary": "https://www.pops4.com/boards/fields.json"
  },
+ "researchDesks": {
+  "workFloor": {
+   "page": "https://www.pops4.com/boards/work",
+   "perCompany": "https://www.pops4.com/boards/work/{ticker}",
+   "json": "https://www.pops4.com/boards/work/{ticker}.json",
+   "mcp": "get_debt_terms"
+  },
+  "priceOfWallStreet": {
+   "page": "https://www.pops4.com/boards/fees",
+   "json": "https://www.pops4.com/boards/fees.json",
+   "advisers": "https://www.pops4.com/boards/fees/advisers",
+   "adviserJson": "https://www.pops4.com/boards/fees/{adviser}.json",
+   "history": "https://www.pops4.com/boards/fees/history",
+   "historyJson": "https://www.pops4.com/boards/fees-history.json",
+   "reconstructed": "https://www.pops4.com/boards/fees/reconstructed",
+   "mcp": [
+    "get_wall_street_fees",
+    "get_bank_reconstruction"
+   ]
+  }
+ },
  "mcp": [
   {
    "name": "Edgar & Edgarette — SEC filing boards",

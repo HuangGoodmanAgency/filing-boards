@@ -4,6 +4,34 @@
  "facts": [
   {
    "kind": "Receipts",
+   "text": "Bristol Myers Squibb's CFO is stepping down. Here is the one year its debt jumped.",
+   "url": "https://www.pops4.com/boards/company/BMY",
+   "label": "See the receipts",
+   "as_of": "2026-11-26"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Victoria's Secret's board chair is retiring. Here is what happened to its margin.",
+   "url": "https://www.pops4.com/boards/company/VSXY",
+   "label": "See the receipts",
+   "as_of": "2026-11-26"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Five9 just bought Level AI. Four years ago it had negative free cash flow.",
+   "url": "https://www.pops4.com/boards/company/FIVN",
+   "label": "See the receipts",
+   "as_of": "2026-11-26"
+  },
+  {
+   "kind": "Receipts",
+   "text": "Ultragenyx closed a deal after burning $466 million. Here is the twist in its numbers.",
+   "url": "https://www.pops4.com/boards/company/RARE",
+   "label": "See the receipts",
+   "as_of": "2026-11-26"
+  },
+  {
+   "kind": "Receipts",
    "text": "Utz Brands just went private at a ninety-one percent premium. Here is the cash catch.",
    "url": "https://www.pops4.com/boards/company/UTZ",
    "label": "See the receipts",
@@ -143,32 +171,46 @@
    "as_of": "2026-11-20"
   },
   {
-   "kind": "Receipts",
-   "text": "Jack in the Box's finance chief will step down. Here is the margin that melted.",
-   "url": "https://www.pops4.com/boards/company/JACK",
-   "label": "See the receipts",
-   "as_of": "2026-11-20"
+   "kind": "Why sales moved",
+   "text": "AEC subscriptions led a 17% revenue rise to $2.2B, with MaintainX lifting Other products 35%",
+   "url": "https://www.pops4.com/boards/company/ADSK",
+   "label": "See why sales moved",
+   "as_of": "2026-11-25"
   },
   {
-   "kind": "Receipts",
-   "text": "Integer Holdings was bought for $127 a share in cash. Here is how it got there.",
-   "url": "https://www.pops4.com/boards/company/ITGR",
-   "label": "See the receipts",
-   "as_of": "2026-11-20"
+   "kind": "Why sales moved",
+   "text": "Acquired businesses drove most of Lowe's 9.3% sales rise; comparable sales grew a modest 1.8%.",
+   "url": "https://www.pops4.com/boards/company/LOW",
+   "label": "See why sales moved",
+   "as_of": "2026-11-25"
   },
   {
-   "kind": "Receipts",
-   "text": "JPMorgan just named a new finance chief for a $5.1 trillion bank. Here is the cash line to watch.",
-   "url": "https://www.pops4.com/boards/company/JPM",
-   "label": "See the receipts",
-   "as_of": "2026-11-19"
+   "kind": "Why sales moved",
+   "text": "Target sales rose 7.1% as more shoppers came in; traffic up 5.0% drove most of the 5.6% comp gain",
+   "url": "https://www.pops4.com/boards/company/TGT",
+   "label": "See why sales moved",
+   "as_of": "2026-11-25"
   },
   {
-   "kind": "Receipts",
-   "text": "81% of Take-Two's quarter came after players bought the game. And the game's whole design fits in six words.",
-   "url": "https://www.pops4.com/boards/company/TTWO",
-   "label": "See the receipts",
-   "as_of": "2026-11-19"
+   "kind": "Why sales moved",
+   "text": "All four segments grew, Interventional fastest; revenue rose 4.9%, with 1.0% of that from currency",
+   "url": "https://www.pops4.com/boards/company/BDX",
+   "label": "See why sales moved",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "GLP-1 drug sales, up $8.0B, drove most of Cencora's 5.0% revenue rise to $337.4B",
+   "url": "https://www.pops4.com/boards/company/COR",
+   "label": "See why sales moved",
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Why sales moved",
+   "text": "Net revenues rose 12% as fee and brokerage income grew while interest income barely moved",
+   "url": "https://www.pops4.com/boards/company/RJF",
+   "label": "See why sales moved",
+   "as_of": "2026-11-24"
   },
   {
    "kind": "Why sales moved",
@@ -213,60 +255,25 @@
    "as_of": "2026-11-19"
   },
   {
-   "kind": "Why sales moved",
-   "text": "Revenues fell 4% as fewer homes closed at lower prices and rental property sales dropped sharply",
-   "url": "https://www.pops4.com/boards/company/DHI",
-   "label": "See why sales moved",
-   "as_of": "2026-11-18"
-  },
-  {
-   "kind": "Why sales moved",
-   "text": "Hardware systems drove F5's 10.6% revenue rise, on stronger demand and price increases, per management",
-   "url": "https://www.pops4.com/boards/company/FFIV",
-   "label": "See why sales moved",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Why sales moved",
-   "text": "Sales fell 2.3% as volume dropped and low-margin non-branded items were cut; price added 2.9%.",
-   "url": "https://www.pops4.com/boards/company/UTZ",
-   "label": "See why sales moved",
-   "as_of": "2026-11-06"
-  },
-  {
-   "kind": "Why sales moved",
-   "text": "US revenue fell 33% as a home-solar tax credit ended; battery and microinverter volumes dropped",
-   "url": "https://www.pops4.com/boards/company/ENPH",
-   "label": "See why sales moved",
-   "as_of": "2026-10-27"
-  },
-  {
-   "kind": "Why sales moved",
-   "text": "Fewer barrels shipped, led by Twisted Tea and Truly, outweighed higher prices and a richer mix",
-   "url": "https://www.pops4.com/boards/company/SAM",
-   "label": "See why sales moved",
-   "as_of": "2026-10-22"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Integer filed a completed deal or change of control on 17 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326017597/0000950103-26-017597-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Viatris filed a completed deal or change of control on 17 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-17"
-  },
-  {
    "kind": "Just filed",
    "text": "Maximus filed a completed deal or change of control on 19 Nov 2026.",
    "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000052/0001032220-26-000052-index.htm",
    "label": "The filing",
    "as_of": "2026-11-19"
+  },
+  {
+   "kind": "Just filed",
+   "text": "GEO filed a completed deal or change of control on 19 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526468605/0001193125-26-468605-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-19"
+  },
+  {
+   "kind": "Just filed",
+   "text": "Utz Brands filed a completed deal or change of control on 20 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526470261/0001193125-26-470261-index.htm",
+   "label": "The filing",
+   "as_of": "2026-11-20"
   },
   {
    "kind": "Just filed",
@@ -277,27 +284,6 @@
   },
   {
    "kind": "Just filed",
-   "text": "Ecolab filed restructuring or exit costs on 17 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/31462/000162828026074572/0001628280-26-074572-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Just filed",
-   "text": "SurgePays filed an auditor change on 17 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226052894/0001493152-26-052894-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Just filed",
-   "text": "Scilex filed an auditor change on 17 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526465507/0001193125-26-465507-index.htm",
-   "label": "The filing",
-   "as_of": "2026-11-17"
-  },
-  {
-   "kind": "Just filed",
    "text": "Indivior Pharmaceuticals filed an auditor change on 24 Nov 2026.",
    "url": "https://www.sec.gov/Archives/edgar/data/1625297/000162529726000036/0001625297-26-000036-index.htm",
    "label": "The filing",
@@ -305,38 +291,52 @@
   },
   {
    "kind": "Just filed",
-   "text": "Nvidia filed an officer or director change on 23 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/0001045810-26-000090-index.htm",
+   "text": "Qualcomm filed an officer or director change on 24 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
   },
   {
    "kind": "Just filed",
-   "text": "Capstone Energy Plus filed an officer or director change on 23 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926130881/0001104659-26-130881-index.htm",
+   "text": "Mondelez International filed an officer or director change on 25 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026075952/0001628280-26-075952-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-25"
   },
   {
    "kind": "Just filed",
-   "text": "Covenant Logistics filed an officer or director change on 23 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000252/0001008886-26-000252-index.htm",
+   "text": "International Paper filed an officer or director change on 25 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/51434/000162828026075971/0001628280-26-075971-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-25"
   },
   {
    "kind": "Just filed",
-   "text": "Bristol Myers Squibb filed an officer or director change on 23 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/0001140361-26-045300-index.htm",
+   "text": "MPLX filed an officer or director change on 25 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1552000/000155200026000051/0001552000-26-000051-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-25"
   },
   {
    "kind": "Just filed",
-   "text": "Visa filed an officer or director change on 23 Nov 2026.",
-   "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/0001403161-26-000143-index.htm",
+   "text": "Victoria's Secret filed an officer or director change on 24 Nov 2026.",
+   "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643726000026/0001856437-26-000026-index.htm",
    "label": "The filing",
-   "as_of": "2026-11-23"
+   "as_of": "2026-11-24"
+  },
+  {
+   "kind": "Scored",
+   "text": "Ingles Markets filed $5.4B in revenue, inside the 80% range sealed before the answer: $4.4B to $5.7B.",
+   "url": "https://www.pops4.com/boards/company/IMKTA",
+   "label": "Company card",
+   "as_of": "2026-11-26"
+  },
+  {
+   "kind": "Scored",
+   "text": "J&J Snack Foods filed $1.5B in revenue, inside the 80% range sealed before the answer: $1.4B to $1.8B.",
+   "url": "https://www.pops4.com/boards/company/JJSF",
+   "label": "Company card",
+   "as_of": "2026-11-26"
   },
   {
    "kind": "Scored",
@@ -363,20 +363,6 @@
    "kind": "Scored",
    "text": "Compass Minerals International filed $1.3B in revenue, inside the 80% range sealed before the answer: $1.1B to $1.5B.",
    "url": "https://www.pops4.com/boards/company/CMP",
-   "label": "Company card",
-   "as_of": "2026-11-25"
-  },
-  {
-   "kind": "Scored",
-   "text": "Lexaria Bioscience filed $0M in revenue, outside the 80% range sealed before the answer: $0M to $3M.",
-   "url": "https://www.pops4.com/boards/company/LEXX",
-   "label": "Company card",
-   "as_of": "2026-11-25"
-  },
-  {
-   "kind": "Scored",
-   "text": "Becton, Dickinson And filed $19.5B in revenue, outside the 80% range sealed before the answer: $20.9B to $24.3B.",
-   "url": "https://www.pops4.com/boards/company/BDX",
    "label": "Company card",
    "as_of": "2026-11-25"
   },
@@ -1692,7 +1678,7 @@
    "page": "https://www.pops4.com/boards/pour/roblox-youthrelated-is-new-in-this-years-annual-report-82bf5"
   }
  ],
- "updated": "2026-11-25T22:35:19.152Z",
+ "updated": "2026-11-26T22:23:16.262Z",
  "refreshes": "Five times a day, as the boards read new SEC filings.",
  "disclaimer": "Data & Disclosure Notice: Edgar and Edgarette are automated software. Every figure on this page is calculated by software from public filings made by companies and funds with the U.S. Securities and Exchange Commission (EDGAR) and is published without individual human review. The accuracy and completeness of those filings are the responsibility of the filers; reports can contain errors and can be amended. Figures are shown as filed and as of each filing's date, and this page may be corrected or updated without notice. Ranges, expected returns, rankings, boats and other measures are statistical descriptions of past filings, not ratings, price forecasts, company guidance or recommendations; past results do not guarantee future results. This is general information published for all readers, not advice tailored to any person's portfolio, needs or circumstances, and nothing here is financial, investment, actuarial, legal, tax or other professional advice. Actuaries and other professionals who use these figures remain responsible for reviewing them for reasonableness and consistency against the original filings and for disclosing their reliance on them. No company, fund or reinsurer pays to be included or ranked. Provided as is, without warranty of any kind. Not affiliated with or endorsed by the SEC or by any company, fund or reinsurer named. All trademarks remain the property of their owners."
 }
