@@ -1,0 +1,22 @@
+# Publish this repository's server.json to the official MCP Registry (registry.modelcontextprotocol.io).
+# Runs only when started by hand (Actions tab -> "Publish to MCP Registry" -> Run workflow, or `gh workflow run`).
+# Signs in with GitHub's own OIDC identity for this repository: no password, token or code is stored anywhere.
+name: Publish to MCP Registry
+on:
+  workflow_dispatch:
+permissions:
+  id-token: write
+  contents: read
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install mcp-publisher
+        run: curl -sSL "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_linux_amd64.tar.gz" | tar xz mcp-publisher
+      - name: Check server.json
+        run: cat server.json
+      - name: Sign in (GitHub OIDC)
+        run: ./mcp-publisher login github-oidc
+      - name: Publish
+        run: ./mcp-publisher publish
