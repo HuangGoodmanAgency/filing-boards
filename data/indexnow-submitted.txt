@@ -7,6 +7,7 @@ https://www.pops4.com/boards/agreements
 https://www.pops4.com/boards/agreements.csv
 https://www.pops4.com/boards/agreements.json
 https://www.pops4.com/boards/ai
+https://www.pops4.com/boards/ai/money
 https://www.pops4.com/boards/annual-meetings
 https://www.pops4.com/boards/annual-meetings.csv
 https://www.pops4.com/boards/annual-meetings.json
@@ -3851,6 +3852,7 @@ https://www.pops4.com/boards/company/98222
 https://www.pops4.com/boards/company/99302
 https://www.pops4.com/boards/company/99614
 https://www.pops4.com/boards/company/99780
+https://www.pops4.com/boards/countries
 https://www.pops4.com/boards/cyber-disclosures
 https://www.pops4.com/boards/cyber-disclosures.csv
 https://www.pops4.com/boards/cyber-disclosures.json
@@ -3872,6 +3874,7 @@ https://www.pops4.com/boards/etf/XLRE
 https://www.pops4.com/boards/etf/XLU
 https://www.pops4.com/boards/etf/XLV
 https://www.pops4.com/boards/etf/XLY
+https://www.pops4.com/boards/exam
 https://www.pops4.com/boards/fees
 https://www.pops4.com/boards/fees/advisers
 https://www.pops4.com/boards/fees/allen-and-company
@@ -3919,6 +3922,7 @@ https://www.pops4.com/boards/fees/roth-capital
 https://www.pops4.com/boards/fees/rothschild
 https://www.pops4.com/boards/fees/stephens
 https://www.pops4.com/boards/fees/td-cowen
+https://www.pops4.com/boards/fees/terms
 https://www.pops4.com/boards/fees/truist-securities
 https://www.pops4.com/boards/fees/ubs
 https://www.pops4.com/boards/fees/wells-fargo-securities
@@ -3931,6 +3935,7 @@ https://www.pops4.com/boards/mergers
 https://www.pops4.com/boards/mergers.csv
 https://www.pops4.com/boards/mergers.json
 https://www.pops4.com/boards/method
+https://www.pops4.com/boards/now
 https://www.pops4.com/boards/portfolio
 https://www.pops4.com/boards/pour
 https://www.pops4.com/boards/pour/05-of-the-annual-reports-we-read-mention-trading-97bec
